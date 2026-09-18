@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-18T12:16:48-06:00",
+ "generatedAt": "2026-09-18T14:49:57-06:00",
  "window": {
   "from": "2026-09-11",
   "to": "2026-11-17"
@@ -204,6 +204,30 @@
     "address": "In front of the Renfrew Community Association"
    },
    "description": "Community mural painting on the street surface \u2014 drop in and help."
+  },
+  {
+   "id": "web:bridgeland-mainstreet-celebration-0919",
+   "title": "Bridgeland Main Street Community Celebration",
+   "start": "2026-09-19T11:00:00-06:00",
+   "end": "2026-09-19T15:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "civic",
+   "status": "upcoming",
+   "cost": "Free",
+   "venue": {
+    "name": "La Piazza",
+    "address": "945 General Ave NE, Calgary"
+   },
+   "description": "Free community celebration marking the end of the Bridgeland Main Street construction \u2014 recognizing the residents, businesses and visitors who lived through it. Live music, local giveaways, face painting, family-friendly games, food and more. Open to everyone. Hosted by The City of Calgary Main Streets program; also posted by the BRCA page. Details: calgary.ca/planning/projects/bridgeland-main-street.html",
+   "source": {
+    "kind": "community-site",
+    "name": "City of Calgary \u2014 Main Streets Bridgeland",
+    "url": "https://www.calgary.ca/planning/projects/bridgeland-main-street.html"
+   },
+   "firstSeen": "2026-09-18T14:49:53-06:00",
+   "lastSeen": "2026-09-18T14:49:57-06:00"
   },
   {
    "id": "web:brca-walkgroup-0922",
