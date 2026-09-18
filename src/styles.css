@@ -175,6 +175,7 @@ aside { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
   padding: 2px 9px; min-width: 0; width: 100%;
   container-type: inline-size;
 }
+.cal .fc .fc-list-event-title .ev-pill { padding: 0; gap: 0; }
 .cal .fc .fc-daygrid-event .ev-pill .t {
   flex: 0 0 auto; color: rgba(6, 18, 28, 0.74); font-variant-numeric: tabular-nums; font-size: 10.5px;
 }
@@ -245,9 +246,14 @@ footer b { color: var(--muted); font-weight: 600; margin-right: 6px; }
   /* filter rows become swipeable strips */
   .filters { flex-direction: column; align-items: stretch; gap: 4px; padding: 9px 11px 7px; border-radius: 13px; }
   .group, .group.right {
+    /* width:100% + min-width:0 is load-bearing: without it the nowrap chip row
+       sizes to its content and pushes the whole page wider than the phone. */
+    width: 100%; min-width: 0; max-width: 100%;
     margin-left: 0; padding: 0 0 4px; border-right: 0;
     flex-wrap: nowrap; overflow-x: auto; overflow-y: hidden;
     scrollbar-width: none; -webkit-overflow-scrolling: touch;
+    /* pinned to the right edge so the strip reads as swipeable */
+    mask-image: linear-gradient(to right, #000 calc(100% - 26px), transparent);
   }
   .group::-webkit-scrollbar { display: none; }
   .lab { position: sticky; left: 0; z-index: 1; flex: 0 0 auto; background: var(--panel); padding: 7px 8px 7px 0; }

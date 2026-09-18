@@ -56,9 +56,11 @@ export default function CalendarView({ events, onSelect }: Props) {
         eventClick={(arg: EventClickArg) => onSelect(arg.event.extendedProps.event as CalEvent)}
         eventContent={(arg: EventContentArg) => {
           const e = arg.event.extendedProps.event as CalEvent
+          // Agenda rows already have a "3pm - 7pm" time column; don't repeat it inside the pill.
+          const showTime = !arg.event.allDay && !arg.view.type.startsWith('list')
           return (
             <div className="ev-pill">
-              {!arg.event.allDay && <span className="t">{fmtTime(e.start)}</span>}
+              {showTime && <span className="t">{fmtTime(e.start)}</span>}
               <span className="n">{e.title}</span>
             </div>
           )

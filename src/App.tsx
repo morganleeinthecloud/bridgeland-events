@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import CalendarView from './CalendarView'
+import { useIsPhone } from './useMediaQuery'
 import EventDetail from './EventDetail'
 import {
   AREA_COLOR,
@@ -51,6 +52,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null)
   const [filters, setFilters] = useState<Filters>(initialFilters)
   const [selected, setSelected] = useState<CalEvent | null>(null)
+  const isPhone = useIsPhone()
   const [theme, setTheme] = useState<'dark' | 'light'>(
     () => (localStorage.getItem('theme') as 'dark' | 'light') ?? 'dark',
   )
@@ -107,7 +109,7 @@ export default function App() {
             type="search"
             value={filters.query}
             onChange={(e) => set('query', e.target.value)}
-            placeholder="Search events, venues, hosts…"
+            placeholder={isPhone ? 'Search events…' : 'Search events, venues, hosts…'}
             aria-label="Search events"
           />
           <a className="btn" href="./bridgeland.ics">
