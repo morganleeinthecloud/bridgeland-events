@@ -32,6 +32,7 @@ export default function CalendarView({ events, onSelect }: Props) {
         initialView="dayGridMonth"
         headerToolbar={{ left: 'title', center: 'dayGridMonth,timeGridWeek,listWeek', right: 'today prev,next' }}
         buttonText={{ today: 'Today', month: 'Month', week: 'Week', list: 'Agenda' }}
+        locale="en"
         firstDay={0}
         weekNumbers={false}
         dayMaxEvents={3}
@@ -43,6 +44,7 @@ export default function CalendarView({ events, onSelect }: Props) {
         events={fcEvents}
         eventDisplay="block"
         eventTimeFormat={{ hour: 'numeric', minute: '2-digit', omitZeroMinute: true, meridiem: 'short' }}
+        eventTimeClassNames="ev-time"
         eventClick={(arg: EventClickArg) => onSelect(arg.event.extendedProps.event as CalEvent)}
         eventContent={(arg: EventContentArg) => {
           const e = arg.event.extendedProps.event as CalEvent

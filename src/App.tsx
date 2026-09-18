@@ -71,6 +71,8 @@ export default function App() {
   const weekend = useMemo(() => thisWeekend(visible), [visible])
 
   const set = <K extends keyof Filters>(key: K, value: Filters[K]) => setFilters((f) => ({ ...f, [key]: value }))
+  const toggleIn = <K extends 'areas' | 'categories' | 'sources'>(key: K, value: Filters[K] extends Set<infer T> ? T : never) =>
+    setFilters((f) => ({ ...f, [key]: toggle(f[key] as Set<typeof value>, value) as Filters[K] }))
 
   if (error) {
     return (
@@ -124,7 +126,7 @@ export default function App() {
             <button
               key={a}
               className={'chip' + (filters.areas.has(a) ? ' on' : '')}
-              onClick={() => set('areas', toggle(filters.areas, a))}
+              onClick={() => toggleIn('areas', a)}
             >
               <span className="dot" style={{ background: AREA_COLOR[a] }} />
               {AREA_LABEL[a].replace('Bridgeland/', '')}
@@ -137,7 +139,7 @@ export default function App() {
             <button
               key={c}
               className={'chip' + (filters.categories.has(c) ? ' on' : '')}
-              onClick={() => set('categories', toggle(filters.categories, c))}
+              onClick={() => toggleIn('categories', c)}
             >
               {CATEGORY_LABEL[c]}
             </button>
@@ -149,7 +151,7 @@ export default function App() {
             <button
               key={s}
               className={'chip' + (filters.sources.has(s) ? ' on' : '')}
-              onClick={() => set('sources', toggle(filters.sources, s))}
+              onClick={() => toggleIn('sources', s)}
             >
               {SOURCE_LABEL[s]}
             </button>
@@ -158,18 +160,18 @@ export default function App() {
         <div className="group">
           <button
             className={'chip' + (filters.newOnly ? ' on' : '')}
-            onClick={() => set('newOnly', !filters.newOnly)}
+            onClick={() => setFilters((f) => ({ ...f, newOnly: !f.newOnly }))}
           >
             <span className="dot" style={{ background: '#7ef0a6' }} />
             New only
           </button>
           <button
             className={'chip' + (filters.recurringOnly ? ' on' : '')}
-            onClick={() => set('recurringOnly', !filters.recurringOnly)}
+            onClick={() => setFilters((f) => ({ ...f, recurringOnly: !f.recurringOnly }))}
           >
             Recurring
           </button>
-          <button className={'chip' + (filters.freeOnly ? ' on' : '')} onClick={() => set('freeOnly', !filters.freeOnly)}>
+          <button className={'chip' + (filters.freeOnly ? ' on' : '')} onClick={() => setFilters((f) => ({ ...f, freeOnly: !f.freeOnly }))}>
             Free
           </button>
         </div>
