@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-18T10:13:20-06:00",
+ "generatedAt": "2026-09-18T12:16:46-06:00",
  "window": {
   "from": "2026-09-11",
   "to": "2026-11-17"
@@ -429,6 +429,29 @@
    },
    "cost": "Registration required",
    "description": "Beading workshop with instructors from Cowessess First Nation."
+  },
+  {
+   "id": "web:state-file-test-2026-10-05",
+   "title": "STATE FILE TEST",
+   "start": "2026-10-05T18:00:00-06:00",
+   "end": "2026-10-05T19:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "civic",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland Love",
+    "url": "https://www.facebook.com/groups/1842625652616063/"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T12:16:46-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Annie Gale Park",
+    "address": "Foot of the 7A St stairway, north of McDougall Rd"
+   },
+   "description": "Speeches, cake and refreshments to mark the new park plaque."
   },
   {
    "id": "gc:4251",
