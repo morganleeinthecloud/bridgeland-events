@@ -9,8 +9,8 @@ community sources and republished daily.
 
 ```
 Hermes cron job (08:00 MT)           ->  scans 8 sources, writes a digest + a JSON block
-  ~/.hermes/scripts/publish_events.py ->  merges the JSON into public/data/events.json,
-                                           prunes to [-7 days, +60 days], regenerates the .ics,
+  publish pipeline (private repo)     ->  merges the JSON into public/data/events.json, applies
+                                           retention (see Data below), regenerates the .ics,
                                            commits and pushes (no LLM cost)
 GitHub Actions                       ->  builds Vite/React and deploys to GitHub Pages
 ```
