@@ -1,6 +1,7 @@
 {
  "version": 1,
- "generatedAt": "2026-09-18T15:57:41-06:00",
+ "generatedAt": "2026-09-18T16:11:26-06:00",
+ "scannedAt": "2026-09-18T16:11:26-06:00",
  "window": {
   "from": "2026-09-17",
   "to": "2026-11-13"
@@ -227,7 +228,7 @@
     "url": "https://www.facebook.com/BRCACalgary/"
    },
    "firstSeen": "2026-09-18T14:49:53-06:00",
-   "lastSeen": "2026-09-18T15:57:41-06:00"
+   "lastSeen": "2026-09-18T16:11:26-06:00"
   },
   {
    "id": "web:brca-walkgroup-0922",
