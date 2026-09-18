@@ -44,7 +44,6 @@ export default function CalendarView({ events, onSelect }: Props) {
         events={fcEvents}
         eventDisplay="block"
         eventTimeFormat={{ hour: 'numeric', minute: '2-digit', omitZeroMinute: true, meridiem: 'short' }}
-        eventTimeClassNames="ev-time"
         eventClick={(arg: EventClickArg) => onSelect(arg.event.extendedProps.event as CalEvent)}
         eventContent={(arg: EventContentArg) => {
           const e = arg.event.extendedProps.event as CalEvent
