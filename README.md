@@ -22,8 +22,10 @@ Sources: Bridgeland Love (FB group), Bridgeland/Riverside (FB group), BRCA and R
 
 `public/data/events.json` — one windowed file, rewritten daily. Every event carries a stable id
 (`fb:<group>:<post>`, `gc:<program>`, `cal:<uid>`, `web:<slug>`), so history survives rewrites;
-git history is the audit trail of what changed and when. Nothing older than 7 days, or further out
-than 60 days, is kept in the payload.
+git history is the audit trail of what changed and when. Retention: an event is kept until its date passes — a long-lead
+announcement picked up months early stays in the payload — and drops out a week after it is over.
+The 60-day figure in the header is only the nominal display window. Anything pruned is archived by
+month under `data/archive/`, so nothing is ever deleted silently.
 
 `public/bridgeland.ics` — the same window as a calendar feed. Subscribe to it from any phone or
 desktop calendar app.
