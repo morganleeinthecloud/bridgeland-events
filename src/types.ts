@@ -48,6 +48,9 @@ export interface CalEvent {
 
 export interface Dataset {
   version: number
+  /** When the source scan last ran successfully (what the header badge reports). */
+  scannedAt?: string
+  /** When the payload contents last actually changed. */
   generatedAt: string
   window: { from: string; to: string }
   counts?: Record<string, number>

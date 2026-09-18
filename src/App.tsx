@@ -103,7 +103,9 @@ export default function App() {
     return () => window.clearInterval(id)
   }, [])
 
-  const stale = data ? isStale(data.generatedAt, now) : false
+  // The badge reports the last successful scan; generatedAt only moves when the data changes.
+  const scannedAt = data ? data.scannedAt ?? data.generatedAt : null
+  const stale = scannedAt ? isStale(scannedAt, now) : false
 
   const visible = useMemo(() => (data ? applyFilters(data.events, filters) : []), [data, filters])
   const next = useMemo(() => upcoming(visible, ALL_EVENTS), [visible])
@@ -139,14 +141,17 @@ export default function App() {
               Inner-Calgary community calendar · updated daily
               {data ? ` · ${data.events.length} events tracked · window ${data.window.from} → ${data.window.to}` : ' · loading…'}
             </div>
-            {data && (
+            {data && scannedAt && (
               <div
                 className={'fresh' + (stale ? ' stale' : '')}
-                title={`Source data refreshed ${fmtUpdated(data.generatedAt)} (${new Date(data.generatedAt).toISOString()}). The scanner runs daily around 08:00 Mountain Time.`}
+                title={
+                  `Last successful scan ${fmtUpdated(scannedAt)} (${new Date(scannedAt).toISOString()}). ` +
+                  `Data last changed ${fmtUpdated(data.generatedAt)}. The scanner runs daily around 08:00 Mountain Time.`
+                }
               >
                 <span className="pulse" aria-hidden="true" />
                 <span>
-                  Source data updated {fmtUpdated(data.generatedAt)} · {relAge(data.generatedAt, now)}
+                  Sources checked {fmtUpdated(scannedAt)} · {relAge(scannedAt, now)}
                 </span>
                 {stale && <span className="tag stale-tag">stale</span>}
               </div>
@@ -310,7 +315,9 @@ export default function App() {
         </span>
         <span>
           <b>Data</b> public/data/events.json
-          {data ? ` · generated ${fmtUpdated(data.generatedAt)} (Mountain Time)` : ''}
+          {data
+            ? ` · changed ${fmtUpdated(data.generatedAt)} · last checked ${fmtUpdated(scannedAt ?? data.generatedAt)} (Mountain Time)`
+            : ''}
         </span>
       </footer>
 

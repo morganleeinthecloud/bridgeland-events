@@ -110,7 +110,7 @@ export function relAge(iso: string, now = Date.now()): string {
   return `${Math.round(hours / 24)} days ago`
 }
 
-/** The scanner runs daily at 08:00 MT — anything past ~30 h means a run was missed. */
+/** The scanner runs daily around 08:00 MT — past ~30 h the last scan was missed or failed. */
 export function isStale(iso: string, now = Date.now()): boolean {
   return now - Date.parse(iso) > 30 * 3_600_000
 }
