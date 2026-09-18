@@ -82,10 +82,15 @@ function matches(e: CalEvent, q: string): boolean {
   )
 }
 
-const timeFmt = new Intl.DateTimeFormat('en-CA', { hour: 'numeric', minute: '2-digit' })
+const timeFmt = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit' })
 
+/** 15:30 -> "3:30pm", 15:00 -> "3pm" */
 export function fmtTime(iso: string): string {
-  return timeFmt.format(new Date(iso)).replace(' ', '').toLowerCase()
+  return timeFmt
+    .format(new Date(iso))
+    .replace(/\s?([AP])\.?M\.?/i, (_m, p: string) => p.toLowerCase() + 'm')
+    .replace(':00', '')
+    .replace(' ', '')
 }
 
 export function fmtDay(iso: string): string {
