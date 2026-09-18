@@ -40,5 +40,6 @@ node scripts/validate-data.mjs
 ## Front end
 
 Vite + React + TypeScript, FullCalendar (month / week / agenda), hand-rolled CSS with a dark and
-light theme. Filters: neighbourhood, category, source, new-only, recurring, free, date window and
+light theme. Responsive to phone width: under 700px the calendar opens on Agenda, filter rows
+become swipeable strips, and the event sheet becomes a bottom sheet. Filters: neighbourhood, category, source, new-only, recurring, free, date window and
 free-text search. No backend, no database, no runtime API keys.

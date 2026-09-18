@@ -5,6 +5,7 @@ import listPlugin from '@fullcalendar/list'
 import interactionPlugin from '@fullcalendar/interaction'
 import type { EventClickArg, EventContentArg } from '@fullcalendar/core'
 import { AREA_COLOR, fmtTime } from './data'
+import { useIsPhone } from './useMediaQuery'
 import type { CalEvent } from './types'
 
 interface Props {
@@ -13,6 +14,8 @@ interface Props {
 }
 
 export default function CalendarView({ events, onSelect }: Props) {
+  const isPhone = useIsPhone()
+
   const fcEvents = events.map((e) => ({
     id: e.id,
     title: e.title,
@@ -28,14 +31,20 @@ export default function CalendarView({ events, onSelect }: Props) {
   return (
     <div className="cal">
       <FullCalendar
+        // Remount when the breakpoint flips so initialView/dayMaxEvents take effect.
+        key={isPhone ? 'phone' : 'desktop'}
         plugins={[dayGridPlugin, timeGridPlugin, listPlugin, interactionPlugin]}
-        initialView="dayGridMonth"
-        headerToolbar={{ left: 'title', center: 'dayGridMonth,timeGridWeek,listWeek', right: 'today prev,next' }}
+        initialView={isPhone ? 'listWeek' : 'dayGridMonth'}
+        headerToolbar={
+          isPhone
+            ? { left: 'title', center: 'dayGridMonth,listWeek', right: 'today prev,next' }
+            : { left: 'title', center: 'dayGridMonth,timeGridWeek,listWeek', right: 'today prev,next' }
+        }
         buttonText={{ today: 'Today', month: 'Month', week: 'Week', list: 'Agenda' }}
         locale="en"
         firstDay={0}
         weekNumbers={false}
-        dayMaxEvents={3}
+        dayMaxEvents={isPhone ? 2 : 3}
         moreLinkText={(n) => `+${n} more`}
         nowIndicator
         height="auto"
@@ -48,7 +57,7 @@ export default function CalendarView({ events, onSelect }: Props) {
         eventContent={(arg: EventContentArg) => {
           const e = arg.event.extendedProps.event as CalEvent
           return (
-            <div className="chip">
+            <div className="ev-pill">
               {!arg.event.allDay && <span className="t">{fmtTime(e.start)}</span>}
               <span className="n">{e.title}</span>
             </div>
