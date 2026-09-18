@@ -10,8 +10,11 @@ import {
   applyFilters,
   durationLabel,
   fmtRange,
+  fmtUpdated,
   isNew,
+  isStale,
   loadDataset,
+  relAge,
   thisWeekend,
   upcoming,
 } from './data'
@@ -56,6 +59,8 @@ export default function App() {
   const [theme, setTheme] = useState<'dark' | 'light'>(
     () => (localStorage.getItem('theme') as 'dark' | 'light') ?? 'dark',
   )
+  // keeps the "x ago" line honest without a reload
+  const [now, setNow] = useState(() => Date.now())
 
   useEffect(() => {
     loadDataset()
@@ -67,6 +72,13 @@ export default function App() {
     document.documentElement.dataset.theme = theme
     localStorage.setItem('theme', theme)
   }, [theme])
+
+  useEffect(() => {
+    const id = window.setInterval(() => setNow(Date.now()), 60_000)
+    return () => window.clearInterval(id)
+  }, [])
+
+  const stale = data ? isStale(data.generatedAt, now) : false
 
   const visible = useMemo(() => (data ? applyFilters(data.events, filters) : []), [data, filters])
   const next = useMemo(() => upcoming(visible, 4), [visible])
@@ -102,6 +114,18 @@ export default function App() {
               Inner-Calgary community calendar · updated daily
               {data ? ` · ${data.events.length} events tracked · window ${data.window.from} → ${data.window.to}` : ' · loading…'}
             </div>
+            {data && (
+              <div
+                className={'fresh' + (stale ? ' stale' : '')}
+                title={`Source data refreshed ${fmtUpdated(data.generatedAt)} (${new Date(data.generatedAt).toISOString()}). The scanner runs daily around 08:00 Mountain Time.`}
+              >
+                <span className="pulse" aria-hidden="true" />
+                <span>
+                  Source data updated {fmtUpdated(data.generatedAt)} · {relAge(data.generatedAt, now)}
+                </span>
+                {stale && <span className="tag stale-tag">stale</span>}
+              </div>
+            )}
           </div>
         </div>
         <div className="tools">
@@ -258,7 +282,8 @@ export default function App() {
           renfrewyyc.ca · getcommunal · RCA Google Calendar
         </span>
         <span>
-          <b>Data</b> public/data/events.json{data ? ` · generated ${new Date(data.generatedAt).toLocaleString()}` : ''}
+          <b>Data</b> public/data/events.json
+          {data ? ` · generated ${fmtUpdated(data.generatedAt)} (Mountain Time)` : ''}
         </span>
       </footer>
 

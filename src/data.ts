@@ -82,6 +82,39 @@ function matches(e: CalEvent, q: string): boolean {
   )
 }
 
+export const MT_ZONE = 'America/Edmonton'
+
+const mtTimeFmt = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZone: MT_ZONE })
+const mtDayFmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', timeZone: MT_ZONE })
+const mtZoneFmt = new Intl.DateTimeFormat('en-US', { timeZone: MT_ZONE, timeZoneName: 'short' })
+
+/** Mountain Time abbreviation for that instant: MST in winter, MDT while daylight time is in effect. */
+export function mtZoneAbbr(at: Date): string {
+  return mtZoneFmt.formatToParts(at).find((p) => p.type === 'timeZoneName')?.value ?? 'MT'
+}
+
+/** "12:16 PM MDT" today, "Sep 17, 8:04 AM MST" if it was another Mountain-Time day. */
+export function fmtUpdated(iso: string, now: Date = new Date()): string {
+  const d = new Date(iso)
+  const stamp = `${mtTimeFmt.format(d)} ${mtZoneAbbr(d)}`
+  return mtDayFmt.format(d) === mtDayFmt.format(now) ? stamp : `${mtDayFmt.format(d)}, ${stamp}`
+}
+
+/** Coarse age of the last scan, e.g. "8 min ago". */
+export function relAge(iso: string, now = Date.now()): string {
+  const mins = Math.max(0, Math.round((now - Date.parse(iso)) / 60_000))
+  if (mins < 2) return 'just now'
+  if (mins < 60) return `${mins} min ago`
+  const hours = Math.round(mins / 60)
+  if (hours < 36) return `${hours} h ago`
+  return `${Math.round(hours / 24)} days ago`
+}
+
+/** The scanner runs daily at 08:00 MT — anything past ~30 h means a run was missed. */
+export function isStale(iso: string, now = Date.now()): boolean {
+  return now - Date.parse(iso) > 30 * 3_600_000
+}
+
 const timeFmt = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit' })
 
 /** 15:30 -> "3:30pm", 15:00 -> "3pm" */
