@@ -30,6 +30,29 @@ const DAY_PRESETS: { label: string; days: number | null }[] = [
   { label: '60 days', days: 60 },
 ]
 
+/** Panels show this many rows until the reader asks for the rest. */
+const PANEL_CAP = 4
+const ALL_EVENTS = Number.MAX_SAFE_INTEGER
+
+function ShowAll({
+  total,
+  cap = PANEL_CAP,
+  expanded,
+  onToggle,
+}: {
+  total: number
+  cap?: number
+  expanded: boolean
+  onToggle: () => void
+}) {
+  if (total <= cap) return null
+  return (
+    <button className="more" onClick={onToggle} aria-expanded={expanded}>
+      {expanded ? 'Show less' : `Show all ${total}`}
+    </button>
+  )
+}
+
 function initialFilters(): Filters {
   return {
     areas: new Set(AREAS),
@@ -61,6 +84,8 @@ export default function App() {
   )
   // keeps the "x ago" line honest without a reload
   const [now, setNow] = useState(() => Date.now())
+  const [nextExpanded, setNextExpanded] = useState(false)
+  const [weekendExpanded, setWeekendExpanded] = useState(false)
 
   useEffect(() => {
     loadDataset()
@@ -81,7 +106,7 @@ export default function App() {
   const stale = data ? isStale(data.generatedAt, now) : false
 
   const visible = useMemo(() => (data ? applyFilters(data.events, filters) : []), [data, filters])
-  const next = useMemo(() => upcoming(visible, 4), [visible])
+  const next = useMemo(() => upcoming(visible, ALL_EVENTS), [visible])
   const weekend = useMemo(() => thisWeekend(visible), [visible])
 
   const set = <K extends keyof Filters>(key: K, value: Filters[K]) => setFilters((f) => ({ ...f, [key]: value }))
@@ -236,7 +261,7 @@ export default function App() {
               Next up <span className="count">{next[0] ? fmtRange(next[0]).split(' · ')[0] : '—'}</span>
             </div>
             {next.length === 0 && <p className="muted">Nothing matches these filters.</p>}
-            {next.map((e) => (
+            {next.slice(0, nextExpanded ? next.length : PANEL_CAP).map((e) => (
               <button className="item" key={e.id} onClick={() => setSelected(e)}>
                 <div className="ititle">
                   {e.title}
@@ -255,6 +280,7 @@ export default function App() {
                 </div>
               </button>
             ))}
+            <ShowAll total={next.length} expanded={nextExpanded} onToggle={() => setNextExpanded((v) => !v)} />
           </div>
 
           <div className="card panel">
@@ -262,7 +288,7 @@ export default function App() {
               This weekend <span className="count">{weekend.length}</span>
             </div>
             {weekend.length === 0 && <p className="muted">Nothing scheduled this weekend.</p>}
-            {weekend.slice(0, 4).map((e) => (
+            {weekend.slice(0, weekendExpanded ? weekend.length : PANEL_CAP).map((e) => (
               <button className="item" key={e.id} onClick={() => setSelected(e)}>
                 <div className="ititle">{e.title}</div>
                 <div className="meta">
@@ -272,6 +298,7 @@ export default function App() {
                 </div>
               </button>
             ))}
+            <ShowAll total={weekend.length} expanded={weekendExpanded} onToggle={() => setWeekendExpanded((v) => !v)} />
           </div>
         </aside>
       </div>
