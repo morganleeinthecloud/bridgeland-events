@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bridgeland & Renfrew Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bridgeland & Renfrew Events
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:fb:1842625652616063:anniegale@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260917T223000Z
+DTEND:20260918T000000Z
+SUMMARY:Annie Gale Park plaque unveiling
+DESCRIPTION:Speeches, cake and refreshments to mark the new park plaque. 
+ | Area: bridgeland | Source: Bridgeland Love | https://www.facebook.com/
+ groups/1842625652616063/
+LOCATION:Annie Gale Park, Foot of the 7A St stairway, north of McDougall 
+ Rd
+END:VEVENT
+BEGIN:VEVENT
+UID:cal:7df222avo@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260918T003000Z
+DTEND:20260918T023000Z
+SUMMARY:Pack Walk
+DESCRIPTION:Relaxed community dog walk — all dogs on leash. | Area: renfr
+ ew | Source: RCA Google Calendar | https://www.renfrewyyc.ca/calendar
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:3939@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260918T210000Z
+DTEND:20260919T010000Z
+SUMMARY:Farm Stand & Pub
+DESCRIPTION:Weekly farm stand in the hall, pub opens at 5 pm. | Area: ren
+ frew | Source: Renfrew CA · getcommunal | https://renfrew.getcommunal.co
+ m/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb:6347923513:10165804377273514@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260918T223000Z
+DTEND:20260919T013000Z
+SUMMARY:Wild Winds Brewery pop-up
+DESCRIPTION:Wild Winds Brewery pouring samples; full cans available to pu
+ rchase. | Cost: Free samples · cans for sale | Area: riverside | Source:
+  Bridgeland/Riverside | https://www.facebook.com/groups/6347923513/
+LOCATION:Bridgeland Distillery
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4355@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260919T000000Z
+DTEND:20260919T040000Z
+SUMMARY:Community Pub Night
+DESCRIPTION:Shuffleboard, pool, darts and board games. Minors welcome whe
+ n supervised. | Cost: Members & guests | Area: renfrew | Source: Renfrew
+  CA · getcommunal | https://renfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Social Room, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:cal:77ui1ilo@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260919T000000Z
+DTEND:20260919T030000Z
+SUMMARY:Punk Rock Karaoke
+DESCRIPTION:Area: renfrew | Source: RCA Google Calendar | https://www.ren
+ frewyyc.ca/calendar
+LOCATION:Renfrew Social Room
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4256@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260919T010000Z
+DTEND:20260919T040000Z
+SUMMARY:Family Game Night
+DESCRIPTION:Bring your favourite board or card game. | Area: renfrew | So
+ urce: Renfrew CA · getcommunal | https://renfrew.getcommunal.com/parent_
+ programs
+LOCATION:Renfrew Social Room, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4901@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260919T160000Z
+DTEND:20260920T220000Z
+SUMMARY:Street Painting on 8th Ave
+DESCRIPTION:Community mural painting on the street surface — drop in and 
+ help. | Area: renfrew | Source: Renfrew CA · getcommunal | https://renfr
+ ew.getcommunal.com/parent_programs
+LOCATION:8 Ave NE, In front of the Renfrew Community Association
+END:VEVENT
+BEGIN:VEVENT
+UID:web:brca-walkgroup-0922@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260923T004500Z
+DTEND:20260923T020000Z
+SUMMARY:Bridgeland Walking Group
+DESCRIPTION:Weekly neighbourhood walk, meet in front of the hall. | Area:
+  bridgeland | Source: brcacalgary.org | https://brcacalgary.org/connect/
+ events-activities/
+LOCATION:BRCA Hall, 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:web:brca-market-0924@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260924T213000Z
+DTEND:20260925T013000Z
+SUMMARY:Bridgeland Riverside Farmers' Market
+DESCRIPTION:Local food, drinks and artisan goods, plus food trucks and li
+ ve music. | Area: bridgeland | Source: brcacalgary.org | https://brcacal
+ gary.org/connect/events-activities/
+LOCATION:BRCA Hall, 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4356@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260926T000000Z
+DTEND:20260926T040000Z
+SUMMARY:Community Pub Night
+DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
+ nfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Social Room
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4279@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260926T000000Z
+DTEND:20260926T030000Z
+SUMMARY:Jellybean Dance: September
+DESCRIPTION:Family dance with music, prizes and concession; pub open all 
+ evening. | Cost: Tickets in advance | Area: renfrew | Source: Renfrew CA
+  · getcommunal | https://renfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb:1842625652616063:schulepark@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260926T200000Z
+DTEND:20260926T213000Z
+SUMMARY:Schule Park celebration
+DESCRIPTION:Speeches, cake and a chat about Bridgeland history. | Area: b
+ ridgeland | Source: Bridgeland Love | https://www.facebook.com/groups/18
+ 42625652616063/
+LOCATION:Schule Park, Rear of Delta West Academy, 2nd Ave & 11A St
+END:VEVENT
+BEGIN:VEVENT
+UID:web:brca-walkgroup-0929@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20260930T004500Z
+DTEND:20260930T020000Z
+SUMMARY:Bridgeland Walking Group
+DESCRIPTION:Area: bridgeland | Source: brcacalgary.org | https://brcacalg
+ ary.org/connect/events-activities/
+LOCATION:BRCA Hall, 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:web:brca-market-1001@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261001T213000Z
+DTEND:20261002T013000Z
+SUMMARY:Bridgeland Riverside Farmers' Market
+DESCRIPTION:Area: bridgeland | Source: brcacalgary.org | https://brcacalg
+ ary.org/connect/events-activities/
+LOCATION:BRCA Hall, 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4873@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261003T000000Z
+DTEND:20261003T055900Z
+SUMMARY:Community Pub Night — Oktoberfest
+DESCRIPTION:Lederhosen encouraged; kids stay home this one. | Cost: 19+ |
+  Area: renfrew | Source: Renfrew CA · getcommunal | https://renfrew.getc
+ ommunal.com/parent_programs
+LOCATION:Renfrew Social Room
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4405@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261003T190000Z
+DTEND:20261003T220000Z
+SUMMARY:Crafternoon: Beading Workshop
+DESCRIPTION:Beading workshop with instructors from Cowessess First Nation
+ . | Cost: Registration required | Area: renfrew | Source: Renfrew CA · g
+ etcommunal | https://renfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4251@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261010T000000Z
+DTEND:20261010T023000Z
+SUMMARY:Sewcial Club
+DESCRIPTION:Connect, sip and sew. | Area: renfrew | Source: Renfrew CA · 
+ getcommunal | https://renfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4794@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261015T010000Z
+DTEND:20261015T030000Z
+SUMMARY:Renfrew Community Conversation: The Ghosts of Renfrew
+DESCRIPTION:Heritage Park's Hidden Histories on the ghosts — and not only
+  the scary kind. | Area: renfrew | Source: Renfrew CA · getcommunal | ht
+ tps://renfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:cal:2d6p04rd@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261015T010000Z
+DTEND:20261015T030000Z
+SUMMARY:Speaker Series
+DESCRIPTION:Area: renfrew | Source: RCA Google Calendar | https://www.ren
+ frewyyc.ca/calendar
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4898@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261016T170000Z
+DTEND:20261017T060000Z
+SUMMARY:Casino Fundraiser Event
+DESCRIPTION:Volunteer shifts available for the community casino fundraise
+ r. | Area: renfrew | Source: Renfrew CA · getcommunal | https://renfrew.
+ getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4257@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261017T000000Z
+DTEND:20261017T030000Z
+SUMMARY:Role Playing Games for Families and Beginners
+DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
+ nfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4254@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261023T003000Z
+DTEND:20261023T023000Z
+SUMMARY:Pack Walk — Halloween Costume Walk
+DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
+ nfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4367@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261024T000000Z
+DTEND:20261024T030000Z
+SUMMARY:Jellybean Dance: October (Halloween)
+DESCRIPTION:Cost: Tickets in advance | Area: renfrew | Source: Renfrew CA
+  · getcommunal | https://renfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4360@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261031T000000Z
+DTEND:20261031T040000Z
+SUMMARY:Community Pub Night — Halloween
+DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
+ nfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Social Room
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4872@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261107T000000Z
+DTEND:20261107T040000Z
+SUMMARY:Community Pub Night
+DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
+ nfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Social Room
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4779@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+SUMMARY:Crafternoon: Design your own tote bag
+DESCRIPTION:Cost: Registration required | Area: renfrew | Source: Renfrew
+  CA · getcommunal | https://renfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4255@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261113T013000Z
+DTEND:20261113T033000Z
+SUMMARY:Pack Walk
+DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
+ nfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
+UID:gc:4252@bridgeland-events
+DTSTAMP:20260918T141500Z
+DTSTART:20261114T000000Z
+DTEND:20261114T023000Z
+SUMMARY:Sewcial Club
+DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
+ nfrew.getcommunal.com/parent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+END:VCALENDAR

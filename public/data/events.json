@@ -1,0 +1,716 @@
+{
+ "version": 1,
+ "generatedAt": "2026-09-18T08:15:00-06:00",
+ "window": {
+  "from": "2026-09-11",
+  "to": "2026-11-17"
+ },
+ "counts": {
+  "total": 29
+ },
+ "events": [
+  {
+   "id": "fb:1842625652616063:anniegale",
+   "title": "Annie Gale Park plaque unveiling",
+   "start": "2026-09-17T16:30:00-06:00",
+   "end": "2026-09-17T18:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "civic",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland Love",
+    "url": "https://www.facebook.com/groups/1842625652616063/"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Annie Gale Park",
+    "address": "Foot of the 7A St stairway, north of McDougall Rd"
+   },
+   "description": "Speeches, cake and refreshments to mark the new park plaque."
+  },
+  {
+   "id": "cal:7df222avo",
+   "title": "Pack Walk",
+   "start": "2026-09-17T18:30:00-06:00",
+   "end": "2026-09-17T20:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "outdoors",
+   "source": {
+    "kind": "calendar",
+    "name": "RCA Google Calendar",
+    "url": "https://www.renfrewyyc.ca/calendar"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "recurrence": {
+    "label": "recurring",
+    "seriesId": "renfrew-pack-walk"
+   },
+   "description": "Relaxed community dog walk \u2014 all dogs on leash."
+  },
+  {
+   "id": "gc:3939",
+   "title": "Farm Stand & Pub",
+   "start": "2026-09-18T15:00:00-06:00",
+   "end": "2026-09-18T19:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "market",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-farm-stand"
+   },
+   "description": "Weekly farm stand in the hall, pub opens at 5 pm."
+  },
+  {
+   "id": "fb:6347923513:10165804377273514",
+   "title": "Wild Winds Brewery pop-up",
+   "start": "2026-09-18T16:30:00-06:00",
+   "end": "2026-09-18T19:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "riverside",
+   "category": "food-drink",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland/Riverside",
+    "url": "https://www.facebook.com/groups/6347923513/"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Bridgeland Distillery"
+   },
+   "cost": "Free samples \u00b7 cans for sale",
+   "description": "Wild Winds Brewery pouring samples; full cans available to purchase."
+  },
+  {
+   "id": "gc:4355",
+   "title": "Community Pub Night",
+   "start": "2026-09-18T18:00:00-06:00",
+   "end": "2026-09-18T22:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Social Room",
+    "address": "811 Radford Rd NE"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   },
+   "cost": "Members & guests",
+   "description": "Shuffleboard, pool, darts and board games. Minors welcome when supervised."
+  },
+  {
+   "id": "cal:77ui1ilo",
+   "title": "Punk Rock Karaoke",
+   "start": "2026-09-18T18:00:00-06:00",
+   "end": "2026-09-18T21:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "calendar",
+    "name": "RCA Google Calendar",
+    "url": "https://www.renfrewyyc.ca/calendar"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Social Room"
+   }
+  },
+  {
+   "id": "gc:4256",
+   "title": "Family Game Night",
+   "start": "2026-09-18T19:00:00-06:00",
+   "end": "2026-09-18T22:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Social Room",
+    "address": "811 Radford Rd NE"
+   },
+   "description": "Bring your favourite board or card game."
+  },
+  {
+   "id": "gc:4901",
+   "title": "Street Painting on 8th Ave",
+   "start": "2026-09-19T10:00:00-06:00",
+   "end": "2026-09-20T16:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "civic",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "8 Ave NE",
+    "address": "In front of the Renfrew Community Association"
+   },
+   "description": "Community mural painting on the street surface \u2014 drop in and help."
+  },
+  {
+   "id": "web:brca-walkgroup-0922",
+   "title": "Bridgeland Walking Group",
+   "start": "2026-09-22T18:45:00-06:00",
+   "end": "2026-09-22T20:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "outdoors",
+   "source": {
+    "kind": "community-site",
+    "name": "brcacalgary.org",
+    "url": "https://brcacalgary.org/connect/events-activities/"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE"
+   },
+   "recurrence": {
+    "label": "every Tuesday",
+    "seriesId": "brca-walking-group"
+   },
+   "description": "Weekly neighbourhood walk, meet in front of the hall."
+  },
+  {
+   "id": "web:brca-market-0924",
+   "title": "Bridgeland Riverside Farmers' Market",
+   "start": "2026-09-24T15:30:00-06:00",
+   "end": "2026-09-24T19:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "market",
+   "source": {
+    "kind": "community-site",
+    "name": "brcacalgary.org",
+    "url": "https://brcacalgary.org/connect/events-activities/"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE"
+   },
+   "recurrence": {
+    "label": "every Thursday",
+    "seriesId": "brca-farmers-market"
+   },
+   "description": "Local food, drinks and artisan goods, plus food trucks and live music."
+  },
+  {
+   "id": "gc:4356",
+   "title": "Community Pub Night",
+   "start": "2026-09-25T18:00:00-06:00",
+   "end": "2026-09-25T22:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Social Room"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
+  },
+  {
+   "id": "gc:4279",
+   "title": "Jellybean Dance: September",
+   "start": "2026-09-25T18:00:00-06:00",
+   "end": "2026-09-25T21:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "cost": "Tickets in advance",
+   "description": "Family dance with music, prizes and concession; pub open all evening."
+  },
+  {
+   "id": "fb:1842625652616063:schulepark",
+   "title": "Schule Park celebration",
+   "start": "2026-09-26T14:00:00-06:00",
+   "end": "2026-09-26T15:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "civic",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland Love",
+    "url": "https://www.facebook.com/groups/1842625652616063/"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Schule Park",
+    "address": "Rear of Delta West Academy, 2nd Ave & 11A St"
+   },
+   "description": "Speeches, cake and a chat about Bridgeland history."
+  },
+  {
+   "id": "web:brca-walkgroup-0929",
+   "title": "Bridgeland Walking Group",
+   "start": "2026-09-29T18:45:00-06:00",
+   "end": "2026-09-29T20:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "outdoors",
+   "source": {
+    "kind": "community-site",
+    "name": "brcacalgary.org",
+    "url": "https://brcacalgary.org/connect/events-activities/"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE"
+   },
+   "recurrence": {
+    "label": "every Tuesday",
+    "seriesId": "brca-walking-group"
+   }
+  },
+  {
+   "id": "web:brca-market-1001",
+   "title": "Bridgeland Riverside Farmers' Market",
+   "start": "2026-10-01T15:30:00-06:00",
+   "end": "2026-10-01T19:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "market",
+   "source": {
+    "kind": "community-site",
+    "name": "brcacalgary.org",
+    "url": "https://brcacalgary.org/connect/events-activities/"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE"
+   },
+   "recurrence": {
+    "label": "every Thursday",
+    "seriesId": "brca-farmers-market"
+   }
+  },
+  {
+   "id": "gc:4873",
+   "title": "Community Pub Night \u2014 Oktoberfest",
+   "start": "2026-10-02T18:00:00-06:00",
+   "end": "2026-10-02T23:59:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Social Room"
+   },
+   "cost": "19+",
+   "description": "Lederhosen encouraged; kids stay home this one."
+  },
+  {
+   "id": "gc:4405",
+   "title": "Crafternoon: Beading Workshop",
+   "start": "2026-10-03T13:00:00-06:00",
+   "end": "2026-10-03T16:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "class",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "cost": "Registration required",
+   "description": "Beading workshop with instructors from Cowessess First Nation."
+  },
+  {
+   "id": "gc:4251",
+   "title": "Sewcial Club",
+   "start": "2026-10-09T18:00:00-06:00",
+   "end": "2026-10-09T20:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "class",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "description": "Connect, sip and sew."
+  },
+  {
+   "id": "gc:4794",
+   "title": "Renfrew Community Conversation: The Ghosts of Renfrew",
+   "start": "2026-10-14T19:00:00-06:00",
+   "end": "2026-10-14T21:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "civic",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "description": "Heritage Park's Hidden Histories on the ghosts \u2014 and not only the scary kind."
+  },
+  {
+   "id": "cal:2d6p04rd",
+   "title": "Speaker Series",
+   "start": "2026-10-14T19:00:00-06:00",
+   "end": "2026-10-14T21:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "civic",
+   "source": {
+    "kind": "calendar",
+    "name": "RCA Google Calendar",
+    "url": "https://www.renfrewyyc.ca/calendar"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   }
+  },
+  {
+   "id": "gc:4898",
+   "title": "Casino Fundraiser Event",
+   "start": "2026-10-16T11:00:00-06:00",
+   "end": "2026-10-17T00:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "fundraiser",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "description": "Volunteer shifts available for the community casino fundraiser."
+  },
+  {
+   "id": "gc:4257",
+   "title": "Role Playing Games for Families and Beginners",
+   "start": "2026-10-16T18:00:00-06:00",
+   "end": "2026-10-16T21:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   }
+  },
+  {
+   "id": "gc:4254",
+   "title": "Pack Walk \u2014 Halloween Costume Walk",
+   "start": "2026-10-22T18:30:00-06:00",
+   "end": "2026-10-22T20:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "outdoors",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "recurrence": {
+    "label": "recurring",
+    "seriesId": "renfrew-pack-walk"
+   }
+  },
+  {
+   "id": "gc:4367",
+   "title": "Jellybean Dance: October (Halloween)",
+   "start": "2026-10-23T18:00:00-06:00",
+   "end": "2026-10-23T21:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "cost": "Tickets in advance"
+  },
+  {
+   "id": "gc:4360",
+   "title": "Community Pub Night \u2014 Halloween",
+   "start": "2026-10-30T18:00:00-06:00",
+   "end": "2026-10-30T22:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Social Room"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
+  },
+  {
+   "id": "gc:4872",
+   "title": "Community Pub Night",
+   "start": "2026-11-06T18:00:00-06:00",
+   "end": "2026-11-06T22:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Social Room"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
+  },
+  {
+   "id": "gc:4779",
+   "title": "Crafternoon: Design your own tote bag",
+   "start": "2026-11-07T13:00:00-06:00",
+   "end": "2026-11-07T15:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "class",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "cost": "Registration required"
+  },
+  {
+   "id": "gc:4255",
+   "title": "Pack Walk",
+   "start": "2026-11-12T19:30:00-06:00",
+   "end": "2026-11-12T21:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "outdoors",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "recurrence": {
+    "label": "recurring",
+    "seriesId": "renfrew-pack-walk"
+   }
+  },
+  {
+   "id": "gc:4252",
+   "title": "Sewcial Club",
+   "start": "2026-11-13T18:00:00-06:00",
+   "end": "2026-11-13T20:30:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "class",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-09-17T20:08:00-06:00",
+   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   }
+  }
+ ]
+}
