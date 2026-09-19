@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-09-18T16:11:26-06:00",
- "scannedAt": "2026-09-18T16:12:45-06:00",
+ "generatedAt": "2026-09-19T08:30:41-06:00",
+ "scannedAt": "2026-09-19T08:30:41-06:00",
  "window": {
   "from": "2026-09-17",
   "to": "2026-11-13"
  },
  "counts": {
-  "total": 30,
-  "new": 0
+  "total": 31,
+  "new": 1
  },
  "events": [
   {
@@ -283,6 +283,33 @@
     "seriesId": "brca-farmers-market"
    },
    "description": "Local food, drinks and artisan goods, plus food trucks and live music."
+  },
+  {
+   "id": "gc:726",
+   "title": "Tiny Tots Co-op Playgroup",
+   "start": "2026-09-25T09:30:00-06:00",
+   "end": "2026-09-25T11:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association \u2014 West (lower) Hall",
+    "address": "811 Radford Rd NE, Calgary"
+   },
+   "description": "Parented, unstructured playtime for children 5 and under, run by the RCA Tiny Tots parent co-op: toys, train tables and mats, washrooms and change table on site. Currently Fridays 9:30-11:00am; extra days depend on volunteer availability. Enter from the Radford Rd parking lot near the baseball diamond.",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA (getcommunal)",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "recurrence": {
+    "label": "Fridays, 9:30-11:00am",
+    "seriesId": "renfrew-tiny-tots"
+   },
+   "firstSeen": "2026-09-19T08:15:00-06:00",
+   "lastSeen": "2026-09-19T08:30:41-06:00"
   },
   {
    "id": "gc:4356",
