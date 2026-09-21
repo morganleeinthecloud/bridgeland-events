@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-09-19T08:30:41-06:00",
- "scannedAt": "2026-09-20T08:30:10-06:00",
+ "generatedAt": "2026-09-21T08:57:46-06:00",
+ "scannedAt": "2026-09-21T08:57:46-06:00",
  "window": {
   "from": "2026-09-17",
-  "to": "2026-11-13"
+  "to": "2026-11-28"
  },
  "counts": {
-  "total": 31,
-  "new": 0
+  "total": 35,
+  "new": 4
  },
  "events": [
   {
@@ -295,13 +295,13 @@
    "category": "family",
    "status": "upcoming",
    "venue": {
-    "name": "Renfrew Community Association \u2014 West (lower) Hall",
-    "address": "811 Radford Rd NE, Calgary"
+    "name": "Renfrew Community Association - West Hall (Lower)",
+    "address": "811 Radford Rd NE"
    },
-   "description": "Parented, unstructured playtime for children 5 and under, run by the RCA Tiny Tots parent co-op: toys, train tables and mats, washrooms and change table on site. Currently Fridays 9:30-11:00am; extra days depend on volunteer availability. Enter from the Radford Rd parking lot near the baseball diamond.",
+   "description": "Drop-in co-op playgroup for little ones and their caregivers.",
    "source": {
     "kind": "community-site",
-    "name": "Renfrew CA (getcommunal)",
+    "name": "Renfrew CA \u00b7 getcommunal",
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "recurrence": {
@@ -309,7 +309,7 @@
     "seriesId": "renfrew-tiny-tots"
    },
    "firstSeen": "2026-09-19T08:15:00-06:00",
-   "lastSeen": "2026-09-19T08:30:41-06:00"
+   "lastSeen": "2026-09-21T08:57:46-06:00"
   },
   {
    "id": "gc:4356",
@@ -326,15 +326,17 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-09-21T08:57:46-06:00",
    "status": "upcoming",
    "venue": {
-    "name": "Renfrew Social Room"
+    "name": "Renfrew Social Room (basement of the community centre)",
+    "address": "811 Radford Rd NE"
    },
    "recurrence": {
     "label": "every Friday",
     "seriesId": "renfrew-pub-night"
-   }
+   },
+   "description": "Neighbourhood pub and game room; open to members and their guests, minors welcome with an adult."
   },
   {
    "id": "gc:4279",
@@ -351,14 +353,14 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-09-21T08:57:46-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Community Association",
     "address": "811 Radford Rd NE"
    },
    "cost": "Tickets in advance",
-   "description": "Family dance with music, prizes and concession; pub open all evening."
+   "description": "Family dance with music, dancing, prizes and concession; the pub is open all evening (children must be supervised). Cash accepted at the door for September only."
   },
   {
    "id": "fb:1842625652616063:schulepark",
@@ -439,7 +441,7 @@
    "id": "gc:4873",
    "title": "Community Pub Night \u2014 Oktoberfest",
    "start": "2026-10-02T18:00:00-06:00",
-   "end": "2026-10-02T23:59:00-06:00",
+   "end": "2026-10-02T23:00:00-06:00",
    "allDay": false,
    "timezone": "America/Edmonton",
    "neighborhood": "renfrew",
@@ -450,13 +452,14 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-09-21T08:57:46-06:00",
    "status": "upcoming",
    "venue": {
-    "name": "Renfrew Social Room"
+    "name": "Renfrew Social Room (basement of the community centre)",
+    "address": "811 Radford Rd NE"
    },
    "cost": "19+",
-   "description": "Lederhosen encouraged; kids stay home this one."
+   "description": "Oktoberfest-themed pub night in the Renfrew Social Room."
   },
   {
    "id": "gc:4405",
@@ -473,14 +476,14 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-09-21T08:57:46-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Community Association",
     "address": "811 Radford Rd NE"
    },
    "cost": "Registration required",
-   "description": "Beading workshop with instructors from Cowessess First Nation."
+   "description": "Social crafting afternoon \u2014 beading workshop; registration and/or drop-in."
   },
   {
    "id": "gc:4251",
@@ -594,6 +597,75 @@
     "name": "Renfrew Community Association",
     "address": "811 Radford Rd NE"
    }
+  },
+  {
+   "id": "web:beacon-art-show-1017",
+   "title": "Beacon Original Art Fall Show & Sale (Day 1)",
+   "start": "2026-10-17T10:00:00-06:00",
+   "end": "2026-10-17T16:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "market",
+   "status": "upcoming",
+   "venue": {
+    "name": "BRCA Hall (Bridgeland-Riverside Community Association)",
+    "address": "917 Centre Ave NE"
+   },
+   "source": {
+    "kind": "community-site",
+    "name": "beaconoriginalart.com",
+    "url": "https://beaconoriginalart.com/"
+   },
+   "description": "Juried annual fall art exhibition and sale \u2014 painting, jewellery, glass, photography, ceramics, sculpture and textiles from 45+ local artists, at the community hall.",
+   "firstSeen": "2026-09-21T08:04:47-06:00",
+   "lastSeen": "2026-09-21T08:57:46-06:00"
+  },
+  {
+   "id": "web:cmc-trickortreat-1017",
+   "title": "Trick-or-Treat Market",
+   "start": "2026-10-17T11:00:00-06:00",
+   "end": "2026-10-17T18:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "market",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "source": {
+    "kind": "community-site",
+    "name": "changemakerscollective.ca",
+    "url": "https://changemakerscollective.ca/vendors"
+   },
+   "description": "Change Makers Collective curated market with local makers at the Renfrew Community Association.",
+   "firstSeen": "2026-09-21T08:04:47-06:00",
+   "lastSeen": "2026-09-21T08:57:46-06:00"
+  },
+  {
+   "id": "web:beacon-art-show-1018",
+   "title": "Beacon Original Art Fall Show & Sale (Day 2)",
+   "start": "2026-10-18T10:00:00-06:00",
+   "end": "2026-10-18T16:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "market",
+   "status": "upcoming",
+   "venue": {
+    "name": "BRCA Hall (Bridgeland-Riverside Community Association)",
+    "address": "917 Centre Ave NE"
+   },
+   "source": {
+    "kind": "community-site",
+    "name": "beaconoriginalart.com",
+    "url": "https://beaconoriginalart.com/"
+   },
+   "description": "Second day of the juried fall art show and sale at the community hall.",
+   "firstSeen": "2026-09-21T08:04:47-06:00",
+   "lastSeen": "2026-09-21T08:57:46-06:00"
   },
   {
    "id": "gc:4254",
@@ -764,6 +836,29 @@
     "name": "Renfrew Community Association",
     "address": "811 Radford Rd NE"
    }
+  },
+  {
+   "id": "web:cmc-holiday-1128",
+   "title": "Holiday Market",
+   "start": "2026-11-28T11:00:00-06:00",
+   "end": "2026-11-28T18:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "market",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "source": {
+    "kind": "community-site",
+    "name": "changemakerscollective.ca",
+    "url": "https://changemakerscollective.ca/vendors"
+   },
+   "description": "Change Makers Collective holiday market with local makers at the Renfrew Community Association.",
+   "firstSeen": "2026-09-21T08:04:47-06:00",
+   "lastSeen": "2026-09-21T08:57:46-06:00"
   }
  ]
 }
