@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-09-21T10:30:49-06:00",
- "scannedAt": "2026-09-21T10:30:49-06:00",
+ "generatedAt": "2026-09-22T08:30:07-06:00",
+ "scannedAt": "2026-09-22T08:30:07-06:00",
  "window": {
   "from": "2026-09-17",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 35,
-  "new": 0
+  "total": 37,
+  "new": 2
  },
  "events": [
   {
@@ -438,6 +438,30 @@
    }
   },
   {
+   "id": "web:brca-pubnight-1001",
+   "title": "BRCA Pub Night",
+   "start": "2026-10-01T16:00:00-06:00",
+   "end": "2026-10-01T21:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "social",
+   "status": "upcoming",
+   "venue": {
+    "name": "BRCA Hall (Bridgeland-Riverside Community Association)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "Free; memberships available at the door",
+   "source": {
+    "kind": "community-site",
+    "name": "brcacalgary.org",
+    "url": "https://brcacalgary.org/connect/events-activities/"
+   },
+   "description": "Community hall pub night and fundraiser for the Bridgeland-Riverside Community Association; drop in any time.",
+   "firstSeen": "2026-09-22T08:02:27-06:00",
+   "lastSeen": "2026-09-22T08:30:07-06:00"
+  },
+  {
    "id": "gc:4873",
    "title": "Community Pub Night \u2014 Oktoberfest",
    "start": "2026-10-02T18:00:00-06:00",
@@ -452,7 +476,7 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-21T10:30:49-06:00",
+   "lastSeen": "2026-09-22T08:30:07-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Social Room (basement of the community centre)",
@@ -476,7 +500,7 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-21T10:30:49-06:00",
+   "lastSeen": "2026-09-22T08:30:07-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Community Association",
@@ -484,6 +508,30 @@
    },
    "cost": "Registration required",
    "description": "Social crafting afternoon \u2014 beading workshop; registration and/or drop-in."
+  },
+  {
+   "id": "web:brca-seniors-luncheon-1005",
+   "title": "Fall Seniors Luncheon",
+   "start": "2026-10-05T12:00:00-06:00",
+   "end": "2026-10-05T14:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "social",
+   "status": "upcoming",
+   "venue": {
+    "name": "BRCA Hall (Bridgeland-Riverside Community Association)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "Free - must register",
+   "source": {
+    "kind": "community-site",
+    "name": "brcacalgary.org",
+    "url": "https://brcacalgary.org/connect/events-activities/"
+   },
+   "description": "Free seniors luncheon; register at programs@brcacalgary.org or 403-263-5755, and note any dietary restrictions.",
+   "firstSeen": "2026-09-22T08:02:27-06:00",
+   "lastSeen": "2026-09-22T08:30:07-06:00"
   },
   {
    "id": "gc:4251",
