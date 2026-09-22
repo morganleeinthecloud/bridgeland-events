@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-09-22T08:30:07-06:00",
- "scannedAt": "2026-09-22T08:30:07-06:00",
+ "generatedAt": "2026-09-22T09:30:16-06:00",
+ "scannedAt": "2026-09-22T09:30:16-06:00",
  "window": {
   "from": "2026-09-17",
   "to": "2026-11-28"
  },
  "counts": {
   "total": 37,
-  "new": 2
+  "new": 0
  },
  "events": [
   {
@@ -476,7 +476,7 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-22T08:30:07-06:00",
+   "lastSeen": "2026-09-22T09:30:16-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Social Room (basement of the community centre)",
@@ -500,7 +500,7 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-22T08:30:07-06:00",
+   "lastSeen": "2026-09-22T09:30:16-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Community Association",
