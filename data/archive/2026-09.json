@@ -1,0 +1,52 @@
+{
+ "cal:7df222avo": {
+  "allDay": false,
+  "category": "outdoors",
+  "description": "Relaxed community dog walk \u2014 all dogs on leash.",
+  "end": "2026-09-17T20:30:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "cal:7df222avo",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "recurring",
+   "seriesId": "renfrew-pack-walk"
+  },
+  "source": {
+   "kind": "calendar",
+   "name": "RCA Google Calendar",
+   "url": "https://www.renfrewyyc.ca/calendar"
+  },
+  "start": "2026-09-17T18:30:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Pack Walk",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
+ "fb:1842625652616063:anniegale": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Speeches, cake and refreshments to mark the new park plaque.",
+  "end": "2026-09-17T18:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "fb:1842625652616063:anniegale",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "facebook-group",
+   "name": "Bridgeland Love",
+   "url": "https://www.facebook.com/groups/1842625652616063/"
+  },
+  "start": "2026-09-17T16:30:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Annie Gale Park plaque unveiling",
+  "venue": {
+   "address": "Foot of the 7A St stairway, north of McDougall Rd",
+   "name": "Annie Gale Park"
+  }
+ }
+}
