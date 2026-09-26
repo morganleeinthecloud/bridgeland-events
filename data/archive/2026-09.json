@@ -1,4 +1,25 @@
 {
+ "cal:77ui1ilo": {
+  "allDay": false,
+  "category": "social",
+  "end": "2026-09-18T21:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "cal:77ui1ilo",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "calendar",
+   "name": "RCA Google Calendar",
+   "url": "https://www.renfrewyyc.ca/calendar"
+  },
+  "start": "2026-09-18T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Punk Rock Karaoke",
+  "venue": {
+   "name": "Renfrew Social Room"
+  }
+ },
  "cal:7df222avo": {
   "allDay": false,
   "category": "outdoors",
@@ -47,6 +68,80 @@
   "venue": {
    "address": "Foot of the 7A St stairway, north of McDougall Rd",
    "name": "Annie Gale Park"
+  }
+ },
+ "fb:6347923513:10165804377273514": {
+  "allDay": false,
+  "category": "food-drink",
+  "cost": "Free samples \u00b7 cans for sale",
+  "description": "Wild Winds Brewery pouring samples; full cans available to purchase.",
+  "end": "2026-09-18T19:30:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "fb:6347923513:10165804377273514",
+  "lastSeen": "2026-09-18T10:13:04-06:00",
+  "neighborhood": "riverside",
+  "source": {
+   "kind": "facebook-group",
+   "name": "Bridgeland/Riverside",
+   "url": "https://www.facebook.com/groups/6347923513/"
+  },
+  "start": "2026-09-18T16:30:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Wild Winds Brewery pop-up",
+  "venue": {
+   "name": "Bridgeland Distillery"
+  }
+ },
+ "gc:4256": {
+  "allDay": false,
+  "category": "family",
+  "description": "Bring your favourite board or card game.",
+  "end": "2026-09-18T22:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4256",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-09-18T19:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Family Game Night",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Social Room"
+  }
+ },
+ "gc:4355": {
+  "allDay": false,
+  "category": "social",
+  "cost": "Members & guests",
+  "description": "Shuffleboard, pool, darts and board games. Minors welcome when supervised.",
+  "end": "2026-09-18T22:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4355",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "every Friday",
+   "seriesId": "renfrew-pub-night"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-09-18T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Community Pub Night",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Social Room"
   }
  }
 }

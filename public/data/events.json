@@ -1,111 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-09-25T08:30:49-06:00",
- "scannedAt": "2026-09-25T08:30:49-06:00",
+ "generatedAt": "2026-09-26T08:30:50-06:00",
+ "scannedAt": "2026-09-26T08:30:50-06:00",
  "window": {
-  "from": "2026-09-18",
+  "from": "2026-09-19",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 43,
-  "new": 2
+  "total": 39,
+  "new": 0
  },
  "events": [
-  {
-   "id": "fb:6347923513:10165804377273514",
-   "title": "Wild Winds Brewery pop-up",
-   "start": "2026-09-18T16:30:00-06:00",
-   "end": "2026-09-18T19:30:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "riverside",
-   "category": "food-drink",
-   "source": {
-    "kind": "facebook-group",
-    "name": "Bridgeland/Riverside",
-    "url": "https://www.facebook.com/groups/6347923513/"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T10:13:04-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Bridgeland Distillery"
-   },
-   "cost": "Free samples \u00b7 cans for sale",
-   "description": "Wild Winds Brewery pouring samples; full cans available to purchase."
-  },
-  {
-   "id": "gc:4355",
-   "title": "Community Pub Night",
-   "start": "2026-09-18T18:00:00-06:00",
-   "end": "2026-09-18T22:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "social",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Social Room",
-    "address": "811 Radford Rd NE"
-   },
-   "recurrence": {
-    "label": "every Friday",
-    "seriesId": "renfrew-pub-night"
-   },
-   "cost": "Members & guests",
-   "description": "Shuffleboard, pool, darts and board games. Minors welcome when supervised."
-  },
-  {
-   "id": "cal:77ui1ilo",
-   "title": "Punk Rock Karaoke",
-   "start": "2026-09-18T18:00:00-06:00",
-   "end": "2026-09-18T21:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "social",
-   "source": {
-    "kind": "calendar",
-    "name": "RCA Google Calendar",
-    "url": "https://www.renfrewyyc.ca/calendar"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Social Room"
-   }
-  },
-  {
-   "id": "gc:4256",
-   "title": "Family Game Night",
-   "start": "2026-09-18T19:00:00-06:00",
-   "end": "2026-09-18T22:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "family",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Social Room",
-    "address": "811 Radford Rd NE"
-   },
-   "description": "Bring your favourite board or card game."
-  },
   {
    "id": "gc:4901",
    "title": "Street Painting on 8th Ave",
@@ -315,25 +220,25 @@
   {
    "id": "fb:1842625652616063:schulepark",
    "title": "Schule Park celebration",
-   "start": "2026-09-26T14:00:00-06:00",
-   "end": "2026-09-26T15:30:00-06:00",
+   "start": "2026-09-27T14:00:00-06:00",
+   "end": "2026-09-27T15:30:00-06:00",
    "allDay": false,
    "timezone": "America/Edmonton",
    "neighborhood": "bridgeland",
    "category": "civic",
    "source": {
-    "kind": "facebook-group",
-    "name": "Bridgeland Love",
-    "url": "https://www.facebook.com/groups/1842625652616063/"
+    "kind": "facebook-page",
+    "name": "BRCACalgary",
+    "url": "https://www.facebook.com/BRCACalgary/"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-09-26T08:30:50-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Schule Park",
-    "address": "Rear of Delta West Academy, 2nd Ave & 11A St"
+    "address": "4th Ave & 11A St NE (beside Delta West Academy)"
    },
-   "description": "Speeches, cake and a chat about Bridgeland history."
+   "description": "Postponed to Sunday Sep 27 due to the Saturday forecast: learn about early settlers in Bridgeland and the historic Bridgeland School."
   },
   {
    "id": "web:brca-ward9-openhouse-0928",
