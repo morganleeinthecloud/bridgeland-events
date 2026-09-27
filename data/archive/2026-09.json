@@ -143,5 +143,52 @@
    "address": "811 Radford Rd NE",
    "name": "Renfrew Social Room"
   }
+ },
+ "gc:4901": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Community mural painting on the street surface \u2014 drop in and help.",
+  "end": "2026-09-20T16:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4901",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-09-19T10:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Street Painting on 8th Ave",
+  "venue": {
+   "address": "In front of the Renfrew Community Association",
+   "name": "8 Ave NE"
+  }
+ },
+ "web:bridgeland-mainstreet-celebration-0919": {
+  "allDay": false,
+  "category": "civic",
+  "cost": "Free",
+  "description": "Free celebration marking the end of the Bridgeland Main Street construction \u2014 now with no more road closures or detours. In La Piazza (by Starbucks): live music, local giveaways \u2014 including a $1,000 gift-card basket from local businesses (stop by, say hi and enter to win) \u2014 face painting, family-friendly activities and food. Open to everyone. Announced by the BRCA page; official details: calgary.ca/planning/projects/bridgeland-main-street.html",
+  "end": "2026-09-19T15:00:00-06:00",
+  "firstSeen": "2026-09-18T14:49:53-06:00",
+  "id": "web:bridgeland-mainstreet-celebration-0919",
+  "lastSeen": "2026-09-18T16:11:26-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "facebook-page",
+   "name": "BRCA page",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-09-19T11:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Bridgeland Main Street Community Celebration",
+  "venue": {
+   "address": "945 General Ave NE, Calgary",
+   "name": "La Piazza"
+  }
  }
 }
