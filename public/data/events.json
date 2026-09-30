@@ -1,43 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-09-27T08:30:50-06:00",
- "scannedAt": "2026-09-29T08:30:08-06:00",
+ "generatedAt": "2026-09-30T08:30:09-06:00",
+ "scannedAt": "2026-09-30T08:30:09-06:00",
  "window": {
-  "from": "2026-09-22",
+  "from": "2026-09-24",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 37,
+  "total": 36,
   "new": 0
  },
  "events": [
-  {
-   "id": "web:brca-walkgroup-0922",
-   "title": "Bridgeland Walking Group",
-   "start": "2026-09-22T18:45:00-06:00",
-   "end": "2026-09-22T20:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "source": {
-    "kind": "community-site",
-    "name": "brcacalgary.org",
-    "url": "https://brcacalgary.org/connect/events-activities/"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE"
-   },
-   "recurrence": {
-    "label": "every Tuesday",
-    "seriesId": "brca-walking-group"
-   },
-   "description": "Weekly neighbourhood walk, meet in front of the hall."
-  },
   {
    "id": "web:brca-market-0924",
    "title": "Bridgeland Riverside Farmers' Market",
