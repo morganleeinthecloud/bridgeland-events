@@ -1,43 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T08:30:09-06:00",
- "scannedAt": "2026-10-01T08:30:12-06:00",
+ "generatedAt": "2026-10-02T08:30:58-06:00",
+ "scannedAt": "2026-10-02T08:30:58-06:00",
  "window": {
-  "from": "2026-09-24",
+  "from": "2026-09-25",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 36,
+  "total": 35,
   "new": 0
  },
  "events": [
-  {
-   "id": "web:brca-market-0924",
-   "title": "Bridgeland Riverside Farmers' Market",
-   "start": "2026-09-24T15:30:00-06:00",
-   "end": "2026-09-24T19:30:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "bridgeland",
-   "category": "market",
-   "source": {
-    "kind": "community-site",
-    "name": "brcacalgary.org",
-    "url": "https://brcacalgary.org/connect/events-activities/"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE"
-   },
-   "recurrence": {
-    "label": "every Thursday",
-    "seriesId": "brca-farmers-market"
-   },
-   "description": "Local food, drinks and artisan goods, plus food trucks and live music."
-  },
   {
    "id": "gc:726",
    "title": "Tiny Tots Co-op Playgroup",

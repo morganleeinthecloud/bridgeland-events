@@ -167,6 +167,33 @@
    "name": "8 Ave NE"
   }
  },
+ "web:brca-market-0924": {
+  "allDay": false,
+  "category": "market",
+  "description": "Local food, drinks and artisan goods, plus food trucks and live music.",
+  "end": "2026-09-24T19:30:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "web:brca-market-0924",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "every Thursday",
+   "seriesId": "brca-farmers-market"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "brcacalgary.org",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-09-24T15:30:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Bridgeland Riverside Farmers' Market",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall"
+  }
+ },
  "web:brca-walkgroup-0922": {
   "allDay": false,
   "category": "outdoors",
