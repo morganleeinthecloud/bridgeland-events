@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-10-02T08:30:58-06:00",
- "scannedAt": "2026-10-02T08:30:58-06:00",
+ "generatedAt": "2026-10-02T15:26:09-06:00",
+ "scannedAt": "2026-10-02T15:26:09-06:00",
  "window": {
   "from": "2026-09-25",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 35,
-  "new": 0
+  "total": 38,
+  "new": 3
  },
  "events": [
   {
@@ -476,6 +476,24 @@
    }
   },
   {
+   "id": "web:brca-safeconnected-1015",
+   "title": "Safe & Connected with CPS",
+   "start": "2026-10-15T19:00:00-06:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "civic",
+   "description": "Community safety evening with Calgary Police Service, hosted by BRCA.",
+   "source": {
+    "kind": "community-site",
+    "name": "BRCA \u00b7 brcacalgary.org",
+    "url": "https://brcacalgary.org/"
+   },
+   "firstSeen": "2026-10-02T15:25:38-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-02T15:26:09-06:00"
+  },
+  {
    "id": "gc:4898",
    "title": "Casino Fundraiser Event",
    "start": "2026-10-16T11:00:00-06:00",
@@ -517,6 +535,33 @@
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   }
+  },
+  {
+   "id": "gc:4358",
+   "title": "Community Pub Night",
+   "start": "2026-10-16T18:00:00-06:00",
+   "end": "2026-10-16T22:00:00-06:00",
+   "allDay": false,
+   "neighborhood": "renfrew",
+   "category": "social",
+   "description": "Friday pub night in the Renfrew CA social room, 6-10pm (stays open later if busy).",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   },
+   "firstSeen": "2026-10-02T15:25:38-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-02T15:26:09-06:00",
+   "venue": {
+    "name": "Renfrew Social Room (basement of the community centre)",
     "address": "811 Radford Rd NE"
    }
   },
@@ -715,6 +760,25 @@
     "label": "every Friday",
     "seriesId": "renfrew-pub-night"
    }
+  },
+  {
+   "id": "web:brca-trunkortreat-1031",
+   "title": "Trunk or Treat",
+   "start": "2026-10-31T17:00:00-06:00",
+   "end": "2026-10-31T20:00:00-06:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "family",
+   "description": "Halloween trick-or-treating event hosted by BRCA (time from the BRCA listing; details in poster).",
+   "source": {
+    "kind": "community-site",
+    "name": "BRCA \u00b7 brcacalgary.org",
+    "url": "https://brcacalgary.org/"
+   },
+   "firstSeen": "2026-10-02T15:25:38-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-02T15:26:09-06:00"
   },
   {
    "id": "gc:4872",
