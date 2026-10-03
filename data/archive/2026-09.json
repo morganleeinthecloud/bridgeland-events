@@ -93,6 +93,33 @@
    "name": "Bridgeland Distillery"
   }
  },
+ "gc:3939": {
+  "allDay": false,
+  "category": "market",
+  "description": "Weekly farm stand in the hall; pub opens at 5 pm.",
+  "end": "2026-09-25T19:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:3939",
+  "lastSeen": "2026-09-23T08:30:48-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "every Friday",
+   "seriesId": "renfrew-farm-stand"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-09-25T15:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Farm Stand & Pub",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
  "gc:4256": {
   "allDay": false,
   "category": "family",
@@ -114,6 +141,30 @@
   "venue": {
    "address": "811 Radford Rd NE",
    "name": "Renfrew Social Room"
+  }
+ },
+ "gc:4279": {
+  "allDay": false,
+  "category": "family",
+  "cost": "Tickets in advance",
+  "description": "Family dance with music, dancing, prizes and concession; the pub is open all evening (children must be supervised). Cash accepted at the door for September only.",
+  "end": "2026-09-25T21:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4279",
+  "lastSeen": "2026-09-21T08:57:46-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-09-25T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Jellybean Dance: September",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
   }
  },
  "gc:4355": {
@@ -144,6 +195,33 @@
    "name": "Renfrew Social Room"
   }
  },
+ "gc:4356": {
+  "allDay": false,
+  "category": "social",
+  "description": "Neighbourhood pub and game room; open to members and their guests, minors welcome with an adult.",
+  "end": "2026-09-25T22:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4356",
+  "lastSeen": "2026-09-21T08:57:46-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "every Friday",
+   "seriesId": "renfrew-pub-night"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-09-25T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Community Pub Night",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Social Room (basement of the community centre)"
+  }
+ },
  "gc:4901": {
   "allDay": false,
   "category": "civic",
@@ -165,6 +243,33 @@
   "venue": {
    "address": "In front of the Renfrew Community Association",
    "name": "8 Ave NE"
+  }
+ },
+ "gc:726": {
+  "allDay": false,
+  "category": "family",
+  "description": "Drop-in co-op playgroup for little ones and their caregivers.",
+  "end": "2026-09-25T11:00:00-06:00",
+  "firstSeen": "2026-09-19T08:15:00-06:00",
+  "id": "gc:726",
+  "lastSeen": "2026-09-21T08:57:46-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "Fridays, 9:30-11:00am",
+   "seriesId": "renfrew-tiny-tots"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-09-25T09:30:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Tiny Tots Co-op Playgroup",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association - West Hall (Lower)"
   }
  },
  "web:brca-market-0924": {

@@ -1,121 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-02T15:26:09-06:00",
- "scannedAt": "2026-10-02T15:26:09-06:00",
+ "generatedAt": "2026-10-03T08:30:58-06:00",
+ "scannedAt": "2026-10-03T08:30:58-06:00",
  "window": {
-  "from": "2026-09-25",
+  "from": "2026-09-27",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 38,
-  "new": 3
+  "total": 36,
+  "new": 2
  },
  "events": [
-  {
-   "id": "gc:726",
-   "title": "Tiny Tots Co-op Playgroup",
-   "start": "2026-09-25T09:30:00-06:00",
-   "end": "2026-09-25T11:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "family",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association - West Hall (Lower)",
-    "address": "811 Radford Rd NE"
-   },
-   "description": "Drop-in co-op playgroup for little ones and their caregivers.",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "recurrence": {
-    "label": "Fridays, 9:30-11:00am",
-    "seriesId": "renfrew-tiny-tots"
-   },
-   "firstSeen": "2026-09-19T08:15:00-06:00",
-   "lastSeen": "2026-09-21T08:57:46-06:00"
-  },
-  {
-   "id": "gc:3939",
-   "title": "Farm Stand & Pub",
-   "start": "2026-09-25T15:00:00-06:00",
-   "end": "2026-09-25T19:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "market",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-23T08:30:48-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   },
-   "recurrence": {
-    "label": "every Friday",
-    "seriesId": "renfrew-farm-stand"
-   },
-   "description": "Weekly farm stand in the hall; pub opens at 5 pm."
-  },
-  {
-   "id": "gc:4356",
-   "title": "Community Pub Night",
-   "start": "2026-09-25T18:00:00-06:00",
-   "end": "2026-09-25T22:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "social",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-21T08:57:46-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Social Room (basement of the community centre)",
-    "address": "811 Radford Rd NE"
-   },
-   "recurrence": {
-    "label": "every Friday",
-    "seriesId": "renfrew-pub-night"
-   },
-   "description": "Neighbourhood pub and game room; open to members and their guests, minors welcome with an adult."
-  },
-  {
-   "id": "gc:4279",
-   "title": "Jellybean Dance: September",
-   "start": "2026-09-25T18:00:00-06:00",
-   "end": "2026-09-25T21:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "family",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-21T08:57:46-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   },
-   "cost": "Tickets in advance",
-   "description": "Family dance with music, dancing, prizes and concession; the pub is open all evening (children must be supervised). Cash accepted at the door for September only."
-  },
   {
    "id": "fb:1842625652616063:schulepark",
    "title": "Schule Park celebration",
@@ -331,7 +226,7 @@
   {
    "id": "web:brca-walkgroup-1006",
    "title": "Bridgeland Walking Group",
-   "start": "2026-10-06T18:45:00-06:00",
+   "start": "2026-10-06T18:30:00-06:00",
    "allDay": false,
    "neighborhood": "bridgeland",
    "category": "outdoors",
@@ -339,7 +234,7 @@
     "name": "BRCA Hall",
     "address": "917 Centre Ave NE"
    },
-   "description": "Weekly neighbourhood walk, meeting at the BRCA Hall.",
+   "description": "Weekly neighbourhood walk, meeting at the BRCA Hall; October walks start 6:30pm (per the October walk poster).",
    "source": {
     "kind": "community-site",
     "name": "Bridgeland-Riverside Community Association",
@@ -352,7 +247,7 @@
    "firstSeen": "2026-09-24T09:00:00-06:00",
    "status": "upcoming",
    "timezone": "America/Edmonton",
-   "lastSeen": "2026-09-24T08:30:49-06:00"
+   "lastSeen": "2026-10-03T08:30:58-06:00"
   },
   {
    "id": "web:brca-seniorgames-1007",
@@ -431,6 +326,32 @@
    "description": "Neighbourhood pub and game room; open to members and their guests, minors welcome with an adult."
   },
   {
+   "id": "web:brca-walkgroup-1013",
+   "title": "Bridgeland Walking Group",
+   "start": "2026-10-13T18:30:00-06:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "outdoors",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE"
+   },
+   "description": "Weekly neighbourhood walk - October 13 route: Residential Street / Drury Avenue.",
+   "source": {
+    "kind": "community-site",
+    "name": "brcacalgary.org",
+    "url": "https://brcacalgary.org/"
+   },
+   "recurrence": {
+    "label": "every Tuesday",
+    "seriesId": "brca-walkgroup"
+   },
+   "firstSeen": "2026-10-03T08:05:06-06:00",
+   "lastSeen": "2026-10-03T08:30:58-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
+  },
+  {
    "id": "gc:4794",
    "title": "Renfrew Community Conversation: The Ghosts of Renfrew",
    "start": "2026-10-14T19:00:00-06:00",
@@ -491,7 +412,11 @@
    "firstSeen": "2026-10-02T15:25:38-06:00",
    "status": "upcoming",
    "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-02T15:26:09-06:00"
+   "lastSeen": "2026-10-03T08:30:58-06:00",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE"
+   }
   },
   {
    "id": "gc:4898",
@@ -778,7 +703,11 @@
    "firstSeen": "2026-10-02T15:25:38-06:00",
    "status": "upcoming",
    "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-02T15:26:09-06:00"
+   "lastSeen": "2026-10-03T08:30:58-06:00",
+   "venue": {
+    "name": "BRCA Hall parking lot",
+    "address": "917 Centre Ave NE"
+   }
   },
   {
    "id": "gc:4872",
@@ -875,6 +804,28 @@
     "name": "Renfrew Community Association",
     "address": "811 Radford Rd NE"
    }
+  },
+  {
+   "id": "fb:6347923513:holidaymarket-1114",
+   "title": "Holiday Market",
+   "start": "2026-11-14T00:00:00-07:00",
+   "allDay": true,
+   "neighborhood": "bridgeland",
+   "category": "market",
+   "venue": {
+    "name": "Rehabilitation Society of Calgary",
+    "address": "7-11 St NE"
+   },
+   "description": "Holiday craft market; vendor applications close Oct 12 (rehabcalgary.ca/craftfair2026). Time not stated on the flyer.",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland/Riverside",
+    "url": "https://www.facebook.com/groups/6347923513/"
+   },
+   "firstSeen": "2026-10-03T08:05:06-06:00",
+   "lastSeen": "2026-10-03T08:30:58-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
   },
   {
    "id": "web:brca-dogos-1125",

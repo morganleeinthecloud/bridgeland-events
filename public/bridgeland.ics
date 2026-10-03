@@ -6,56 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Bridgeland & Renfrew Events
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:gc:726@bridgeland-events
-DTSTAMP:20261002T212609Z
-DTSTART:20260925T153000Z
-DTEND:20260925T170000Z
-SUMMARY:Tiny Tots Co-op Playgroup
-DESCRIPTION:Drop-in co-op playgroup for little ones and their caregivers.
-  | Area: renfrew | Source: Renfrew CA · getcommunal | https://renfrew.ge
- tcommunal.com/parent_programs
-LOCATION:Renfrew Community Association - West Hall (Lower), 811 Radford R
- d NE
-END:VEVENT
-BEGIN:VEVENT
-UID:gc:3939@bridgeland-events
-DTSTAMP:20261002T212609Z
-DTSTART:20260925T210000Z
-DTEND:20260926T010000Z
-SUMMARY:Farm Stand & Pub
-DESCRIPTION:Weekly farm stand in the hall; pub opens at 5 pm. | Area: ren
- frew | Source: Renfrew CA · getcommunal | https://renfrew.getcommunal.co
- m/parent_programs
-LOCATION:Renfrew Community Association, 811 Radford Rd NE
-END:VEVENT
-BEGIN:VEVENT
-UID:gc:4356@bridgeland-events
-DTSTAMP:20261002T212609Z
-DTSTART:20260926T000000Z
-DTEND:20260926T040000Z
-SUMMARY:Community Pub Night
-DESCRIPTION:Neighbourhood pub and game room; open to members and their gu
- ests, minors welcome with an adult. | Area: renfrew | Source: Renfrew CA
-  · getcommunal | https://renfrew.getcommunal.com/parent_programs
-LOCATION:Renfrew Social Room (basement of the community centre), 811 Radf
- ord Rd NE
-END:VEVENT
-BEGIN:VEVENT
-UID:gc:4279@bridgeland-events
-DTSTAMP:20261002T212609Z
-DTSTART:20260926T000000Z
-DTEND:20260926T030000Z
-SUMMARY:Jellybean Dance: September
-DESCRIPTION:Family dance with music, dancing, prizes and concession; the 
- pub is open all evening (children must be supervised). Cash accepted at 
- the door for September only. | Cost: Tickets in advance | Area: renfrew 
- | Source: Renfrew CA · getcommunal | https://renfrew.getcommunal.com/par
- ent_programs
-LOCATION:Renfrew Community Association, 811 Radford Rd NE
-END:VEVENT
-BEGIN:VEVENT
 UID:fb:1842625652616063:schulepark@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20260927T200000Z
 DTEND:20260927T213000Z
 SUMMARY:Schule Park celebration
@@ -67,7 +19,7 @@ LOCATION:Schule Park, 4th Ave & 11A St NE (beside Delta West Academy)
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-ward9-openhouse-0928@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20260929T000000Z
 DTEND:20260929T020000Z
 SUMMARY:Ward 9 Open House
@@ -78,7 +30,7 @@ LOCATION:Alexandra Community Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-walkgroup-0929@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20260930T004500Z
 DTEND:20260930T020000Z
 SUMMARY:Bridgeland Walking Group
@@ -88,7 +40,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-litterbrigade-0930@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261001T010000Z
 DTEND:20261001T020000Z
 SUMMARY:Litter Brigade
@@ -98,7 +50,7 @@ DESCRIPTION:BRCA community litter clean-up, 7-8pm. | Area: bridgeland | S
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-market-1001@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261001T213000Z
 DTEND:20261002T013000Z
 SUMMARY:Bridgeland Riverside Farmers' Market
@@ -108,7 +60,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-pubnight-1001@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261001T220000Z
 DTEND:20261002T030000Z
 SUMMARY:BRCA Pub Night
@@ -121,7 +73,7 @@ LOCATION:BRCA Hall (Bridgeland-Riverside Community Association), 917 Cent
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4873@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261003T000000Z
 DTEND:20261003T050000Z
 SUMMARY:Community Pub Night — Oktoberfest
@@ -133,7 +85,7 @@ LOCATION:Renfrew Social Room (basement of the community centre), 811 Radf
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4405@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261003T190000Z
 DTEND:20261003T220000Z
 SUMMARY:Crafternoon: Beading Workshop
@@ -145,7 +97,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniors-luncheon-1005@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261005T180000Z
 DTEND:20261005T200000Z
 SUMMARY:Fall Seniors Luncheon
@@ -158,17 +110,18 @@ LOCATION:BRCA Hall (Bridgeland-Riverside Community Association), 917 Cent
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-walkgroup-1006@bridgeland-events
-DTSTAMP:20261002T212609Z
-DTSTART:20261007T004500Z
+DTSTAMP:20261003T143058Z
+DTSTART:20261007T003000Z
 SUMMARY:Bridgeland Walking Group
-DESCRIPTION:Weekly neighbourhood walk, meeting at the BRCA Hall. | Area: 
- bridgeland | Source: Bridgeland-Riverside Community Association | https:
- //brcacalgary.org/connect/events-activities/
+DESCRIPTION:Weekly neighbourhood walk, meeting at the BRCA Hall; October 
+ walks start 6:30pm (per the October walk poster). | Area: bridgeland | S
+ ource: Bridgeland-Riverside Community Association | https://brcacalgary.
+ org/connect/events-activities/
 LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorgames-1007@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261007T060000Z
 SUMMARY:Senior Games Day
 DESCRIPTION:Drop-in games day for seniors upstairs at the BRCA Hall; no t
@@ -178,7 +131,7 @@ LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4251@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261010T000000Z
 DTEND:20261010T023000Z
 SUMMARY:Sewcial Club
@@ -188,7 +141,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4357@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261010T000000Z
 DTEND:20261010T040000Z
 SUMMARY:Community Pub Night
@@ -199,8 +152,18 @@ LOCATION:Renfrew Social Room (basement of the community centre), 811 Radf
  ord Rd NE
 END:VEVENT
 BEGIN:VEVENT
+UID:web:brca-walkgroup-1013@bridgeland-events
+DTSTAMP:20261003T143058Z
+DTSTART:20261014T003000Z
+SUMMARY:Bridgeland Walking Group
+DESCRIPTION:Weekly neighbourhood walk - October 13 route: Residential Str
+ eet / Drury Avenue. | Area: bridgeland | Source: brcacalgary.org | https
+ ://brcacalgary.org/
+LOCATION:BRCA Hall, 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:gc:4794@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261015T010000Z
 DTEND:20261015T030000Z
 SUMMARY:Renfrew Community Conversation: The Ghosts of Renfrew
@@ -211,7 +174,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:cal:2d6p04rd@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261015T010000Z
 DTEND:20261015T030000Z
 SUMMARY:Speaker Series
@@ -221,16 +184,17 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-safeconnected-1015@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261016T010000Z
 SUMMARY:Safe & Connected with CPS
 DESCRIPTION:Community safety evening with Calgary Police Service, hosted 
  by BRCA. | Area: bridgeland | Source: BRCA · brcacalgary.org | https://b
  rcacalgary.org/
+LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4898@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261016T170000Z
 DTEND:20261017T060000Z
 SUMMARY:Casino Fundraiser Event
@@ -241,7 +205,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4257@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261017T000000Z
 DTEND:20261017T030000Z
 SUMMARY:Role Playing Games for Families and Beginners
@@ -251,7 +215,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4358@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261017T000000Z
 DTEND:20261017T040000Z
 SUMMARY:Community Pub Night
@@ -263,7 +227,7 @@ LOCATION:Renfrew Social Room (basement of the community centre), 811 Radf
 END:VEVENT
 BEGIN:VEVENT
 UID:web:beacon-art-show-1017@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261017T160000Z
 DTEND:20261017T220000Z
 SUMMARY:Beacon Original Art Fall Show & Sale (Day 1)
@@ -276,7 +240,7 @@ LOCATION:BRCA Hall (Bridgeland-Riverside Community Association), 917 Cent
 END:VEVENT
 BEGIN:VEVENT
 UID:web:cmc-trickortreat-1017@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261017T170000Z
 DTEND:20261018T000000Z
 SUMMARY:Trick-or-Treat Market
@@ -287,7 +251,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:beacon-art-show-1018@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261018T160000Z
 DTEND:20261018T220000Z
 SUMMARY:Beacon Original Art Fall Show & Sale (Day 2)
@@ -299,7 +263,7 @@ LOCATION:BRCA Hall (Bridgeland-Riverside Community Association), 917 Cent
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorgames-1021@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261021T060000Z
 SUMMARY:Senior Games Day
 DESCRIPTION:Drop-in games day for seniors upstairs at the BRCA Hall; no t
@@ -309,7 +273,7 @@ LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-dogos-1021@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261022T010000Z
 DTEND:20261022T020000Z
 SUMMARY:D.O.G.O.S. Community Walk
@@ -320,7 +284,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4254@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261023T003000Z
 DTEND:20261023T023000Z
 SUMMARY:Pack Walk — Halloween Costume Walk
@@ -330,7 +294,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4367@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261024T000000Z
 DTEND:20261024T030000Z
 SUMMARY:Jellybean Dance: October (Halloween)
@@ -340,7 +304,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4360@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261031T000000Z
 DTEND:20261031T040000Z
 SUMMARY:Community Pub Night — Halloween
@@ -350,17 +314,18 @@ LOCATION:Renfrew Social Room
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-trunkortreat-1031@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261031T230000Z
 DTEND:20261101T020000Z
 SUMMARY:Trunk or Treat
 DESCRIPTION:Halloween trick-or-treating event hosted by BRCA (time from t
  he BRCA listing; details in poster). | Area: bridgeland | Source: BRCA ·
   brcacalgary.org | https://brcacalgary.org/
+LOCATION:BRCA Hall parking lot, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4872@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261107T000000Z
 DTEND:20261107T040000Z
 SUMMARY:Community Pub Night
@@ -370,7 +335,7 @@ LOCATION:Renfrew Social Room
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4779@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261107T190000Z
 DTEND:20261107T210000Z
 SUMMARY:Crafternoon: Design your own tote bag
@@ -380,7 +345,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4255@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261113T013000Z
 DTEND:20261113T033000Z
 SUMMARY:Pack Walk
@@ -390,7 +355,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4252@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261114T000000Z
 DTEND:20261114T023000Z
 SUMMARY:Sewcial Club
@@ -399,8 +364,19 @@ DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
 LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:6347923513:holidaymarket-1114@bridgeland-events
+DTSTAMP:20261003T143058Z
+DTSTART:20261114T070000Z
+SUMMARY:Holiday Market
+DESCRIPTION:Holiday craft market; vendor applications close Oct 12 (rehab
+ calgary.ca/craftfair2026). Time not stated on the flyer. | Area: bridgel
+ and | Source: Bridgeland/Riverside | https://www.facebook.com/groups/634
+ 7923513/
+LOCATION:Rehabilitation Society of Calgary, 7-11 St NE
+END:VEVENT
+BEGIN:VEVENT
 UID:web:brca-dogos-1125@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261126T020000Z
 DTEND:20261126T030000Z
 SUMMARY:D.O.G.O.S. Community Walk
@@ -411,7 +387,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:cmc-holiday-1128@bridgeland-events
-DTSTAMP:20261002T212609Z
+DTSTAMP:20261003T143058Z
 DTSTART:20261128T170000Z
 DTEND:20261129T000000Z
 SUMMARY:Holiday Market
