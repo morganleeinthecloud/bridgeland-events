@@ -70,6 +70,29 @@
    "name": "Annie Gale Park"
   }
  },
+ "fb:1842625652616063:schulepark": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Postponed to Sunday Sep 27 due to the Saturday forecast: learn about early settlers in Bridgeland and the historic Bridgeland School.",
+  "end": "2026-09-27T15:30:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "fb:1842625652616063:schulepark",
+  "lastSeen": "2026-09-26T08:30:50-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "facebook-page",
+   "name": "BRCACalgary",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-09-27T14:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Schule Park celebration",
+  "venue": {
+   "address": "4th Ave & 11A St NE (beside Delta West Academy)",
+   "name": "Schule Park"
+  }
+ },
  "fb:6347923513:10165804377273514": {
   "allDay": false,
   "category": "food-drink",
