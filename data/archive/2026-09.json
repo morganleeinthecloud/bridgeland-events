@@ -349,6 +349,28 @@
    "name": "BRCA Hall"
   }
  },
+ "web:brca-ward9-openhouse-0928": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Ward 9 community open house, listed by the BRCA on its events page.",
+  "end": "2026-09-28T20:00:00-06:00",
+  "firstSeen": "2026-09-24T09:00:00-06:00",
+  "id": "web:brca-ward9-openhouse-0928",
+  "lastSeen": "2026-09-24T08:30:49-06:00",
+  "neighborhood": "both",
+  "source": {
+   "kind": "community-site",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-09-28T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Ward 9 Open House",
+  "venue": {
+   "name": "Alexandra Community Centre"
+  }
+ },
  "web:bridgeland-mainstreet-celebration-0919": {
   "allDay": false,
   "category": "civic",

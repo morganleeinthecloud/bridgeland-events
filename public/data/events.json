@@ -1,38 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-05T10:30:59-06:00",
- "scannedAt": "2026-10-05T10:30:59-06:00",
+ "generatedAt": "2026-10-06T08:30:59-06:00",
+ "scannedAt": "2026-10-06T08:30:59-06:00",
  "window": {
-  "from": "2026-09-28",
+  "from": "2026-09-29",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 35,
-  "new": 1
+  "total": 36,
+  "new": 2
  },
  "events": [
-  {
-   "id": "web:brca-ward9-openhouse-0928",
-   "title": "Ward 9 Open House",
-   "start": "2026-09-28T18:00:00-06:00",
-   "end": "2026-09-28T20:00:00-06:00",
-   "allDay": false,
-   "neighborhood": "both",
-   "category": "civic",
-   "venue": {
-    "name": "Alexandra Community Centre"
-   },
-   "description": "Ward 9 community open house, listed by the BRCA on its events page.",
-   "source": {
-    "kind": "community-site",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://brcacalgary.org/connect/events-activities/"
-   },
-   "firstSeen": "2026-09-24T09:00:00-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-09-24T08:30:49-06:00"
-  },
   {
    "id": "web:brca-walkgroup-0929",
    "title": "Bridgeland Walking Group",
@@ -251,6 +229,54 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-09-24T08:30:49-06:00"
+  },
+  {
+   "id": "gc:726",
+   "title": "Tiny Tots Co-op Playgroup",
+   "start": "2026-10-09T11:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "venue": {
+    "name": "Renfrew Community Association - West Hall (Lower)",
+    "address": "811 Radford Rd NE"
+   },
+   "description": "Parented, unstructured drop-in playgroup for children 5 and under, run by parent volunteers.",
+   "firstSeen": "2026-10-06T08:10:00-06:00",
+   "lastSeen": "2026-10-06T08:30:59-06:00",
+   "status": "upcoming"
+  },
+  {
+   "id": "gc:3939",
+   "title": "Farm Stand & Pub Night (Summer Fun Friday's)",
+   "start": "2026-10-09T15:00:00-06:00",
+   "end": "2026-10-09T19:00:00-06:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "market",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "venue": {
+    "name": "Renfrew Community Association"
+   },
+   "description": "Weekly farm stand 3-7pm with rotating food trucks; the community pub opens at 5pm.",
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-farm-stand"
+   },
+   "firstSeen": "2026-10-06T08:10:00-06:00",
+   "lastSeen": "2026-10-06T08:30:59-06:00",
+   "status": "upcoming"
   },
   {
    "id": "gc:4251",
@@ -834,7 +860,7 @@
   {
    "id": "web:cmc-holiday-1128",
    "title": "Holiday Market",
-   "start": "2026-11-28T11:00:00-06:00",
+   "start": "2026-11-28T11:00:00-07:00",
    "end": "2026-11-28T18:00:00-06:00",
    "allDay": false,
    "timezone": "America/Edmonton",
@@ -852,7 +878,7 @@
    },
    "description": "Change Makers Collective holiday market with local makers at the Renfrew Community Association.",
    "firstSeen": "2026-09-21T08:04:47-06:00",
-   "lastSeen": "2026-09-21T08:57:46-06:00"
+   "lastSeen": "2026-10-06T08:30:59-06:00"
   }
  ]
 }
