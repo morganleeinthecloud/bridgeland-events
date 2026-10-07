@@ -349,6 +349,32 @@
    "name": "BRCA Hall"
   }
  },
+ "web:brca-walkgroup-0929": {
+  "allDay": false,
+  "category": "outdoors",
+  "end": "2026-09-29T20:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "web:brca-walkgroup-0929",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "every Tuesday",
+   "seriesId": "brca-walking-group"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "brcacalgary.org",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-09-29T18:45:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Bridgeland Walking Group",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall"
+  }
+ },
  "web:brca-ward9-openhouse-0928": {
   "allDay": false,
   "category": "civic",

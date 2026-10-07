@@ -1,42 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-06T10:30:59-06:00",
- "scannedAt": "2026-10-06T10:30:59-06:00",
+ "generatedAt": "2026-10-07T08:30:00-06:00",
+ "scannedAt": "2026-10-07T08:30:00-06:00",
  "window": {
-  "from": "2026-09-29",
+  "from": "2026-09-30",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 36,
-  "new": 1
+  "total": 39,
+  "new": 4
  },
  "events": [
-  {
-   "id": "web:brca-walkgroup-0929",
-   "title": "Bridgeland Walking Group",
-   "start": "2026-09-29T18:45:00-06:00",
-   "end": "2026-09-29T20:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "source": {
-    "kind": "community-site",
-    "name": "brcacalgary.org",
-    "url": "https://brcacalgary.org/connect/events-activities/"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE"
-   },
-   "recurrence": {
-    "label": "every Tuesday",
-    "seriesId": "brca-walking-group"
-   }
-  },
   {
    "id": "web:brca-litterbrigade-0930",
    "title": "Litter Brigade",
@@ -316,7 +290,7 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-25T08:02:21-06:00",
-   "lastSeen": "2026-09-25T08:30:49-06:00",
+   "lastSeen": "2026-10-07T08:30:00-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Social Room (basement of the community centre)",
@@ -326,7 +300,7 @@
     "label": "every Friday",
     "seriesId": "renfrew-pub-night"
    },
-   "description": "Neighbourhood pub and game room; open to members and their guests, minors welcome with an adult."
+   "description": "Neighbourhood pub and game room; open to members and their guests, minors welcome with an adult. Fri Oct 9 is a Social Room Mom Night Out - Bridgeland and Renfrew parents meeting at the RCA."
   },
   {
    "id": "web:brca-walkgroup-1013",
@@ -665,6 +639,28 @@
    "cost": "Tickets in advance"
   },
   {
+   "id": "fb:brcacalgary:sewschool-close-1024",
+   "title": "Sew School: Close (hand sewing, ages 6-9)",
+   "start": "2026-10-24T00:00:00-06:00",
+   "allDay": true,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "Bridgeland Riverside Community Center",
+    "address": "917 Centre Ave NE"
+   },
+   "description": "Kids' hand-sewing workshop, ages 6-9: make a pocket of your own design using closures. Registration at sewschoolcalgary.com; time not stated on the flyer.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "BRCA (Bridgeland-Riverside Community Association)",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "firstSeen": "2026-10-07T08:20:00-06:00",
+   "lastSeen": "2026-10-07T08:30:00-06:00",
+   "status": "upcoming"
+  },
+  {
    "id": "gc:4360",
    "title": "Community Pub Night \u2014 Halloween",
    "start": "2026-10-30T18:00:00-06:00",
@@ -831,6 +827,50 @@
    "timezone": "America/Edmonton"
   },
   {
+   "id": "fb:brcacalgary:sewschool-stitch-1114",
+   "title": "Sew School: Stitch (machine sewing, ages 9-12)",
+   "start": "2026-11-14T00:00:00-07:00",
+   "allDay": true,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "Bridgeland Riverside Community Center",
+    "address": "917 Centre Ave NE"
+   },
+   "description": "Machine-sewing session 1 of 3 (Nov 14, 21 & 28), ages 9-12, at the community centre. Registration at sewschoolcalgary.com; time not stated on the flyer.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "BRCA (Bridgeland-Riverside Community Association)",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "firstSeen": "2026-10-07T08:20:00-06:00",
+   "lastSeen": "2026-10-07T08:30:00-06:00",
+   "status": "upcoming"
+  },
+  {
+   "id": "fb:brcacalgary:sewschool-stitch-1121",
+   "title": "Sew School: Stitch (machine sewing, ages 9-12)",
+   "start": "2026-11-21T00:00:00-07:00",
+   "allDay": true,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "Bridgeland Riverside Community Center",
+    "address": "917 Centre Ave NE"
+   },
+   "description": "Machine-sewing session 2 of 3 (Nov 14, 21 & 28), ages 9-12, at the community centre. Registration at sewschoolcalgary.com.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "BRCA (Bridgeland-Riverside Community Association)",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "firstSeen": "2026-10-07T08:20:00-06:00",
+   "lastSeen": "2026-10-07T08:30:00-06:00",
+   "status": "upcoming"
+  },
+  {
    "id": "web:brca-dogos-1125",
    "title": "D.O.G.O.S. Community Walk",
    "start": "2026-11-25T19:00:00-07:00",
@@ -856,6 +896,28 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-09-24T08:30:49-06:00"
+  },
+  {
+   "id": "fb:brcacalgary:sewschool-stitch-1128",
+   "title": "Sew School: Stitch (machine sewing, ages 9-12)",
+   "start": "2026-11-28T00:00:00-07:00",
+   "allDay": true,
+   "timezone": "America/Edmonton",
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "Bridgeland Riverside Community Center",
+    "address": "917 Centre Ave NE"
+   },
+   "description": "Machine-sewing session 3 of 3 (Nov 14, 21 & 28), ages 9-12, at the community centre. Registration at sewschoolcalgary.com.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "BRCA (Bridgeland-Riverside Community Association)",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "firstSeen": "2026-10-07T08:20:00-06:00",
+   "lastSeen": "2026-10-07T08:30:00-06:00",
+   "status": "upcoming"
   },
   {
    "id": "web:cmc-holiday-1128",
