@@ -295,6 +295,25 @@
    "name": "Renfrew Community Association - West Hall (Lower)"
   }
  },
+ "web:brca-litterbrigade-0930": {
+  "allDay": false,
+  "category": "outdoors",
+  "description": "BRCA community litter clean-up, 7-8pm.",
+  "end": "2026-09-30T20:00:00-06:00",
+  "firstSeen": "2026-09-25T08:02:21-06:00",
+  "id": "web:brca-litterbrigade-0930",
+  "lastSeen": "2026-09-25T08:30:49-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "community-site",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-09-30T19:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Litter Brigade"
+ },
  "web:brca-market-0924": {
   "allDay": false,
   "category": "market",

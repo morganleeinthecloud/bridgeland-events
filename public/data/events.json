@@ -1,35 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-07T08:30:00-06:00",
- "scannedAt": "2026-10-07T08:30:00-06:00",
+ "generatedAt": "2026-10-08T08:30:00-06:00",
+ "scannedAt": "2026-10-08T08:30:00-06:00",
  "window": {
-  "from": "2026-09-30",
+  "from": "2026-10-01",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 39,
-  "new": 4
+  "total": 38,
+  "new": 0
  },
  "events": [
-  {
-   "id": "web:brca-litterbrigade-0930",
-   "title": "Litter Brigade",
-   "start": "2026-09-30T19:00:00-06:00",
-   "end": "2026-09-30T20:00:00-06:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "description": "BRCA community litter clean-up, 7-8pm.",
-   "source": {
-    "kind": "community-site",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://brcacalgary.org/connect/events-activities/"
-   },
-   "firstSeen": "2026-09-25T08:02:21-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-09-25T08:30:49-06:00"
-  },
   {
    "id": "web:brca-market-1001",
    "title": "Bridgeland Riverside Farmers' Market",
