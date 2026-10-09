@@ -1,0 +1,52 @@
+{
+ "web:brca-market-1001": {
+  "allDay": false,
+  "category": "market",
+  "end": "2026-10-01T19:30:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "web:brca-market-1001",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "every Thursday",
+   "seriesId": "brca-farmers-market"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "brcacalgary.org",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-10-01T15:30:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Bridgeland Riverside Farmers' Market",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall"
+  }
+ },
+ "web:brca-pubnight-1001": {
+  "allDay": false,
+  "category": "social",
+  "cost": "Free; memberships available at the door",
+  "description": "Community hall pub night and fundraiser for the Bridgeland-Riverside Community Association; drop in any time.",
+  "end": "2026-10-01T21:00:00-06:00",
+  "firstSeen": "2026-09-22T08:02:27-06:00",
+  "id": "web:brca-pubnight-1001",
+  "lastSeen": "2026-09-22T08:30:07-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "community-site",
+   "name": "brcacalgary.org",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-10-01T16:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "BRCA Pub Night",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
+  }
+ }
+}
