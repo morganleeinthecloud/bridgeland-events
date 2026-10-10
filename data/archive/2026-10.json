@@ -1,4 +1,28 @@
 {
+ "gc:4873": {
+  "allDay": false,
+  "category": "social",
+  "cost": "19+",
+  "description": "Oktoberfest-themed pub night in the Renfrew Social Room.",
+  "end": "2026-10-02T23:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4873",
+  "lastSeen": "2026-09-22T10:30:48-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-10-02T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Community Pub Night \u2014 Oktoberfest",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Social Room (basement of the community centre)"
+  }
+ },
  "web:brca-market-1001": {
   "allDay": false,
   "category": "market",
