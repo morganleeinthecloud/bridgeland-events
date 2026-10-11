@@ -1,4 +1,28 @@
 {
+ "gc:4405": {
+  "allDay": false,
+  "category": "class",
+  "cost": "Registration required",
+  "description": "Social crafting afternoon \u2014 beading workshop; registration and/or drop-in.",
+  "end": "2026-10-03T16:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4405",
+  "lastSeen": "2026-09-22T10:30:48-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-10-03T13:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Crafternoon: Beading Workshop",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
  "gc:4873": {
   "allDay": false,
   "category": "social",
