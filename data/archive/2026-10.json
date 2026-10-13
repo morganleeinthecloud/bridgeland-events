@@ -96,5 +96,29 @@
    "address": "917 Centre Ave NE",
    "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
   }
+ },
+ "web:brca-seniors-luncheon-1005": {
+  "allDay": false,
+  "category": "social",
+  "cost": "Free - must register",
+  "description": "Free seniors luncheon; register at programs@brcacalgary.org or 403-263-5755, and note any dietary restrictions.",
+  "end": "2026-10-05T14:00:00-06:00",
+  "firstSeen": "2026-09-22T08:02:27-06:00",
+  "id": "web:brca-seniors-luncheon-1005",
+  "lastSeen": "2026-09-22T08:30:07-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "community-site",
+   "name": "brcacalgary.org",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-10-05T12:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Fall Seniors Luncheon",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
+  }
  }
 }

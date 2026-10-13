@@ -1,40 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-12T08:30:01-06:00",
- "scannedAt": "2026-10-12T08:30:01-06:00",
+ "generatedAt": "2026-10-13T08:30:02-06:00",
+ "scannedAt": "2026-10-13T08:30:02-06:00",
  "window": {
-  "from": "2026-10-05",
+  "from": "2026-10-06",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 37,
-  "new": 1
+  "total": 38,
+  "new": 2
  },
  "events": [
-  {
-   "id": "web:brca-seniors-luncheon-1005",
-   "title": "Fall Seniors Luncheon",
-   "start": "2026-10-05T12:00:00-06:00",
-   "end": "2026-10-05T14:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "bridgeland",
-   "category": "social",
-   "status": "upcoming",
-   "venue": {
-    "name": "BRCA Hall (Bridgeland-Riverside Community Association)",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "Free - must register",
-   "source": {
-    "kind": "community-site",
-    "name": "brcacalgary.org",
-    "url": "https://brcacalgary.org/connect/events-activities/"
-   },
-   "description": "Free seniors luncheon; register at programs@brcacalgary.org or 403-263-5755, and note any dietary restrictions.",
-   "firstSeen": "2026-09-22T08:02:27-06:00",
-   "lastSeen": "2026-09-22T08:30:07-06:00"
-  },
   {
    "id": "web:brca-walkgroup-1006",
    "title": "Bridgeland Walking Group",
@@ -302,6 +278,24 @@
    }
   },
   {
+   "id": "fb:6347923513:muralart-1016",
+   "title": "Mural Art Group \u2014 Acrylic Painting with Colleen Davis",
+   "start": "2026-10-16T00:00:00-06:00",
+   "allDay": true,
+   "neighborhood": "both",
+   "category": "class",
+   "description": "Drop-in acrylic painting session; part of the Bridgeland/Riverside mural art group \u2014 two remaining sessions, Oct 16 and Oct 23 (no time posted).",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland/Riverside",
+    "url": "https://www.facebook.com/groups/6347923513/posts/10165922814443514/"
+   },
+   "firstSeen": "2026-10-13T08:02:28-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-13T08:30:02-06:00"
+  },
+  {
    "id": "gc:4898",
    "title": "Casino Fundraiser Event",
    "start": "2026-10-16T11:00:00-06:00",
@@ -520,6 +514,24 @@
     "label": "recurring",
     "seriesId": "renfrew-pack-walk"
    }
+  },
+  {
+   "id": "fb:6347923513:muralart-1023",
+   "title": "Mural Art Group \u2014 Acrylic Painting with Colleen Davis",
+   "start": "2026-10-23T00:00:00-06:00",
+   "allDay": true,
+   "neighborhood": "both",
+   "category": "class",
+   "description": "Drop-in acrylic painting session; part of the Bridgeland/Riverside mural art group \u2014 final session (no time posted).",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland/Riverside",
+    "url": "https://www.facebook.com/groups/6347923513/posts/10165922814443514/"
+   },
+   "firstSeen": "2026-10-13T08:02:28-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-13T08:30:02-06:00"
   },
   {
    "id": "gc:4367",
