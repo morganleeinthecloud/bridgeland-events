@@ -120,5 +120,31 @@
    "address": "917 Centre Ave NE",
    "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
   }
+ },
+ "web:brca-walkgroup-1006": {
+  "allDay": false,
+  "category": "outdoors",
+  "description": "Weekly neighbourhood walk, meeting at the BRCA Hall; October walks start 6:30pm (per the October walk poster).",
+  "firstSeen": "2026-09-24T09:00:00-06:00",
+  "id": "web:brca-walkgroup-1006",
+  "lastSeen": "2026-10-03T08:30:58-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "every Tuesday",
+   "seriesId": "brca-walkgroup"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-10-06T18:30:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Bridgeland Walking Group",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall"
+  }
  }
 }
