@@ -1,42 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-14T08:30:02-06:00",
- "scannedAt": "2026-10-14T08:30:02-06:00",
+ "generatedAt": "2026-10-15T08:30:03-06:00",
+ "scannedAt": "2026-10-15T08:30:03-06:00",
  "window": {
-  "from": "2026-10-07",
+  "from": "2026-10-09",
   "to": "2026-11-28"
  },
  "counts": {
-  "total": 39,
-  "new": 2
+  "total": 38,
+  "new": 0
  },
  "events": [
-  {
-   "id": "web:brca-seniorgames-1007",
-   "title": "Senior Games Day",
-   "start": "2026-10-07T00:00:00-06:00",
-   "allDay": true,
-   "neighborhood": "bridgeland",
-   "category": "social",
-   "venue": {
-    "name": "BRCA Hall (upstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "description": "Drop-in games day for seniors upstairs at the BRCA Hall; no time listed.",
-   "source": {
-    "kind": "community-site",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://brcacalgary.org/connect/events-activities/"
-   },
-   "recurrence": {
-    "label": "every second Wednesday",
-    "seriesId": "brca-senior-games"
-   },
-   "firstSeen": "2026-09-24T09:00:00-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-09-24T08:30:49-06:00"
-  },
   {
    "id": "gc:3939",
    "title": "Farm Stand & Pub Night (Summer Fun Friday's)",

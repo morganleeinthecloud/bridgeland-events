@@ -97,6 +97,32 @@
    "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
   }
  },
+ "web:brca-seniorgames-1007": {
+  "allDay": true,
+  "category": "social",
+  "description": "Drop-in games day for seniors upstairs at the BRCA Hall; no time listed.",
+  "firstSeen": "2026-09-24T09:00:00-06:00",
+  "id": "web:brca-seniorgames-1007",
+  "lastSeen": "2026-09-24T08:30:49-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "every second Wednesday",
+   "seriesId": "brca-senior-games"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://brcacalgary.org/connect/events-activities/"
+  },
+  "start": "2026-10-07T00:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Senior Games Day",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (upstairs)"
+  }
+ },
  "web:brca-seniors-luncheon-1005": {
   "allDay": false,
   "category": "social",
