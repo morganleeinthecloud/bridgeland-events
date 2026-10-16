@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-10-15T08:30:03-06:00",
- "scannedAt": "2026-10-15T08:30:03-06:00",
+ "generatedAt": "2026-10-16T08:30:03-06:00",
+ "scannedAt": "2026-10-16T08:30:03-06:00",
  "window": {
   "from": "2026-10-09",
-  "to": "2026-11-28"
+  "to": "2026-12-18"
  },
  "counts": {
-  "total": 38,
-  "new": 0
+  "total": 49,
+  "new": 11
  },
  "events": [
   {
@@ -680,8 +680,8 @@
   {
    "id": "gc:4872",
    "title": "Community Pub Night",
-   "start": "2026-11-06T18:00:00-06:00",
-   "end": "2026-11-06T22:00:00-06:00",
+   "start": "2026-11-06T18:00:00-07:00",
+   "end": "2026-11-06T22:00:00-07:00",
    "allDay": false,
    "timezone": "America/Edmonton",
    "neighborhood": "renfrew",
@@ -692,7 +692,7 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Social Room"
@@ -705,8 +705,8 @@
   {
    "id": "gc:4779",
    "title": "Crafternoon: Design your own tote bag",
-   "start": "2026-11-07T13:00:00-06:00",
-   "end": "2026-11-07T15:00:00-06:00",
+   "start": "2026-11-07T13:00:00-07:00",
+   "end": "2026-11-07T15:00:00-07:00",
    "allDay": false,
    "timezone": "America/Edmonton",
    "neighborhood": "renfrew",
@@ -717,7 +717,7 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Community Association",
@@ -728,8 +728,8 @@
   {
    "id": "gc:4255",
    "title": "Pack Walk",
-   "start": "2026-11-12T19:30:00-06:00",
-   "end": "2026-11-12T21:30:00-06:00",
+   "start": "2026-11-12T19:30:00-07:00",
+   "end": "2026-11-12T21:30:00-07:00",
    "allDay": false,
    "timezone": "America/Edmonton",
    "neighborhood": "renfrew",
@@ -740,7 +740,7 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Community Association",
@@ -754,8 +754,8 @@
   {
    "id": "gc:4252",
    "title": "Sewcial Club",
-   "start": "2026-11-13T18:00:00-06:00",
-   "end": "2026-11-13T20:30:00-06:00",
+   "start": "2026-11-13T18:00:00-07:00",
+   "end": "2026-11-13T20:30:00-07:00",
    "allDay": false,
    "timezone": "America/Edmonton",
    "neighborhood": "renfrew",
@@ -766,11 +766,60 @@
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
    "status": "upcoming",
    "venue": {
     "name": "Renfrew Community Association",
     "address": "811 Radford Rd NE"
+   }
+  },
+  {
+   "id": "gc:4361",
+   "title": "Community Pub Night",
+   "start": "2026-11-13T18:00:00-07:00",
+   "end": "2026-11-13T22:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Friday night out in the Renfrew Social Room - cheap drinks, shuffleboard, pool, foosball, darts and board games; minors welcome with a parent.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association (Social Room)",
+    "address": "811 Radford Road NE"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
+  },
+  {
+   "id": "gc:5007",
+   "title": "Family Game Night - Card Tournament",
+   "start": "2026-11-13T18:00:00-07:00",
+   "end": "2026-11-13T21:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Evening of Hearts, cards and friendly competition - no experience necessary, prizes for the winners.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association"
    }
   },
   {
@@ -818,6 +867,78 @@
    "status": "upcoming"
   },
   {
+   "id": "gc:5008",
+   "title": "Renfrew Community Conversation: Green Calgary - Managing Your Food Waste",
+   "start": "2026-11-18T19:00:00-07:00",
+   "end": "2026-11-18T21:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "civic",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Workshop on easy food planning, storing and preserving food, and buying affordable local produce. Spill the Beans: Managing Your Food Waste.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association"
+   }
+  },
+  {
+   "id": "gc:4874",
+   "title": "Community Pub Night",
+   "start": "2026-11-20T18:00:00-07:00",
+   "end": "2026-11-20T22:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Friday night out in the Renfrew Social Room - cheap drinks, shuffleboard, pool, foosball, darts and board games; minors welcome with a parent.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association (Social Room)",
+    "address": "811 Radford Road NE"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
+  },
+  {
+   "id": "gc:2173",
+   "title": "Renfrew Community Association AGM",
+   "start": "2026-11-20T19:00:00-07:00",
+   "end": "2026-11-20T21:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "civic",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Annual General Meeting: President's and Treasurer's reports, bylaw updates and election of the Board. Voting requires an active RCA membership held 30 days prior.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Hall",
+    "address": "811 Radford Road NE"
+   }
+  },
+  {
    "id": "fb:brcacalgary:sewschool-stitch-1121",
    "title": "Sew School: Stitch (machine sewing, ages 9-12)",
    "start": "2026-11-21T00:00:00-07:00",
@@ -838,6 +959,28 @@
    "firstSeen": "2026-10-07T08:20:00-06:00",
    "lastSeen": "2026-10-07T08:30:00-06:00",
    "status": "upcoming"
+  },
+  {
+   "id": "gc:5035",
+   "title": "Makers Mingle: Holiday Card Making",
+   "start": "2026-11-25T18:00:00-07:00",
+   "end": "2026-11-25T21:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "class",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Festive evening of holiday card making - all supplies provided, no crafting experience needed. The pub is open throughout.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association"
+   }
   },
   {
    "id": "web:brca-dogos-1125",
@@ -865,6 +1008,55 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-09-24T08:30:49-06:00"
+  },
+  {
+   "id": "gc:4362",
+   "title": "Community Pub Night",
+   "start": "2026-11-27T18:00:00-07:00",
+   "end": "2026-11-27T22:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Friday night out in the Renfrew Social Room - cheap drinks, shuffleboard, pool, foosball, darts and board games; minors welcome with a parent.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association (Social Room)",
+    "address": "811 Radford Road NE"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
+  },
+  {
+   "id": "gc:5018",
+   "title": "Jellybean Dance: Holiday edition",
+   "start": "2026-11-27T18:00:00-07:00",
+   "end": "2026-11-27T21:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Final Jellybean Dance of the year - music, dancing, prizes and concession, pub open all evening. Bring a new, unwrapped toy or gift card for the Women's Centre of Calgary Toy Room.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association"
+   }
   },
   {
    "id": "fb:brcacalgary:sewschool-stitch-1128",
@@ -910,6 +1102,87 @@
    "description": "Change Makers Collective holiday market with local makers at the Renfrew Community Association.",
    "firstSeen": "2026-09-21T08:04:47-06:00",
    "lastSeen": "2026-10-06T08:30:59-06:00"
+  },
+  {
+   "id": "gc:4363",
+   "title": "Community Pub Night",
+   "start": "2026-12-04T18:00:00-07:00",
+   "end": "2026-12-04T22:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Friday night out in the Renfrew Social Room - cheap drinks, shuffleboard, pool, foosball, darts and board games; minors welcome with a parent.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association (Social Room)",
+    "address": "811 Radford Road NE"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
+  },
+  {
+   "id": "gc:4364",
+   "title": "Community Pub Night",
+   "start": "2026-12-11T18:00:00-07:00",
+   "end": "2026-12-11T22:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Friday night out in the Renfrew Social Room - cheap drinks, shuffleboard, pool, foosball, darts and board games; minors welcome with a parent.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association (Social Room)",
+    "address": "811 Radford Road NE"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
+  },
+  {
+   "id": "gc:4875",
+   "title": "Community Pub Night - Christmas Sweater Night",
+   "start": "2026-12-18T18:00:00-07:00",
+   "end": "2026-12-18T22:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "social",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Friday night out in the Renfrew Social Room - cheap drinks, shuffleboard, pool, foosball, darts and board games; minors welcome with a parent.",
+   "firstSeen": "2026-10-16T08:15:00-06:00",
+   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association (Social Room)",
+    "address": "811 Radford Road NE"
+   },
+   "recurrence": {
+    "label": "every Friday",
+    "seriesId": "renfrew-pub-night"
+   }
   }
  ]
 }
