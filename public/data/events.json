@@ -1,92 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-16T08:30:03-06:00",
- "scannedAt": "2026-10-16T08:30:03-06:00",
+ "generatedAt": "2026-10-17T08:30:03-06:00",
+ "scannedAt": "2026-10-17T08:30:03-06:00",
  "window": {
-  "from": "2026-10-09",
+  "from": "2026-10-13",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 49,
-  "new": 11
+  "total": 47,
+  "new": 1
  },
  "events": [
-  {
-   "id": "gc:3939",
-   "title": "Farm Stand & Pub Night (Summer Fun Friday's)",
-   "start": "2026-10-09T15:00:00-06:00",
-   "end": "2026-10-09T19:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "market",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "venue": {
-    "name": "Renfrew Community Association"
-   },
-   "description": "Weekly farm stand 3-7pm with rotating food trucks; the community pub opens at 5pm.",
-   "recurrence": {
-    "label": "every Friday",
-    "seriesId": "renfrew-farm-stand"
-   },
-   "firstSeen": "2026-10-06T08:10:00-06:00",
-   "lastSeen": "2026-10-06T08:30:59-06:00",
-   "status": "upcoming"
-  },
-  {
-   "id": "gc:4251",
-   "title": "Sewcial Club",
-   "start": "2026-10-09T18:00:00-06:00",
-   "end": "2026-10-09T20:30:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "class",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   },
-   "description": "Connect, sip and sew."
-  },
-  {
-   "id": "gc:4357",
-   "title": "Community Pub Night",
-   "start": "2026-10-09T18:00:00-06:00",
-   "end": "2026-10-09T22:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "social",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-25T08:02:21-06:00",
-   "lastSeen": "2026-10-07T08:30:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Social Room (basement of the community centre)",
-    "address": "811 Radford Rd NE"
-   },
-   "recurrence": {
-    "label": "every Friday",
-    "seriesId": "renfrew-pub-night"
-   },
-   "description": "Neighbourhood pub and game room; open to members and their guests, minors welcome with an adult. Fri Oct 9 is a Social Room Mom Night Out - Bridgeland and Renfrew parents meeting at the RCA."
-  },
   {
    "id": "web:brca-walkgroup-1013",
    "title": "Bridgeland Walking Group",
@@ -959,6 +883,33 @@
    "firstSeen": "2026-10-07T08:20:00-06:00",
    "lastSeen": "2026-10-07T08:30:00-06:00",
    "status": "upcoming"
+  },
+  {
+   "id": "cal:8ia604ql",
+   "title": "RCA Board Meeting",
+   "start": "2026-11-24T19:00:00-07:00",
+   "end": "2026-11-24T21:00:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "civic",
+   "source": {
+    "kind": "calendar",
+    "name": "RCA Google Calendar",
+    "url": "https://www.renfrewyyc.ca/calendar"
+   },
+   "firstSeen": "2026-10-17T08:04:17-06:00",
+   "lastSeen": "2026-10-17T08:30:03-06:00",
+   "status": "upcoming",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "description": "Monthly RCA board meeting, open to the public.",
+   "recurrence": {
+    "label": "last Tuesday monthly",
+    "seriesId": "rca-board-meeting"
+   }
   },
   {
    "id": "gc:5035",
