@@ -15,11 +15,11 @@
     "@fullcalendar/list": "^6.1.19",
     "@fullcalendar/react": "^6.1.19",
     "@fullcalendar/timegrid": "^6.1.19",
-    "react": "^18.3.1",
+    "react": "^19.3.0",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@types/react": "^18.3.12",
+    "@types/react": "^19.3.0",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^6.1.1",
     "typescript": "^5.6.3",
