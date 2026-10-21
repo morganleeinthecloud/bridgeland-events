@@ -1,9 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-10-20T08:30:04-06:00",
- "scannedAt": "2026-10-20T08:30:04-06:00",
+ "generatedAt": "2026-10-21T08:30:05-06:00",
+ "scannedAt": "2026-10-21T08:30:05-06:00",
  "window": {
-  "from": "2026-10-13",
+  "from": "2026-10-14",
   "to": "2026-12-18"
  },
  "counts": {
@@ -11,32 +11,6 @@
   "new": 1
  },
  "events": [
-  {
-   "id": "web:brca-walkgroup-1013",
-   "title": "Bridgeland Walking Group",
-   "start": "2026-10-13T18:30:00-06:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE"
-   },
-   "description": "Weekly neighbourhood walk - October 13 route: Residential Street / Drury Avenue.",
-   "source": {
-    "kind": "community-site",
-    "name": "brcacalgary.org",
-    "url": "https://brcacalgary.org/"
-   },
-   "recurrence": {
-    "label": "every Tuesday",
-    "seriesId": "brca-walkgroup"
-   },
-   "firstSeen": "2026-10-03T08:05:06-06:00",
-   "lastSeen": "2026-10-03T08:30:58-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton"
-  },
   {
    "id": "fb:6347923513:linethestreet-1014",
    "title": "Line the Street \u2014 Forever Canadians",
@@ -600,6 +574,33 @@
     "name": "BRCA Hall parking lot",
     "address": "917 Centre Ave NE"
    }
+  },
+  {
+   "id": "web:brca-walkgroup-1103",
+   "title": "Bridgeland Walking Group",
+   "start": "2026-11-03T18:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "outdoors",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE"
+   },
+   "description": "Weekly neighbourhood walk meeting at the BRCA Hall, Tuesdays at 6:30pm.",
+   "source": {
+    "kind": "community-site",
+    "name": "brcacalgary.org",
+    "url": "https://brcacalgary.org/"
+   },
+   "recurrence": {
+    "label": "every Tuesday",
+    "seriesId": "brca-walkgroup"
+   },
+   "firstSeen": "2026-10-21T08:02:20-06:00",
+   "lastSeen": "2026-10-21T08:30:05-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "end": "2026-11-03T19:30:00-07:00"
   },
   {
    "id": "web:brca-seniorgames-1104",
