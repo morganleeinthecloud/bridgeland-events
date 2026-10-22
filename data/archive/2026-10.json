@@ -1,4 +1,49 @@
 {
+ "cal:2d6p04rd": {
+  "allDay": false,
+  "category": "civic",
+  "end": "2026-10-14T21:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "cal:2d6p04rd",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "calendar",
+   "name": "RCA Google Calendar",
+   "url": "https://www.renfrewyyc.ca/calendar"
+  },
+  "start": "2026-10-14T19:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Speaker Series",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
+ "fb:6347923513:linethestreet-1014": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Bring your Canadian flags and wear red and white to line the Centre Street Bridge; organized by Forever Canadians volunteers, with a free sign on RSVP.",
+  "end": "2026-10-14T17:30:00-06:00",
+  "firstSeen": "2026-10-12T08:20:00-06:00",
+  "id": "fb:6347923513:linethestreet-1014",
+  "lastSeen": "2026-10-12T08:30:01-06:00",
+  "link": "https://forcan.ca/NC9N",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "facebook-group",
+   "name": "Bridgeland/Riverside",
+   "url": "https://www.facebook.com/groups/6347923513/"
+  },
+  "start": "2026-10-14T15:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Line the Street \u2014 Forever Canadians",
+  "venue": {
+   "name": "Centre Street Bridge"
+  }
+ },
  "gc:3939": {
   "allDay": false,
   "category": "market",
@@ -94,6 +139,29 @@
   "status": "upcoming",
   "timezone": "America/Edmonton",
   "title": "Crafternoon: Beading Workshop",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
+ "gc:4794": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Heritage Park's Hidden Histories on the ghosts \u2014 and not only the scary kind.",
+  "end": "2026-10-14T21:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4794",
+  "lastSeen": "2026-10-12T08:30:01-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-10-14T19:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Renfrew Community Conversation: Heritage Park - Hidden Histories: The Ghosts of Renfrew",
   "venue": {
    "address": "811 Radford Rd NE",
    "name": "Renfrew Community Association"

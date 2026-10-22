@@ -1,84 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-21T10:30:05-06:00",
- "scannedAt": "2026-10-21T10:30:05-06:00",
+ "generatedAt": "2026-10-22T08:30:05-06:00",
+ "scannedAt": "2026-10-22T08:30:05-06:00",
  "window": {
-  "from": "2026-10-14",
+  "from": "2026-10-15",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 53,
-  "new": 1
+  "total": 50,
+  "new": 0
  },
  "events": [
-  {
-   "id": "fb:6347923513:linethestreet-1014",
-   "title": "Line the Street \u2014 Forever Canadians",
-   "start": "2026-10-14T15:00:00-06:00",
-   "end": "2026-10-14T17:30:00-06:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "civic",
-   "venue": {
-    "name": "Centre Street Bridge"
-   },
-   "description": "Bring your Canadian flags and wear red and white to line the Centre Street Bridge; organized by Forever Canadians volunteers, with a free sign on RSVP.",
-   "source": {
-    "kind": "facebook-group",
-    "name": "Bridgeland/Riverside",
-    "url": "https://www.facebook.com/groups/6347923513/"
-   },
-   "firstSeen": "2026-10-12T08:20:00-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "link": "https://forcan.ca/NC9N",
-   "lastSeen": "2026-10-12T08:30:01-06:00"
-  },
-  {
-   "id": "gc:4794",
-   "title": "Renfrew Community Conversation: Heritage Park - Hidden Histories: The Ghosts of Renfrew",
-   "start": "2026-10-14T19:00:00-06:00",
-   "end": "2026-10-14T21:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "civic",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-10-12T08:30:01-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   },
-   "description": "Heritage Park's Hidden Histories on the ghosts \u2014 and not only the scary kind."
-  },
-  {
-   "id": "cal:2d6p04rd",
-   "title": "Speaker Series",
-   "start": "2026-10-14T19:00:00-06:00",
-   "end": "2026-10-14T21:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "civic",
-   "source": {
-    "kind": "calendar",
-    "name": "RCA Google Calendar",
-    "url": "https://www.renfrewyyc.ca/calendar"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   }
-  },
   {
    "id": "web:brca-safeconnected-1015",
    "title": "Safe & Connected with CPS",
