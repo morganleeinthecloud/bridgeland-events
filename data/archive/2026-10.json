@@ -241,6 +241,28 @@
    "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
   }
  },
+ "web:brca-safeconnected-1015": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Community safety evening with Calgary Police Service, hosted by BRCA.",
+  "firstSeen": "2026-10-02T15:25:38-06:00",
+  "id": "web:brca-safeconnected-1015",
+  "lastSeen": "2026-10-03T08:30:58-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "community-site",
+   "name": "BRCA \u00b7 brcacalgary.org",
+   "url": "https://brcacalgary.org/"
+  },
+  "start": "2026-10-15T19:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Safe & Connected with CPS",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall"
+  }
+ },
  "web:brca-seniorgames-1007": {
   "allDay": true,
   "category": "social",

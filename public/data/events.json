@@ -1,38 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-22T08:30:05-06:00",
- "scannedAt": "2026-10-22T08:30:05-06:00",
+ "generatedAt": "2026-10-23T08:30:05-06:00",
+ "scannedAt": "2026-10-23T08:30:05-06:00",
  "window": {
-  "from": "2026-10-15",
+  "from": "2026-10-16",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 50,
+  "total": 49,
   "new": 0
  },
  "events": [
-  {
-   "id": "web:brca-safeconnected-1015",
-   "title": "Safe & Connected with CPS",
-   "start": "2026-10-15T19:00:00-06:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "civic",
-   "description": "Community safety evening with Calgary Police Service, hosted by BRCA.",
-   "source": {
-    "kind": "community-site",
-    "name": "BRCA \u00b7 brcacalgary.org",
-    "url": "https://brcacalgary.org/"
-   },
-   "firstSeen": "2026-10-02T15:25:38-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-03T08:30:58-06:00",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE"
-   }
-  },
   {
    "id": "fb:6347923513:muralart-1016",
    "title": "Mural Art Group \u2014 Acrylic Painting with Colleen Davis",
