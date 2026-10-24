@@ -1,129 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-23T08:30:05-06:00",
- "scannedAt": "2026-10-23T08:30:05-06:00",
+ "generatedAt": "2026-10-24T08:30:06-06:00",
+ "scannedAt": "2026-10-24T08:30:06-06:00",
  "window": {
-  "from": "2026-10-16",
+  "from": "2026-10-17",
   "to": "2026-12-18"
  },
  "counts": {
   "total": 49,
-  "new": 0
+  "new": 5
  },
  "events": [
-  {
-   "id": "fb:6347923513:muralart-1016",
-   "title": "Mural Art Group \u2014 Acrylic Painting with Colleen Davis",
-   "start": "2026-10-16T00:00:00-06:00",
-   "allDay": true,
-   "neighborhood": "both",
-   "category": "class",
-   "description": "Drop-in acrylic painting session; part of the Bridgeland/Riverside mural art group \u2014 two remaining sessions, Oct 16 and Oct 23 (no time posted).",
-   "source": {
-    "kind": "facebook-group",
-    "name": "Bridgeland/Riverside",
-    "url": "https://www.facebook.com/groups/6347923513/posts/10165922814443514/"
-   },
-   "firstSeen": "2026-10-13T08:02:28-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-13T08:30:02-06:00"
-  },
-  {
-   "id": "gc:726",
-   "title": "Tiny Tots Co-op Playgroup",
-   "start": "2026-10-16T11:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "family",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "venue": {
-    "name": "Renfrew Community Association - West Hall (Lower)",
-    "address": "811 Radford Rd NE"
-   },
-   "description": "Parented, unstructured drop-in playgroup for children 5 and under, run by parent volunteers.",
-   "firstSeen": "2026-10-06T08:10:00-06:00",
-   "lastSeen": "2026-10-14T08:30:02-06:00",
-   "status": "upcoming",
-   "end": "2026-10-16T12:30:00-06:00"
-  },
-  {
-   "id": "gc:4898",
-   "title": "Casino Fundraiser Event",
-   "start": "2026-10-16T11:00:00-06:00",
-   "end": "2026-10-17T00:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "fundraiser",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   },
-   "description": "Volunteer shifts available for the community casino fundraiser."
-  },
-  {
-   "id": "gc:4257",
-   "title": "Role Playing Games for Families and Beginners",
-   "start": "2026-10-16T18:00:00-06:00",
-   "end": "2026-10-16T21:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "family",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   }
-  },
-  {
-   "id": "gc:4358",
-   "title": "Community Pub Night",
-   "start": "2026-10-16T18:00:00-06:00",
-   "end": "2026-10-16T22:00:00-06:00",
-   "allDay": false,
-   "neighborhood": "renfrew",
-   "category": "social",
-   "description": "Friday pub night in the Renfrew CA social room, 6-10pm (stays open later if busy).",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "recurrence": {
-    "label": "every Friday",
-    "seriesId": "renfrew-pub-night"
-   },
-   "firstSeen": "2026-10-02T15:25:38-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-02T15:26:09-06:00",
-   "venue": {
-    "name": "Renfrew Social Room (basement of the community centre)",
-    "address": "811 Radford Rd NE"
-   }
-  },
   {
    "id": "web:beacon-art-show-1017",
    "title": "Beacon Original Art Fall Show & Sale (Day 1)",
@@ -611,6 +498,32 @@
    "cost": "Registration required"
   },
   {
+   "id": "web:brca-walkgroup-1110",
+   "title": "Bridgeland Walking Group",
+   "start": "2026-11-10T18:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "outdoors",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE, Calgary"
+   },
+   "description": "Weekly Tuesday evening neighbourhood walk.",
+   "source": {
+    "kind": "community-site",
+    "name": "Bridgeland-Riverside CA",
+    "url": "https://brcacalgary.org/"
+   },
+   "recurrence": {
+    "label": "every Tuesday",
+    "seriesId": "bridgeland-walking-group"
+   },
+   "firstSeen": "2026-10-24T08:05:00-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-24T08:30:06-06:00"
+  },
+  {
    "id": "gc:4255",
    "title": "Pack Walk",
    "start": "2026-11-12T19:30:00-07:00",
@@ -752,6 +665,32 @@
    "status": "upcoming"
   },
   {
+   "id": "web:brca-walkgroup-1117",
+   "title": "Bridgeland Walking Group",
+   "start": "2026-11-17T18:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "outdoors",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE, Calgary"
+   },
+   "description": "Weekly Tuesday evening neighbourhood walk.",
+   "source": {
+    "kind": "community-site",
+    "name": "Bridgeland-Riverside CA",
+    "url": "https://brcacalgary.org/"
+   },
+   "recurrence": {
+    "label": "every Tuesday",
+    "seriesId": "bridgeland-walking-group"
+   },
+   "firstSeen": "2026-10-24T08:05:00-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-24T08:30:06-06:00"
+  },
+  {
    "id": "web:brca-seniorgames-1118",
    "title": "Senior Games Day",
    "start": "2026-11-18T13:00:00-07:00",
@@ -871,6 +810,55 @@
    "firstSeen": "2026-10-07T08:20:00-06:00",
    "lastSeen": "2026-10-07T08:30:00-06:00",
    "status": "upcoming"
+  },
+  {
+   "id": "web:brca-mosaic-1122",
+   "title": "Seniors Mosaic Art Unveiling & Holiday Card Making",
+   "start": "2026-11-22T14:00:00-07:00",
+   "end": "2026-11-22T16:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "social",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE, Calgary"
+   },
+   "description": "Mosaic art unveiling plus holiday card making, open to everyone.",
+   "source": {
+    "kind": "community-site",
+    "name": "Bridgeland-Riverside CA",
+    "url": "https://brcacalgary.org/"
+   },
+   "firstSeen": "2026-10-24T08:05:00-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-24T08:30:06-06:00"
+  },
+  {
+   "id": "web:brca-walkgroup-1124",
+   "title": "Bridgeland Walking Group",
+   "start": "2026-11-24T18:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "outdoors",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE, Calgary"
+   },
+   "description": "Weekly Tuesday evening neighbourhood walk.",
+   "source": {
+    "kind": "community-site",
+    "name": "Bridgeland-Riverside CA",
+    "url": "https://brcacalgary.org/"
+   },
+   "recurrence": {
+    "label": "every Tuesday",
+    "seriesId": "bridgeland-walking-group"
+   },
+   "firstSeen": "2026-10-24T08:05:00-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-24T08:30:06-06:00"
   },
   {
    "id": "cal:8ia604ql",
@@ -1068,6 +1056,29 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-10-19T08:30:04-06:00"
+  },
+  {
+   "id": "web:brca-seniorsholiday-1203",
+   "title": "Seniors Holiday Party",
+   "start": "2026-12-03T12:00:00-07:00",
+   "end": "2026-12-03T14:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "social",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE, Calgary"
+   },
+   "description": "Seniors holiday party at the community hall; the association lists this as a new date.",
+   "source": {
+    "kind": "community-site",
+    "name": "Bridgeland-Riverside CA",
+    "url": "https://brcacalgary.org/"
+   },
+   "firstSeen": "2026-10-24T08:05:00-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-24T08:30:06-06:00"
   },
   {
    "id": "gc:4363",
