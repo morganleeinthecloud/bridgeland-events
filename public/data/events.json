@@ -1,62 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-24T08:30:06-06:00",
- "scannedAt": "2026-10-24T08:30:06-06:00",
+ "generatedAt": "2026-10-25T08:30:06-06:00",
+ "scannedAt": "2026-10-25T08:30:06-06:00",
  "window": {
-  "from": "2026-10-17",
+  "from": "2026-10-18",
   "to": "2026-12-18"
  },
  "counts": {
   "total": 49,
-  "new": 5
+  "new": 2
  },
  "events": [
-  {
-   "id": "web:beacon-art-show-1017",
-   "title": "Beacon Original Art Fall Show & Sale (Day 1)",
-   "start": "2026-10-17T10:00:00-06:00",
-   "end": "2026-10-17T16:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "bridgeland",
-   "category": "market",
-   "status": "upcoming",
-   "venue": {
-    "name": "BRCA Hall (Bridgeland-Riverside Community Association)",
-    "address": "917 Centre Ave NE"
-   },
-   "source": {
-    "kind": "community-site",
-    "name": "beaconoriginalart.com",
-    "url": "https://beaconoriginalart.com/"
-   },
-   "description": "Juried annual fall art exhibition and sale \u2014 painting, jewellery, glass, photography, ceramics, sculpture and textiles from 45+ local artists, at the community hall.",
-   "firstSeen": "2026-09-21T08:04:47-06:00",
-   "lastSeen": "2026-09-21T08:57:46-06:00"
-  },
-  {
-   "id": "web:cmc-trickortreat-1017",
-   "title": "Trick-or-Treat Market",
-   "start": "2026-10-17T11:00:00-06:00",
-   "end": "2026-10-17T18:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "market",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   },
-   "source": {
-    "kind": "community-site",
-    "name": "changemakerscollective.ca",
-    "url": "https://changemakerscollective.ca/vendors"
-   },
-   "description": "Change Makers Collective curated market with local makers at the Renfrew Community Association.",
-   "firstSeen": "2026-09-21T08:04:47-06:00",
-   "lastSeen": "2026-09-21T08:57:46-06:00"
-  },
   {
    "id": "web:beacon-art-show-1018",
    "title": "Beacon Original Art Fall Show & Sale (Day 2)",
@@ -276,6 +230,33 @@
    "status": "upcoming"
   },
   {
+   "id": "fb:1842625652616063:4439151749630094",
+   "title": "Scary Tree Lane \u2014 free family crafting at Cherry Tree Lane Toys",
+   "start": "2026-10-25T10:00:00-06:00",
+   "end": "2026-11-01T17:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "family",
+   "venue": {
+    "name": "Cherry Tree Lane Toys",
+    "address": "905 1 Ave NE"
+   },
+   "cost": "Free",
+   "description": "Free family crafting and activities (wrap a web, sort a spider, craft a cauldron), 10am-5pm daily through Nov 1.",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland Love",
+    "url": "https://www.facebook.com/groups/1842625652616063/posts/4439151749630094/"
+   },
+   "recurrence": {
+    "label": "daily 10am-5pm through Nov 1"
+   },
+   "firstSeen": "2026-10-25T08:10:00-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-25T08:30:06-06:00"
+  },
+  {
    "id": "fb:brcacalgary:ward9-townhall-1026",
    "title": "Ward 9 Town Hall with Councillor Harrison Clark and Mayor Jeremy Farkas",
    "start": "2026-10-26T18:00:00-06:00",
@@ -325,8 +306,34 @@
    "timezone": "America/Edmonton"
   },
   {
+   "id": "gc:726",
+   "title": "Tiny Tots Co-op Playgroup",
+   "start": "2026-10-30T11:00:00-06:00",
+   "end": "2026-10-30T12:30:00-06:00",
+   "allDay": false,
+   "neighborhood": "renfrew",
+   "category": "family",
+   "venue": {
+    "name": "Renfrew Community Association \u2014 West Hall (Lower)"
+   },
+   "description": "Drop-in co-op playgroup for pre-schoolers and caregivers.",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew Community Association",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "recurrence": {
+    "label": "recurring playgroup",
+    "seriesId": "renfrew-tiny-tots"
+   },
+   "firstSeen": "2026-10-25T08:10:00-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-10-25T08:30:06-06:00"
+  },
+  {
    "id": "gc:4360",
-   "title": "Community Pub Night \u2014 Halloween",
+   "title": "Community Pub Night \u2014 Halloween themed",
    "start": "2026-10-30T18:00:00-06:00",
    "end": "2026-10-30T22:00:00-06:00",
    "allDay": false,
@@ -335,17 +342,17 @@
    "category": "social",
    "source": {
     "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
+    "name": "Renfrew Community Association",
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
+   "lastSeen": "2026-10-25T08:30:06-06:00",
    "status": "upcoming",
    "venue": {
-    "name": "Renfrew Social Room"
+    "name": "Renfrew Social Room, Renfrew Community Association"
    },
    "recurrence": {
-    "label": "every Friday",
+    "label": "Fridays 6-10pm",
     "seriesId": "renfrew-pub-night"
    }
   },
@@ -430,24 +437,27 @@
    "id": "cal:5nteqp8m",
    "title": "Tiny Tots Co-op Playgroup",
    "start": "2026-11-06T11:00:00-07:00",
-   "end": "2026-11-06T13:00:00-07:00",
+   "end": "2026-11-06T12:30:00-07:00",
    "allDay": false,
    "neighborhood": "renfrew",
    "category": "family",
    "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
+    "name": "Renfrew Community Association"
    },
    "description": "Drop-in co-op playgroup for little ones at the Renfrew Community Association.",
    "source": {
     "kind": "calendar",
-    "name": "Renfrew CA Calendar",
+    "name": "Renfrew Community Association calendar",
     "url": "https://www.renfrewyyc.ca/events"
    },
    "firstSeen": "2026-10-20T08:03:29-06:00",
    "status": "upcoming",
    "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-20T08:30:04-06:00"
+   "lastSeen": "2026-10-25T08:30:06-06:00",
+   "recurrence": {
+    "label": "recurring playgroup",
+    "seriesId": "renfrew-tiny-tots"
+   }
   },
   {
    "id": "gc:4872",
@@ -460,17 +470,17 @@
    "category": "social",
    "source": {
     "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
+    "name": "Renfrew Community Association",
     "url": "https://renfrew.getcommunal.com/parent_programs"
    },
    "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-10-16T08:30:03-06:00",
+   "lastSeen": "2026-10-25T08:30:06-06:00",
    "status": "upcoming",
    "venue": {
-    "name": "Renfrew Social Room"
+    "name": "Renfrew Social Room, Renfrew Community Association"
    },
    "recurrence": {
-    "label": "every Friday",
+    "label": "Fridays 6-10pm",
     "seriesId": "renfrew-pub-night"
    }
   },

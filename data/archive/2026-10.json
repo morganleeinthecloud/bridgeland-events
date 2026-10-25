@@ -304,6 +304,29 @@
    "name": "Renfrew Community Association - West Hall (Lower)"
   }
  },
+ "web:beacon-art-show-1017": {
+  "allDay": false,
+  "category": "market",
+  "description": "Juried annual fall art exhibition and sale \u2014 painting, jewellery, glass, photography, ceramics, sculpture and textiles from 45+ local artists, at the community hall.",
+  "end": "2026-10-17T16:00:00-06:00",
+  "firstSeen": "2026-09-21T08:04:47-06:00",
+  "id": "web:beacon-art-show-1017",
+  "lastSeen": "2026-09-21T08:57:46-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "community-site",
+   "name": "beaconoriginalart.com",
+   "url": "https://beaconoriginalart.com/"
+  },
+  "start": "2026-10-17T10:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Beacon Original Art Fall Show & Sale (Day 1)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
+  }
+ },
  "web:brca-market-1001": {
   "allDay": false,
   "category": "market",
@@ -476,6 +499,29 @@
   "venue": {
    "address": "917 Centre Ave NE",
    "name": "BRCA Hall"
+  }
+ },
+ "web:cmc-trickortreat-1017": {
+  "allDay": false,
+  "category": "market",
+  "description": "Change Makers Collective curated market with local makers at the Renfrew Community Association.",
+  "end": "2026-10-17T18:00:00-06:00",
+  "firstSeen": "2026-09-21T08:04:47-06:00",
+  "id": "web:cmc-trickortreat-1017",
+  "lastSeen": "2026-09-21T08:57:46-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "changemakerscollective.ca",
+   "url": "https://changemakerscollective.ca/vendors"
+  },
+  "start": "2026-10-17T11:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Trick-or-Treat Market",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
   }
  }
 }
