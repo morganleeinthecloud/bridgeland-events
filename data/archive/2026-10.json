@@ -327,6 +327,29 @@
    "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
   }
  },
+ "web:beacon-art-show-1018": {
+  "allDay": false,
+  "category": "market",
+  "description": "Second day of the juried fall art show and sale at the community hall.",
+  "end": "2026-10-18T16:00:00-06:00",
+  "firstSeen": "2026-09-21T08:04:47-06:00",
+  "id": "web:beacon-art-show-1018",
+  "lastSeen": "2026-09-21T08:57:46-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "community-site",
+   "name": "beaconoriginalart.com",
+   "url": "https://beaconoriginalart.com/"
+  },
+  "start": "2026-10-18T10:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Beacon Original Art Fall Show & Sale (Day 2)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
+  }
+ },
  "web:brca-market-1001": {
   "allDay": false,
   "category": "market",
