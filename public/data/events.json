@@ -1,42 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-26T08:30:06-06:00",
- "scannedAt": "2026-10-27T08:30:07-06:00",
+ "generatedAt": "2026-10-28T08:03:25-06:00",
+ "scannedAt": "2026-10-28T08:03:25-06:00",
  "window": {
-  "from": "2026-10-20",
+  "from": "2026-10-21",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 48,
+  "total": 47,
   "new": 0
  },
  "events": [
-  {
-   "id": "web:brca-walkgroup-1020",
-   "title": "Bridgeland Walking Group",
-   "start": "2026-10-20T18:30:00-06:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE"
-   },
-   "description": "Weekly neighbourhood walk, meeting at the BRCA Hall; October walks start 6:30pm (per the October walk poster).",
-   "source": {
-    "kind": "community-site",
-    "name": "brcacalgary.org",
-    "url": "https://brcacalgary.org/"
-   },
-   "recurrence": {
-    "label": "every Tuesday",
-    "seriesId": "brca-walkgroup"
-   },
-   "firstSeen": "2026-10-14T08:05:00-06:00",
-   "lastSeen": "2026-10-14T08:30:02-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton"
-  },
   {
    "id": "web:brca-seniorgames-1021",
    "title": "Senior Games Day",
