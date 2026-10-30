@@ -111,6 +111,32 @@
    "name": "Renfrew Community Association"
   }
  },
+ "gc:4254": {
+  "allDay": false,
+  "category": "outdoors",
+  "end": "2026-10-22T20:30:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4254",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "recurring",
+   "seriesId": "renfrew-pack-walk"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-10-22T18:30:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Pack Walk \u2014 Halloween Costume Walk",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
  "gc:4257": {
   "allDay": false,
   "category": "family",
