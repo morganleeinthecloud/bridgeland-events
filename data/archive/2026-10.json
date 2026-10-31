@@ -62,6 +62,24 @@
   "timezone": "America/Edmonton",
   "title": "Mural Art Group \u2014 Acrylic Painting with Colleen Davis"
  },
+ "fb:6347923513:muralart-1023": {
+  "allDay": true,
+  "category": "class",
+  "description": "Drop-in acrylic painting session; part of the Bridgeland/Riverside mural art group \u2014 final session (no time posted).",
+  "firstSeen": "2026-10-13T08:02:28-06:00",
+  "id": "fb:6347923513:muralart-1023",
+  "lastSeen": "2026-10-13T08:30:02-06:00",
+  "neighborhood": "both",
+  "source": {
+   "kind": "facebook-group",
+   "name": "Bridgeland/Riverside",
+   "url": "https://www.facebook.com/groups/6347923513/posts/10165922814443514/"
+  },
+  "start": "2026-10-23T00:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Mural Art Group \u2014 Acrylic Painting with Colleen Davis"
+ },
  "gc:3939": {
   "allDay": false,
   "category": "market",
@@ -211,6 +229,56 @@
   "venue": {
    "address": "811 Radford Rd NE",
    "name": "Renfrew Social Room (basement of the community centre)"
+  }
+ },
+ "gc:4359": {
+  "allDay": false,
+  "category": "social",
+  "description": "Renfrew Social Room pub night, 6-10pm.",
+  "end": "2026-10-23T22:00:00-06:00",
+  "firstSeen": "2026-10-09T08:05:00-06:00",
+  "id": "gc:4359",
+  "lastSeen": "2026-10-09T08:30:00-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "every Friday",
+   "seriesId": "renfrew-pub-night"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-10-23T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Community Pub Night",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Social Room (basement of the community centre)"
+  }
+ },
+ "gc:4367": {
+  "allDay": false,
+  "category": "family",
+  "cost": "Tickets in advance",
+  "end": "2026-10-23T21:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4367",
+  "lastSeen": "2026-09-18T08:15:00-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-10-23T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Jellybean Dance: October (Halloween)",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
   }
  },
  "gc:4405": {

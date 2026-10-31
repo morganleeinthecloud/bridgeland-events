@@ -1,84 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-30T08:30:07-06:00",
- "scannedAt": "2026-10-30T08:30:07-06:00",
+ "generatedAt": "2026-10-31T08:30:08-06:00",
+ "scannedAt": "2026-10-31T08:30:08-06:00",
  "window": {
-  "from": "2026-10-23",
+  "from": "2026-10-24",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 47,
+  "total": 44,
   "new": 0
  },
  "events": [
-  {
-   "id": "fb:6347923513:muralart-1023",
-   "title": "Mural Art Group \u2014 Acrylic Painting with Colleen Davis",
-   "start": "2026-10-23T00:00:00-06:00",
-   "allDay": true,
-   "neighborhood": "both",
-   "category": "class",
-   "description": "Drop-in acrylic painting session; part of the Bridgeland/Riverside mural art group \u2014 final session (no time posted).",
-   "source": {
-    "kind": "facebook-group",
-    "name": "Bridgeland/Riverside",
-    "url": "https://www.facebook.com/groups/6347923513/posts/10165922814443514/"
-   },
-   "firstSeen": "2026-10-13T08:02:28-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-13T08:30:02-06:00"
-  },
-  {
-   "id": "gc:4367",
-   "title": "Jellybean Dance: October (Halloween)",
-   "start": "2026-10-23T18:00:00-06:00",
-   "end": "2026-10-23T21:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "family",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-09-18T08:15:00-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   },
-   "cost": "Tickets in advance"
-  },
-  {
-   "id": "gc:4359",
-   "title": "Community Pub Night",
-   "start": "2026-10-23T18:00:00-06:00",
-   "end": "2026-10-23T22:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "social",
-   "venue": {
-    "name": "Renfrew Social Room (basement of the community centre)",
-    "address": "811 Radford Rd NE"
-   },
-   "description": "Renfrew Social Room pub night, 6-10pm.",
-   "recurrence": {
-    "label": "every Friday",
-    "seriesId": "renfrew-pub-night"
-   },
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-10-09T08:05:00-06:00",
-   "status": "upcoming",
-   "lastSeen": "2026-10-09T08:30:00-06:00"
-  },
   {
    "id": "fb:brcacalgary:sewschool-close-1024",
    "title": "Sew School: Close (hand sewing, ages 6-9)",
