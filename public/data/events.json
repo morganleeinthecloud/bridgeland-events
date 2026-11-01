@@ -1,38 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-10-31T08:30:08-06:00",
- "scannedAt": "2026-10-31T08:30:08-06:00",
+ "generatedAt": "2026-11-01T07:30:08-07:00",
+ "scannedAt": "2026-11-01T07:30:08-07:00",
  "window": {
-  "from": "2026-10-24",
+  "from": "2026-10-25",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 44,
+  "total": 43,
   "new": 0
  },
  "events": [
-  {
-   "id": "fb:brcacalgary:sewschool-close-1024",
-   "title": "Sew School: Close (hand sewing, ages 6-9)",
-   "start": "2026-10-24T00:00:00-06:00",
-   "allDay": true,
-   "timezone": "America/Edmonton",
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "Bridgeland Riverside Community Center",
-    "address": "917 Centre Ave NE"
-   },
-   "description": "Kids' hand-sewing workshop, ages 6-9: make a pocket of your own design using closures. Registration at sewschoolcalgary.com; time not stated on the flyer.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "BRCA (Bridgeland-Riverside Community Association)",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "firstSeen": "2026-10-07T08:20:00-06:00",
-   "lastSeen": "2026-10-07T08:30:00-06:00",
-   "status": "upcoming"
-  },
   {
    "id": "fb:1842625652616063:4439151749630094",
    "title": "Scary Tree Lane \u2014 free family crafting at Cherry Tree Lane Toys",

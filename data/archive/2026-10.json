@@ -80,6 +80,28 @@
   "timezone": "America/Edmonton",
   "title": "Mural Art Group \u2014 Acrylic Painting with Colleen Davis"
  },
+ "fb:brcacalgary:sewschool-close-1024": {
+  "allDay": true,
+  "category": "class",
+  "description": "Kids' hand-sewing workshop, ages 6-9: make a pocket of your own design using closures. Registration at sewschoolcalgary.com; time not stated on the flyer.",
+  "firstSeen": "2026-10-07T08:20:00-06:00",
+  "id": "fb:brcacalgary:sewschool-close-1024",
+  "lastSeen": "2026-10-07T08:30:00-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "facebook-page",
+   "name": "BRCA (Bridgeland-Riverside Community Association)",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-10-24T00:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Sew School: Close (hand sewing, ages 6-9)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "Bridgeland Riverside Community Center"
+  }
+ },
  "gc:3939": {
   "allDay": false,
   "category": "market",
