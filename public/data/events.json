@@ -1,43 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-01T07:30:08-07:00",
- "scannedAt": "2026-11-01T07:30:08-07:00",
+ "generatedAt": "2026-11-02T07:30:09-07:00",
+ "scannedAt": "2026-11-02T07:30:09-07:00",
  "window": {
-  "from": "2026-10-25",
+  "from": "2026-10-26",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 43,
+  "total": 42,
   "new": 0
  },
  "events": [
-  {
-   "id": "fb:1842625652616063:4439151749630094",
-   "title": "Scary Tree Lane \u2014 free family crafting at Cherry Tree Lane Toys",
-   "start": "2026-10-25T10:00:00-06:00",
-   "end": "2026-11-01T17:00:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "family",
-   "venue": {
-    "name": "Cherry Tree Lane Toys",
-    "address": "905 1 Ave NE"
-   },
-   "cost": "Free",
-   "description": "Free family crafting and activities (wrap a web, sort a spider, craft a cauldron), 10am-5pm daily through Nov 1.",
-   "source": {
-    "kind": "facebook-group",
-    "name": "Bridgeland Love",
-    "url": "https://www.facebook.com/groups/1842625652616063/posts/4439151749630094/"
-   },
-   "recurrence": {
-    "label": "daily 10am-5pm through Nov 1"
-   },
-   "firstSeen": "2026-10-25T08:10:00-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-25T08:30:06-06:00"
-  },
   {
    "id": "fb:brcacalgary:ward9-townhall-1026",
    "title": "Ward 9 Town Hall with Councillor Harrison Clark and Mayor Jeremy Farkas",
