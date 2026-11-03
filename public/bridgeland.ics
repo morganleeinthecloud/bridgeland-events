@@ -6,21 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Bridgeland & Renfrew Events
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:fb:brcacalgary:ward9-townhall-1026@bridgeland-events
-DTSTAMP:20261102T143009Z
-DTSTART:20261027T000000Z
-DTEND:20261027T020000Z
-SUMMARY:Ward 9 Town Hall with Councillor Harrison Clark and Mayor Jeremy 
- Farkas
-DESCRIPTION:Ward 9 budget engagement town hall with Mayor Farkas and Coun
- cillor Clark; register via Eventbrite (also an online survey). | Area: b
- oth | Source: BRCA (Bridgeland-Riverside Community Association) | https:
- //www.facebook.com/BRCACalgary/
-LOCATION:Forest Lawn Legion, 755 40 St SE
-END:VEVENT
-BEGIN:VEVENT
 UID:web:brca-walkgroup-1027@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261028T003000Z
 SUMMARY:Bridgeland Walking Group
 DESCRIPTION:Weekly neighbourhood walk, meeting at the BRCA Hall; October 
@@ -30,7 +17,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:726@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261030T170000Z
 DTEND:20261030T183000Z
 SUMMARY:Tiny Tots Co-op Playgroup
@@ -41,7 +28,7 @@ LOCATION:Renfrew Community Association — West Hall (Lower)
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4360@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261031T000000Z
 DTEND:20261031T040000Z
 SUMMARY:Community Pub Night — Halloween themed
@@ -51,7 +38,7 @@ LOCATION:Renfrew Social Room, Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-trunkortreat-1031@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261031T230000Z
 DTEND:20261101T020000Z
 SUMMARY:Trunk or Treat
@@ -62,7 +49,7 @@ LOCATION:BRCA Hall parking lot, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-yoga-1102@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261102T170000Z
 DTEND:20261102T180000Z
 SUMMARY:Beginner Yoga with Vlada (55+ class)
@@ -74,7 +61,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-strengthbegin-1103@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261103T213000Z
 DTEND:20261103T223000Z
 SUMMARY:Beginner Strength Training with Kim (55+ class)
@@ -86,7 +73,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-walkgroup-1103@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261104T013000Z
 DTEND:20261104T023000Z
 SUMMARY:Bridgeland Walking Group
@@ -97,7 +84,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorgames-1104@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261104T200000Z
 DTEND:20261104T210000Z
 SUMMARY:Senior Games Day
@@ -108,7 +95,7 @@ LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-qigong-1104@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261104T213000Z
 DTEND:20261104T223000Z
 SUMMARY:Qigong with Kim (55+ class)
@@ -120,7 +107,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:cal:5nteqp8m@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261106T180000Z
 DTEND:20261106T193000Z
 SUMMARY:Tiny Tots Co-op Playgroup
@@ -131,7 +118,7 @@ LOCATION:Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4872@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261107T010000Z
 DTEND:20261107T050000Z
 SUMMARY:Community Pub Night
@@ -141,7 +128,7 @@ LOCATION:Renfrew Social Room, Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4779@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
 SUMMARY:Crafternoon: Design your own tote bag
@@ -150,8 +137,32 @@ DESCRIPTION:Cost: Registration required | Area: renfrew | Source: Renfrew
 LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-yoga-1109@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261109T170000Z
+DTEND:20261109T180000Z
+SUMMARY:Beginner Yoga with Vlada (55+ class)
+DESCRIPTION:Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to De
+ c 7; class size limited to 20, register at brcacalgary.org. | Cost: $90 
+ for the series | Area: bridgeland | Source: Bridgeland-Riverside Communi
+ ty Association | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-strengthbegin-1110@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261110T213000Z
+DTEND:20261110T223000Z
+SUMMARY:Beginner Strength Training with Kim (55+ class)
+DESCRIPTION:Beginner strength training for seniors, Tuesdays 2:30-3:30pm,
+  Nov 3 to Dec 8; register at brcacalgary.org. | Cost: $90 for the series
+  | Area: bridgeland | Source: Bridgeland-Riverside Community Association
+  | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:web:brca-walkgroup-1110@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261111T013000Z
 SUMMARY:Bridgeland Walking Group
 DESCRIPTION:Weekly Tuesday evening neighbourhood walk. | Area: bridgeland
@@ -160,7 +171,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4255@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261113T023000Z
 DTEND:20261113T043000Z
 SUMMARY:Pack Walk
@@ -170,7 +181,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4252@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261114T010000Z
 DTEND:20261114T033000Z
 SUMMARY:Sewcial Club
@@ -180,7 +191,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4361@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261114T010000Z
 DTEND:20261114T050000Z
 SUMMARY:Community Pub Night
@@ -192,7 +203,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5007@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261114T010000Z
 DTEND:20261114T040000Z
 SUMMARY:Family Game Night - Card Tournament
@@ -203,7 +214,7 @@ LOCATION:Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:6347923513:holidaymarket-1114@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261114T070000Z
 SUMMARY:Holiday Market
 DESCRIPTION:Holiday craft market; vendor applications close Oct 12 (rehab
@@ -214,7 +225,7 @@ LOCATION:Rehabilitation Society of Calgary, 7-11 St NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:sewschool-stitch-1114@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261114T070000Z
 SUMMARY:Sew School: Stitch (machine sewing, ages 9-12)
 DESCRIPTION:Machine-sewing session 1 of 3 (Nov 14, 21 & 28), ages 9-12, a
@@ -224,8 +235,32 @@ DESCRIPTION:Machine-sewing session 1 of 3 (Nov 14, 21 & 28), ages 9-12, a
 LOCATION:Bridgeland Riverside Community Center, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-yoga-1116@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261116T170000Z
+DTEND:20261116T180000Z
+SUMMARY:Beginner Yoga with Vlada (55+ class)
+DESCRIPTION:Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to De
+ c 7; class size limited to 20, register at brcacalgary.org. | Cost: $90 
+ for the series | Area: bridgeland | Source: Bridgeland-Riverside Communi
+ ty Association | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-strengthbegin-1117@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261117T213000Z
+DTEND:20261117T223000Z
+SUMMARY:Beginner Strength Training with Kim (55+ class)
+DESCRIPTION:Beginner strength training for seniors, Tuesdays 2:30-3:30pm,
+  Nov 3 to Dec 8; register at brcacalgary.org. | Cost: $90 for the series
+  | Area: bridgeland | Source: Bridgeland-Riverside Community Association
+  | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:web:brca-walkgroup-1117@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261118T013000Z
 SUMMARY:Bridgeland Walking Group
 DESCRIPTION:Weekly Tuesday evening neighbourhood walk. | Area: bridgeland
@@ -234,7 +269,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorgames-1118@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261118T200000Z
 DTEND:20261118T210000Z
 SUMMARY:Senior Games Day
@@ -244,8 +279,20 @@ DESCRIPTION:Drop-in seniors games afternoon at the community hall. | Area
 LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-qigong-1118@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261118T213000Z
+DTEND:20261118T223000Z
+SUMMARY:Qigong with Kim (55+ class)
+DESCRIPTION:Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to De
+ c 16 (no class Nov 11); register at brcacalgary.org. | Cost: $90 for the
+  series | Area: bridgeland | Source: Bridgeland-Riverside Community Asso
+ ciation | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:gc:5008@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261119T020000Z
 DTEND:20261119T040000Z
 SUMMARY:Renfrew Community Conversation: Green Calgary - Managing Your Foo
@@ -258,7 +305,7 @@ LOCATION:Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4874@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261121T010000Z
 DTEND:20261121T050000Z
 SUMMARY:Community Pub Night
@@ -270,7 +317,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:2173@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261121T020000Z
 DTEND:20261121T040000Z
 SUMMARY:Renfrew Community Association AGM
@@ -282,7 +329,7 @@ LOCATION:Renfrew Community Hall, 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:sewschool-stitch-1121@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261121T070000Z
 SUMMARY:Sew School: Stitch (machine sewing, ages 9-12)
 DESCRIPTION:Machine-sewing session 2 of 3 (Nov 14, 21 & 28), ages 9-12, a
@@ -293,7 +340,7 @@ LOCATION:Bridgeland Riverside Community Center, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-mosaic-1122@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 SUMMARY:Seniors Mosaic Art Unveiling & Holiday Card Making
@@ -303,8 +350,32 @@ DESCRIPTION:Mosaic art unveiling plus holiday card making, open to everyo
 LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-yoga-1123@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261123T170000Z
+DTEND:20261123T180000Z
+SUMMARY:Beginner Yoga with Vlada (55+ class)
+DESCRIPTION:Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to De
+ c 7; class size limited to 20, register at brcacalgary.org. | Cost: $90 
+ for the series | Area: bridgeland | Source: Bridgeland-Riverside Communi
+ ty Association | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-strengthbegin-1124@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261124T213000Z
+DTEND:20261124T223000Z
+SUMMARY:Beginner Strength Training with Kim (55+ class)
+DESCRIPTION:Beginner strength training for seniors, Tuesdays 2:30-3:30pm,
+  Nov 3 to Dec 8; register at brcacalgary.org. | Cost: $90 for the series
+  | Area: bridgeland | Source: Bridgeland-Riverside Community Association
+  | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:web:brca-walkgroup-1124@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261125T013000Z
 SUMMARY:Bridgeland Walking Group
 DESCRIPTION:Weekly Tuesday evening neighbourhood walk. | Area: bridgeland
@@ -313,7 +384,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:cal:8ia604ql@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261125T020000Z
 DTEND:20261125T040000Z
 SUMMARY:RCA Board Meeting
@@ -322,8 +393,20 @@ DESCRIPTION:Monthly RCA board meeting, open to the public. | Area: renfre
 LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-qigong-1125@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261125T213000Z
+DTEND:20261125T223000Z
+SUMMARY:Qigong with Kim (55+ class)
+DESCRIPTION:Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to De
+ c 16 (no class Nov 11); register at brcacalgary.org. | Cost: $90 for the
+  series | Area: bridgeland | Source: Bridgeland-Riverside Community Asso
+ ciation | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:gc:5035@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261126T010000Z
 DTEND:20261126T040000Z
 SUMMARY:Makers Mingle: Holiday Card Making
@@ -335,7 +418,7 @@ LOCATION:Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-dogos-1125@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261126T020000Z
 DTEND:20261126T030000Z
 SUMMARY:D.O.G.O.S. Community Walk
@@ -346,7 +429,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4362@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261128T010000Z
 DTEND:20261128T050000Z
 SUMMARY:Community Pub Night
@@ -358,7 +441,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5018@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261128T010000Z
 DTEND:20261128T040000Z
 SUMMARY:Jellybean Dance: Holiday edition
@@ -371,7 +454,7 @@ LOCATION:Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:sewschool-stitch-1128@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261128T070000Z
 SUMMARY:Sew School: Stitch (machine sewing, ages 9-12)
 DESCRIPTION:Machine-sewing session 3 of 3 (Nov 14, 21 & 28), ages 9-12, a
@@ -382,7 +465,7 @@ LOCATION:Bridgeland Riverside Community Center, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:cmc-holiday-1128@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261128T180000Z
 DTEND:20261129T000000Z
 SUMMARY:Holiday Market
@@ -392,8 +475,32 @@ DESCRIPTION:Change Makers Collective holiday market with local makers at
 LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-yoga-1130@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261130T170000Z
+DTEND:20261130T180000Z
+SUMMARY:Beginner Yoga with Vlada (55+ class)
+DESCRIPTION:Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to De
+ c 7; class size limited to 20, register at brcacalgary.org. | Cost: $90 
+ for the series | Area: bridgeland | Source: Bridgeland-Riverside Communi
+ ty Association | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-strengthbegin-1201@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261201T213000Z
+DTEND:20261201T223000Z
+SUMMARY:Beginner Strength Training with Kim (55+ class)
+DESCRIPTION:Beginner strength training for seniors, Tuesdays 2:30-3:30pm,
+  Nov 3 to Dec 8; register at brcacalgary.org. | Cost: $90 for the series
+  | Area: bridgeland | Source: Bridgeland-Riverside Community Association
+  | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:web:brca-seniorgames-1202@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261202T200000Z
 DTEND:20261202T210000Z
 SUMMARY:Senior Games Day
@@ -403,8 +510,20 @@ DESCRIPTION:Drop-in seniors games afternoon at the community hall. | Area
 LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-qigong-1202@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261202T213000Z
+DTEND:20261202T223000Z
+SUMMARY:Qigong with Kim (55+ class)
+DESCRIPTION:Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to De
+ c 16 (no class Nov 11); register at brcacalgary.org. | Cost: $90 for the
+  series | Area: bridgeland | Source: Bridgeland-Riverside Community Asso
+ ciation | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:web:brca-seniorsholiday-1203@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261203T190000Z
 DTEND:20261203T210000Z
 SUMMARY:Seniors Holiday Party
@@ -415,7 +534,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4363@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261205T010000Z
 DTEND:20261205T050000Z
 SUMMARY:Community Pub Night
@@ -427,7 +546,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-holidaymarket-1206@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261206T180000Z
 DTEND:20261206T230000Z
 SUMMARY:Bridgeland Riverside Farmers Market — Holiday Market
@@ -437,8 +556,44 @@ DESCRIPTION:Holiday edition of the Bridgeland Riverside Farmers Market; v
 LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-yoga-1207@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261207T170000Z
+DTEND:20261207T180000Z
+SUMMARY:Beginner Yoga with Vlada (55+ class)
+DESCRIPTION:Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to De
+ c 7; class size limited to 20, register at brcacalgary.org. | Cost: $90 
+ for the series | Area: bridgeland | Source: Bridgeland-Riverside Communi
+ ty Association | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-strengthbegin-1208@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261208T213000Z
+DTEND:20261208T223000Z
+SUMMARY:Beginner Strength Training with Kim (55+ class)
+DESCRIPTION:Beginner strength training for seniors, Tuesdays 2:30-3:30pm,
+  Nov 3 to Dec 8; register at brcacalgary.org. | Cost: $90 for the series
+  | Area: bridgeland | Source: Bridgeland-Riverside Community Association
+  | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-qigong-1209@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261209T213000Z
+DTEND:20261209T223000Z
+SUMMARY:Qigong with Kim (55+ class)
+DESCRIPTION:Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to De
+ c 16 (no class Nov 11); register at brcacalgary.org. | Cost: $90 for the
+  series | Area: bridgeland | Source: Bridgeland-Riverside Community Asso
+ ciation | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:gc:4364@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261212T010000Z
 DTEND:20261212T050000Z
 SUMMARY:Community Pub Night
@@ -450,7 +605,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorgames-1216@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261216T200000Z
 DTEND:20261216T210000Z
 SUMMARY:Senior Games Day
@@ -460,8 +615,20 @@ DESCRIPTION:Drop-in seniors games afternoon at the community hall. | Area
 LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
+UID:fb:brcacalgary:seniors-qigong-1216@bridgeland-events
+DTSTAMP:20261103T143009Z
+DTSTART:20261216T213000Z
+DTEND:20261216T223000Z
+SUMMARY:Qigong with Kim (55+ class)
+DESCRIPTION:Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to De
+ c 16 (no class Nov 11); register at brcacalgary.org. | Cost: $90 for the
+  series | Area: bridgeland | Source: Bridgeland-Riverside Community Asso
+ ciation | https://www.facebook.com/BRCACalgary/
+LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
+END:VEVENT
+BEGIN:VEVENT
 UID:gc:4875@bridgeland-events
-DTSTAMP:20261102T143009Z
+DTSTAMP:20261103T143009Z
 DTSTART:20261219T010000Z
 DTEND:20261219T050000Z
 SUMMARY:Community Pub Night - Christmas Sweater Night

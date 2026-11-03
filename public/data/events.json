@@ -1,39 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-02T07:30:09-07:00",
- "scannedAt": "2026-11-02T07:30:09-07:00",
+ "generatedAt": "2026-11-03T07:30:09-07:00",
+ "scannedAt": "2026-11-03T07:30:09-07:00",
  "window": {
-  "from": "2026-10-26",
+  "from": "2026-10-27",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 42,
-  "new": 0
+  "total": 56,
+  "new": 15
  },
  "events": [
-  {
-   "id": "fb:brcacalgary:ward9-townhall-1026",
-   "title": "Ward 9 Town Hall with Councillor Harrison Clark and Mayor Jeremy Farkas",
-   "start": "2026-10-26T18:00:00-06:00",
-   "end": "2026-10-26T20:00:00-06:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "both",
-   "category": "civic",
-   "venue": {
-    "name": "Forest Lawn Legion",
-    "address": "755 40 St SE"
-   },
-   "description": "Ward 9 budget engagement town hall with Mayor Farkas and Councillor Clark; register via Eventbrite (also an online survey).",
-   "source": {
-    "kind": "facebook-page",
-    "name": "BRCA (Bridgeland-Riverside Community Association)",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "firstSeen": "2026-10-09T08:05:00-06:00",
-   "status": "upcoming",
-   "lastSeen": "2026-10-09T08:30:00-06:00"
-  },
   {
    "id": "web:brca-walkgroup-1027",
    "title": "Bridgeland Walking Group",
@@ -347,6 +324,62 @@
    "cost": "Registration required"
   },
   {
+   "id": "fb:brcacalgary:seniors-yoga-1109",
+   "title": "Beginner Yoga with Vlada (55+ class)",
+   "start": "2026-11-09T10:00:00-07:00",
+   "end": "2026-11-09T11:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Mondays, Nov 2 - Dec 7",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-strengthbegin-1110",
+   "title": "Beginner Strength Training with Kim (55+ class)",
+   "start": "2026-11-10T14:30:00-07:00",
+   "end": "2026-11-10T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Tuesdays, Nov 3 - Dec 8",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
    "id": "web:brca-walkgroup-1110",
    "title": "Bridgeland Walking Group",
    "start": "2026-11-10T18:30:00-07:00",
@@ -514,6 +547,62 @@
    "status": "upcoming"
   },
   {
+   "id": "fb:brcacalgary:seniors-yoga-1116",
+   "title": "Beginner Yoga with Vlada (55+ class)",
+   "start": "2026-11-16T10:00:00-07:00",
+   "end": "2026-11-16T11:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Mondays, Nov 2 - Dec 7",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-strengthbegin-1117",
+   "title": "Beginner Strength Training with Kim (55+ class)",
+   "start": "2026-11-17T14:30:00-07:00",
+   "end": "2026-11-17T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Tuesdays, Nov 3 - Dec 8",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
    "id": "web:brca-walkgroup-1117",
    "title": "Bridgeland Walking Group",
    "start": "2026-11-17T18:30:00-07:00",
@@ -565,6 +654,34 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-10-19T08:30:04-06:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-qigong-1118",
+   "title": "Qigong with Kim (55+ class)",
+   "start": "2026-11-18T14:30:00-07:00",
+   "end": "2026-11-18T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to Dec 16 (no class Nov 11); register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, Nov 4 - Dec 16",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
   },
   {
    "id": "gc:5008",
@@ -684,6 +801,62 @@
    "lastSeen": "2026-10-24T08:30:06-06:00"
   },
   {
+   "id": "fb:brcacalgary:seniors-yoga-1123",
+   "title": "Beginner Yoga with Vlada (55+ class)",
+   "start": "2026-11-23T10:00:00-07:00",
+   "end": "2026-11-23T11:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Mondays, Nov 2 - Dec 7",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-strengthbegin-1124",
+   "title": "Beginner Strength Training with Kim (55+ class)",
+   "start": "2026-11-24T14:30:00-07:00",
+   "end": "2026-11-24T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Tuesdays, Nov 3 - Dec 8",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
    "id": "web:brca-walkgroup-1124",
    "title": "Bridgeland Walking Group",
    "start": "2026-11-24T18:30:00-07:00",
@@ -735,6 +908,34 @@
     "label": "last Tuesday monthly",
     "seriesId": "rca-board-meeting"
    }
+  },
+  {
+   "id": "fb:brcacalgary:seniors-qigong-1125",
+   "title": "Qigong with Kim (55+ class)",
+   "start": "2026-11-25T14:30:00-07:00",
+   "end": "2026-11-25T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to Dec 16 (no class Nov 11); register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, Nov 4 - Dec 16",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
   },
   {
    "id": "gc:5035",
@@ -880,6 +1081,62 @@
    "lastSeen": "2026-10-06T08:30:59-06:00"
   },
   {
+   "id": "fb:brcacalgary:seniors-yoga-1130",
+   "title": "Beginner Yoga with Vlada (55+ class)",
+   "start": "2026-11-30T10:00:00-07:00",
+   "end": "2026-11-30T11:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Mondays, Nov 2 - Dec 7",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-strengthbegin-1201",
+   "title": "Beginner Strength Training with Kim (55+ class)",
+   "start": "2026-12-01T14:30:00-07:00",
+   "end": "2026-12-01T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Tuesdays, Nov 3 - Dec 8",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
    "id": "web:brca-seniorgames-1202",
    "title": "Senior Games Day",
    "start": "2026-12-02T13:00:00-07:00",
@@ -905,6 +1162,34 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-10-19T08:30:04-06:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-qigong-1202",
+   "title": "Qigong with Kim (55+ class)",
+   "start": "2026-12-02T14:30:00-07:00",
+   "end": "2026-12-02T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to Dec 16 (no class Nov 11); register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, Nov 4 - Dec 16",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
   },
   {
    "id": "web:brca-seniorsholiday-1203",
@@ -980,6 +1265,90 @@
    "lastSeen": "2026-10-19T08:30:04-06:00"
   },
   {
+   "id": "fb:brcacalgary:seniors-yoga-1207",
+   "title": "Beginner Yoga with Vlada (55+ class)",
+   "start": "2026-12-07T10:00:00-07:00",
+   "end": "2026-12-07T11:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Mondays, Nov 2 - Dec 7",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-strengthbegin-1208",
+   "title": "Beginner Strength Training with Kim (55+ class)",
+   "start": "2026-12-08T14:30:00-07:00",
+   "end": "2026-12-08T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Tuesdays, Nov 3 - Dec 8",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-qigong-1209",
+   "title": "Qigong with Kim (55+ class)",
+   "start": "2026-12-09T14:30:00-07:00",
+   "end": "2026-12-09T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to Dec 16 (no class Nov 11); register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, Nov 4 - Dec 16",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
    "id": "gc:4364",
    "title": "Community Pub Night",
    "start": "2026-12-11T18:00:00-07:00",
@@ -1032,6 +1401,34 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-10-19T08:30:04-06:00"
+  },
+  {
+   "id": "fb:brcacalgary:seniors-qigong-1216",
+   "title": "Qigong with Kim (55+ class)",
+   "start": "2026-12-16T14:30:00-07:00",
+   "end": "2026-12-16T15:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall (downstairs)",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$90 for the series",
+   "description": "Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to Dec 16 (no class Nov 11); register at brcacalgary.org.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, Nov 4 - Dec 16",
+    "seriesId": "brca-seniors-exercise"
+   },
+   "firstSeen": "2026-11-03T08:02:53-06:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-03T07:30:09-07:00"
   },
   {
    "id": "gc:4875",

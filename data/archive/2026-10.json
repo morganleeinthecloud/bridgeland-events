@@ -129,6 +129,29 @@
    "name": "Bridgeland Riverside Community Center"
   }
  },
+ "fb:brcacalgary:ward9-townhall-1026": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Ward 9 budget engagement town hall with Mayor Farkas and Councillor Clark; register via Eventbrite (also an online survey).",
+  "end": "2026-10-26T20:00:00-06:00",
+  "firstSeen": "2026-10-09T08:05:00-06:00",
+  "id": "fb:brcacalgary:ward9-townhall-1026",
+  "lastSeen": "2026-10-09T08:30:00-06:00",
+  "neighborhood": "both",
+  "source": {
+   "kind": "facebook-page",
+   "name": "BRCA (Bridgeland-Riverside Community Association)",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-10-26T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Ward 9 Town Hall with Councillor Harrison Clark and Mayor Jeremy Farkas",
+  "venue": {
+   "address": "755 40 St SE",
+   "name": "Forest Lawn Legion"
+  }
+ },
  "gc:3939": {
   "allDay": false,
   "category": "market",
