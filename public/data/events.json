@@ -1,42 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-03T07:30:09-07:00",
- "scannedAt": "2026-11-03T07:30:09-07:00",
+ "generatedAt": "2026-11-04T07:30:09-07:00",
+ "scannedAt": "2026-11-04T07:30:09-07:00",
  "window": {
-  "from": "2026-10-27",
+  "from": "2026-10-30",
   "to": "2026-12-18"
  },
  "counts": {
-  "total": 56,
-  "new": 15
+  "total": 55,
+  "new": 0
  },
  "events": [
-  {
-   "id": "web:brca-walkgroup-1027",
-   "title": "Bridgeland Walking Group",
-   "start": "2026-10-27T18:30:00-06:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE"
-   },
-   "description": "Weekly neighbourhood walk, meeting at the BRCA Hall; October walks start 6:30pm (per the October walk poster).",
-   "source": {
-    "kind": "community-site",
-    "name": "brcacalgary.org",
-    "url": "https://brcacalgary.org/"
-   },
-   "recurrence": {
-    "label": "every Tuesday",
-    "seriesId": "brca-walkgroup"
-   },
-   "firstSeen": "2026-10-14T08:05:00-06:00",
-   "lastSeen": "2026-10-14T08:30:02-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton"
-  },
   {
    "id": "gc:726",
    "title": "Tiny Tots Co-op Playgroup",
