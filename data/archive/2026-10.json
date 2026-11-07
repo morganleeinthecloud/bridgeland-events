@@ -330,6 +330,31 @@
    "name": "Renfrew Social Room (basement of the community centre)"
   }
  },
+ "gc:4360": {
+  "allDay": false,
+  "category": "social",
+  "end": "2026-10-30T22:00:00-06:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4360",
+  "lastSeen": "2026-10-25T08:30:06-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "Fridays 6-10pm",
+   "seriesId": "renfrew-pub-night"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew Community Association",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-10-30T18:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Community Pub Night \u2014 Halloween themed",
+  "venue": {
+   "name": "Renfrew Social Room, Renfrew Community Association"
+  }
+ },
  "gc:4367": {
   "allDay": false,
   "category": "family",
@@ -450,24 +475,27 @@
  "gc:726": {
   "allDay": false,
   "category": "family",
-  "description": "Parented, unstructured drop-in playgroup for children 5 and under, run by parent volunteers.",
-  "end": "2026-10-16T12:30:00-06:00",
-  "firstSeen": "2026-10-06T08:10:00-06:00",
+  "description": "Drop-in co-op playgroup for pre-schoolers and caregivers.",
+  "end": "2026-10-30T12:30:00-06:00",
+  "firstSeen": "2026-10-25T08:10:00-06:00",
   "id": "gc:726",
-  "lastSeen": "2026-10-14T08:30:02-06:00",
+  "lastSeen": "2026-10-25T08:30:06-06:00",
   "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "recurring playgroup",
+   "seriesId": "renfrew-tiny-tots"
+  },
   "source": {
    "kind": "community-site",
-   "name": "Renfrew CA \u00b7 getcommunal",
+   "name": "Renfrew Community Association",
    "url": "https://renfrew.getcommunal.com/parent_programs"
   },
-  "start": "2026-10-16T11:00:00-06:00",
+  "start": "2026-10-30T11:00:00-06:00",
   "status": "upcoming",
   "timezone": "America/Edmonton",
   "title": "Tiny Tots Co-op Playgroup",
   "venue": {
-   "address": "811 Radford Rd NE",
-   "name": "Renfrew Community Association - West Hall (Lower)"
+   "name": "Renfrew Community Association \u2014 West Hall (Lower)"
   }
  },
  "web:beacon-art-show-1017": {
