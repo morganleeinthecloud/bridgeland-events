@@ -719,6 +719,29 @@
    "name": "BRCA Hall (Bridgeland-Riverside Community Association)"
   }
  },
+ "web:brca-trunkortreat-1031": {
+  "allDay": false,
+  "category": "family",
+  "description": "Halloween trick-or-treating event hosted by BRCA (time from the BRCA listing; details in poster).",
+  "end": "2026-10-31T20:00:00-06:00",
+  "firstSeen": "2026-10-02T15:25:38-06:00",
+  "id": "web:brca-trunkortreat-1031",
+  "lastSeen": "2026-10-03T08:30:58-06:00",
+  "neighborhood": "bridgeland",
+  "source": {
+   "kind": "community-site",
+   "name": "BRCA \u00b7 brcacalgary.org",
+   "url": "https://brcacalgary.org/"
+  },
+  "start": "2026-10-31T17:00:00-06:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Trunk or Treat",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall parking lot"
+  }
+ },
  "web:brca-walkgroup-1006": {
   "allDay": false,
   "category": "outdoors",
