@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T07:30:11-07:00",
- "scannedAt": "2026-11-08T07:30:11-07:00",
+ "generatedAt": "2026-11-09T07:30:11-07:00",
+ "scannedAt": "2026-11-09T07:30:11-07:00",
  "window": {
   "from": "2026-11-02",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 58,
-  "new": 6
+  "total": 60,
+  "new": 2
  },
  "events": [
   {
@@ -654,6 +654,24 @@
     "name": "Renfrew Community Hall",
     "address": "811 Radford Road NE"
    }
+  },
+  {
+   "id": "fb:renfrewca:silent-auction-1120",
+   "title": "RCA Online Silent Auction (closes at the AGM)",
+   "start": "2026-11-20T19:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "renfrew",
+   "category": "fundraiser",
+   "description": "Online silent auction of local business donations, artwork and Renfrew history pieces; bidding closes at the AGM on Fri Nov 20. Bid at renfrewyyc.ca.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Renfrew Community Association",
+    "url": "https://www.facebook.com/renfrewca/"
+   },
+   "firstSeen": "2026-11-09T08:15:00-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-09T07:30:11-07:00"
   },
   {
    "id": "fb:brcacalgary:sewschool-stitch-1121",
@@ -1375,6 +1393,29 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-11-08T07:30:11-07:00"
+  },
+  {
+   "id": "gc:5325",
+   "title": "Live Music at the RCA Pub: T. Buckley",
+   "start": "2026-12-19T18:00:00-07:00",
+   "end": "2026-12-20T00:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "renfrew",
+   "category": "social",
+   "venue": {
+    "name": "Renfrew Community Association Pub",
+    "address": "811 Radford Rd NE"
+   },
+   "description": "Award-winning Alberta folk singer-songwriter T. Buckley plays the RCA Pub; doors 6pm, first set 7:30pm, 18+.",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew Community Association",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "firstSeen": "2026-11-09T08:15:00-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-09T07:30:11-07:00"
   },
   {
    "id": "web:renfrew-sewcial-0108",
