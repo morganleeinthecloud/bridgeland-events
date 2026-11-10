@@ -1,44 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T07:30:11-07:00",
- "scannedAt": "2026-11-09T07:30:11-07:00",
+ "generatedAt": "2026-11-10T07:30:11-07:00",
+ "scannedAt": "2026-11-10T07:30:11-07:00",
  "window": {
-  "from": "2026-11-02",
+  "from": "2026-11-03",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 60,
-  "new": 2
+  "total": 66,
+  "new": 7
  },
  "events": [
-  {
-   "id": "fb:brcacalgary:seniors-yoga-1102",
-   "title": "Beginner Yoga with Vlada (55+ class)",
-   "start": "2026-11-02T10:00:00-07:00",
-   "end": "2026-11-02T11:00:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "BRCA Hall (downstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "$90 for the series",
-   "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "recurrence": {
-    "label": "Mondays, Nov 2 - Dec 7",
-    "seriesId": "brca-seniors-exercise"
-   },
-   "firstSeen": "2026-10-29T08:05:00-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-29T08:30:07-06:00"
-  },
   {
    "id": "fb:brcacalgary:seniors-strengthbegin-1103",
    "title": "Beginner Strength Training with Kim (55+ class)",
@@ -306,6 +278,34 @@
    "lastSeen": "2026-10-24T08:30:06-06:00"
   },
   {
+   "id": "fb:brcacalgary:tripleb-yoga-1111",
+   "title": "Triple B Yoga: Gentle Yoga (Erin)",
+   "start": "2026-11-11T19:30:00-07:00",
+   "end": "2026-11-11T20:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall, Lantern Room",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$20 drop-in / $18 per class with a package",
+   "description": "Gentle yoga with Erin, curvy yoga instructor; bring your mat and any props. Call or text 403-608-4564 to register.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, 7:30pm",
+    "seriesId": "brca-tripleb-yoga"
+   },
+   "firstSeen": "2026-11-10T07:02:56-07:00",
+   "lastSeen": "2026-11-10T07:30:11-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
+  },
+  {
    "id": "gc:4255",
    "title": "Pack Walk",
    "start": "2026-11-12T18:30:00-07:00",
@@ -401,6 +401,28 @@
    "venue": {
     "name": "Renfrew Community Association"
    }
+  },
+  {
+   "id": "fb:renfrewca:mamas-night-out-1113",
+   "title": "Mamas Night Out: Ugly Holiday Sweater Edition",
+   "start": "2026-11-13T18:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "renfrew",
+   "category": "social",
+   "venue": {
+    "name": "Renfrew Social Room",
+    "address": "811 Radford Rd NE"
+   },
+   "description": "Night out for neighbourhood mamas at the RCA pub; wear your ugliest holiday sweater and meet other moms in the area.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Renfrew Community Association",
+    "url": "https://www.facebook.com/renfrewca/"
+   },
+   "firstSeen": "2026-11-10T07:02:56-07:00",
+   "lastSeen": "2026-11-10T07:30:11-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
   },
   {
    "id": "fb:6347923513:holidaymarket-1114",
@@ -604,6 +626,34 @@
    "venue": {
     "name": "Renfrew Community Association"
    }
+  },
+  {
+   "id": "fb:brcacalgary:tripleb-yoga-1118",
+   "title": "Triple B Yoga: Gentle Yoga (Erin)",
+   "start": "2026-11-18T19:30:00-07:00",
+   "end": "2026-11-18T20:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall, Lantern Room",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$20 drop-in / $18 per class with a package",
+   "description": "Gentle yoga with Erin, curvy yoga instructor; bring your mat and any props. Call or text 403-608-4564 to register.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, 7:30pm",
+    "seriesId": "brca-tripleb-yoga"
+   },
+   "firstSeen": "2026-11-10T07:02:56-07:00",
+   "lastSeen": "2026-11-10T07:30:11-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
   },
   {
    "id": "gc:4874",
@@ -905,6 +955,34 @@
    "lastSeen": "2026-09-24T08:30:49-06:00"
   },
   {
+   "id": "fb:brcacalgary:tripleb-yoga-1125",
+   "title": "Triple B Yoga: Gentle Yoga (Erin)",
+   "start": "2026-11-25T19:30:00-07:00",
+   "end": "2026-11-25T20:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall, Lantern Room",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$20 drop-in / $18 per class with a package",
+   "description": "Gentle yoga with Erin, curvy yoga instructor; bring your mat and any props. Call or text 403-608-4564 to register.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, 7:30pm",
+    "seriesId": "brca-tripleb-yoga"
+   },
+   "firstSeen": "2026-11-10T07:02:56-07:00",
+   "lastSeen": "2026-11-10T07:30:11-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
+  },
+  {
    "id": "gc:4362",
    "title": "Community Pub Night",
    "start": "2026-11-27T18:00:00-07:00",
@@ -1110,6 +1188,34 @@
    "lastSeen": "2026-11-03T07:30:09-07:00"
   },
   {
+   "id": "fb:brcacalgary:tripleb-yoga-1202",
+   "title": "Triple B Yoga: Gentle Yoga (Erin)",
+   "start": "2026-12-02T19:30:00-07:00",
+   "end": "2026-12-02T20:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall, Lantern Room",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$20 drop-in / $18 per class with a package",
+   "description": "Gentle yoga with Erin, curvy yoga instructor; bring your mat and any props. Call or text 403-608-4564 to register.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, 7:30pm",
+    "seriesId": "brca-tripleb-yoga"
+   },
+   "firstSeen": "2026-11-10T07:02:56-07:00",
+   "lastSeen": "2026-11-10T07:30:11-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
+  },
+  {
    "id": "web:brca-seniorsholiday-1203",
    "title": "Seniors Holiday Party",
    "start": "2026-12-03T12:00:00-07:00",
@@ -1267,6 +1373,34 @@
    "lastSeen": "2026-11-03T07:30:09-07:00"
   },
   {
+   "id": "fb:brcacalgary:tripleb-yoga-1209",
+   "title": "Triple B Yoga: Gentle Yoga (Erin)",
+   "start": "2026-12-09T19:30:00-07:00",
+   "end": "2026-12-09T20:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall, Lantern Room",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$20 drop-in / $18 per class with a package",
+   "description": "Gentle yoga with Erin, curvy yoga instructor; bring your mat and any props. Call or text 403-608-4564 to register.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, 7:30pm",
+    "seriesId": "brca-tripleb-yoga"
+   },
+   "firstSeen": "2026-11-10T07:02:56-07:00",
+   "lastSeen": "2026-11-10T07:30:11-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
+  },
+  {
    "id": "gc:4364",
    "title": "Community Pub Night",
    "start": "2026-12-11T18:00:00-07:00",
@@ -1347,6 +1481,34 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:brcacalgary:tripleb-yoga-1216",
+   "title": "Triple B Yoga: Gentle Yoga (Erin)",
+   "start": "2026-12-16T19:30:00-07:00",
+   "end": "2026-12-16T20:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "BRCA Hall, Lantern Room",
+    "address": "917 Centre Ave NE"
+   },
+   "cost": "$20 drop-in / $18 per class with a package",
+   "description": "Gentle yoga with Erin, curvy yoga instructor; bring your mat and any props. Call or text 403-608-4564 to register.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "Bridgeland-Riverside Community Association",
+    "url": "https://www.facebook.com/BRCACalgary/"
+   },
+   "recurrence": {
+    "label": "Wednesdays, 7:30pm",
+    "seriesId": "brca-tripleb-yoga"
+   },
+   "firstSeen": "2026-11-10T07:02:56-07:00",
+   "lastSeen": "2026-11-10T07:30:11-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton"
   },
   {
    "id": "gc:4875",

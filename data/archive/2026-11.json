@@ -1,0 +1,30 @@
+{
+ "fb:brcacalgary:seniors-yoga-1102": {
+  "allDay": false,
+  "category": "class",
+  "cost": "$90 for the series",
+  "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
+  "end": "2026-11-02T11:00:00-07:00",
+  "firstSeen": "2026-10-29T08:05:00-06:00",
+  "id": "fb:brcacalgary:seniors-yoga-1102",
+  "lastSeen": "2026-10-29T08:30:07-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "Mondays, Nov 2 - Dec 7",
+   "seriesId": "brca-seniors-exercise"
+  },
+  "source": {
+   "kind": "facebook-page",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-11-02T10:00:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Beginner Yoga with Vlada (55+ class)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (downstairs)"
+  }
+ }
+}
