@@ -1,4 +1,32 @@
 {
+ "fb:brcacalgary:seniors-strengthbegin-1103": {
+  "allDay": false,
+  "category": "class",
+  "cost": "$90 for the series",
+  "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
+  "end": "2026-11-03T15:30:00-07:00",
+  "firstSeen": "2026-10-29T08:05:00-06:00",
+  "id": "fb:brcacalgary:seniors-strengthbegin-1103",
+  "lastSeen": "2026-10-29T08:30:07-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "Tuesdays, Nov 3 - Dec 8",
+   "seriesId": "brca-seniors-exercise"
+  },
+  "source": {
+   "kind": "facebook-page",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-11-03T14:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Beginner Strength Training with Kim (55+ class)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (downstairs)"
+  }
+ },
  "fb:brcacalgary:seniors-yoga-1102": {
   "allDay": false,
   "category": "class",
@@ -25,6 +53,33 @@
   "venue": {
    "address": "917 Centre Ave NE",
    "name": "BRCA Hall (downstairs)"
+  }
+ },
+ "web:brca-walkgroup-1103": {
+  "allDay": false,
+  "category": "outdoors",
+  "description": "Weekly neighbourhood walk meeting at the BRCA Hall, Tuesdays at 6:30pm.",
+  "end": "2026-11-03T19:30:00-07:00",
+  "firstSeen": "2026-10-21T08:02:20-06:00",
+  "id": "web:brca-walkgroup-1103",
+  "lastSeen": "2026-10-21T08:30:05-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "every Tuesday",
+   "seriesId": "brca-walkgroup"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "brcacalgary.org",
+   "url": "https://brcacalgary.org/"
+  },
+  "start": "2026-11-03T18:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Bridgeland Walking Group",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall"
   }
  }
 }

@@ -1,71 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-10T09:30:11-07:00",
- "scannedAt": "2026-11-10T09:30:11-07:00",
+ "generatedAt": "2026-11-11T07:03:18-07:00",
+ "scannedAt": "2026-11-11T07:03:18-07:00",
  "window": {
-  "from": "2026-11-03",
+  "from": "2026-11-04",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 66,
+  "total": 64,
   "new": 1
  },
  "events": [
-  {
-   "id": "fb:brcacalgary:seniors-strengthbegin-1103",
-   "title": "Beginner Strength Training with Kim (55+ class)",
-   "start": "2026-11-03T14:30:00-07:00",
-   "end": "2026-11-03T15:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "BRCA Hall (downstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "$90 for the series",
-   "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "recurrence": {
-    "label": "Tuesdays, Nov 3 - Dec 8",
-    "seriesId": "brca-seniors-exercise"
-   },
-   "firstSeen": "2026-10-29T08:05:00-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-29T08:30:07-06:00"
-  },
-  {
-   "id": "web:brca-walkgroup-1103",
-   "title": "Bridgeland Walking Group",
-   "start": "2026-11-03T18:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE"
-   },
-   "description": "Weekly neighbourhood walk meeting at the BRCA Hall, Tuesdays at 6:30pm.",
-   "source": {
-    "kind": "community-site",
-    "name": "brcacalgary.org",
-    "url": "https://brcacalgary.org/"
-   },
-   "recurrence": {
-    "label": "every Tuesday",
-    "seriesId": "brca-walkgroup"
-   },
-   "firstSeen": "2026-10-21T08:02:20-06:00",
-   "lastSeen": "2026-10-21T08:30:05-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "end": "2026-11-03T19:30:00-07:00"
-  },
   {
    "id": "web:brca-seniorgames-1104",
    "title": "Senior Games Day",
@@ -378,28 +323,6 @@
    "recurrence": {
     "label": "every Friday",
     "seriesId": "renfrew-pub-night"
-   }
-  },
-  {
-   "id": "gc:5007",
-   "title": "Family Game Night - Card Tournament",
-   "start": "2026-11-13T18:00:00-07:00",
-   "end": "2026-11-13T21:00:00-07:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "family",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "description": "Evening of Hearts, cards and friendly competition - no experience necessary, prizes for the winners.",
-   "firstSeen": "2026-10-16T08:15:00-06:00",
-   "lastSeen": "2026-10-16T08:30:03-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association"
    }
   },
   {
@@ -1371,6 +1294,29 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:6347923513:10166093919253514",
+   "title": "Holiday Printmaking Workshop (Bridgeland Art Camp, adults)",
+   "start": "2026-12-09T18:30:00-07:00",
+   "end": "2026-12-09T21:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "class",
+   "venue": {
+    "name": "Bridgeland Riverside Community Association (BRCA Hall)",
+    "address": "917 Centre Ave NE, Calgary"
+   },
+   "description": "Adult holiday printmaking workshop: draw your image, carve your design, print cards. Ages 16+.",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland/Riverside",
+    "url": "https://www.facebook.com/groups/6347923513/posts/10166093919253514/"
+   },
+   "firstSeen": "2026-11-11T07:05:00-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-11T07:03:18-07:00"
   },
   {
    "id": "fb:brcacalgary:tripleb-yoga-1209",
