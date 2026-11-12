@@ -7,7 +7,7 @@
   "end": "2026-11-04T15:30:00-07:00",
   "firstSeen": "2026-10-29T08:05:00-06:00",
   "id": "fb:brcacalgary:seniors-qigong-1104",
-  "lastSeen": "2026-10-29T08:30:07-06:00",
+  "lastSeen": "2026-11-12T08:30:12-07:00",
   "neighborhood": "bridgeland",
   "recurrence": {
    "label": "Wednesdays, Nov 4 - Dec 16",
@@ -35,7 +35,7 @@
   "end": "2026-11-03T15:30:00-07:00",
   "firstSeen": "2026-10-29T08:05:00-06:00",
   "id": "fb:brcacalgary:seniors-strengthbegin-1103",
-  "lastSeen": "2026-11-12T07:30:12-07:00",
+  "lastSeen": "2026-11-12T08:30:12-07:00",
   "neighborhood": "bridgeland",
   "recurrence": {
    "label": "Tuesdays, Nov 3 - Dec 8",
@@ -90,7 +90,7 @@
   "end": "2026-11-04T14:00:00-07:00",
   "firstSeen": "2026-10-19T08:02:29-06:00",
   "id": "web:brca-seniorgames-1104",
-  "lastSeen": "2026-10-19T08:30:04-06:00",
+  "lastSeen": "2026-11-12T08:30:12-07:00",
   "neighborhood": "bridgeland",
   "recurrence": {
    "label": "alternate Wednesdays",
@@ -117,7 +117,7 @@
   "end": "2026-11-03T19:30:00-07:00",
   "firstSeen": "2026-10-21T08:02:20-06:00",
   "id": "web:brca-walkgroup-1103",
-  "lastSeen": "2026-11-12T07:30:12-07:00",
+  "lastSeen": "2026-11-12T08:30:12-07:00",
   "neighborhood": "bridgeland",
   "recurrence": {
    "label": "every Tuesday",
