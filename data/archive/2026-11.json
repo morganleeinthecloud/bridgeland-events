@@ -1,4 +1,32 @@
 {
+ "fb:brcacalgary:seniors-qigong-1104": {
+  "allDay": false,
+  "category": "class",
+  "cost": "$90 for the series",
+  "description": "Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to Dec 16 (no class Nov 11); register at brcacalgary.org.",
+  "end": "2026-11-04T15:30:00-07:00",
+  "firstSeen": "2026-10-29T08:05:00-06:00",
+  "id": "fb:brcacalgary:seniors-qigong-1104",
+  "lastSeen": "2026-10-29T08:30:07-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "Wednesdays, Nov 4 - Dec 16",
+   "seriesId": "brca-seniors-exercise"
+  },
+  "source": {
+   "kind": "facebook-page",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-11-04T14:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Qigong with Kim (55+ class)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (downstairs)"
+  }
+ },
  "fb:brcacalgary:seniors-strengthbegin-1103": {
   "allDay": false,
   "category": "class",
@@ -7,7 +35,7 @@
   "end": "2026-11-03T15:30:00-07:00",
   "firstSeen": "2026-10-29T08:05:00-06:00",
   "id": "fb:brcacalgary:seniors-strengthbegin-1103",
-  "lastSeen": "2026-11-11T09:30:12-07:00",
+  "lastSeen": "2026-11-12T07:30:12-07:00",
   "neighborhood": "bridgeland",
   "recurrence": {
    "label": "Tuesdays, Nov 3 - Dec 8",
@@ -55,6 +83,33 @@
    "name": "BRCA Hall (downstairs)"
   }
  },
+ "web:brca-seniorgames-1104": {
+  "allDay": false,
+  "category": "social",
+  "description": "Drop-in seniors games afternoon at the community hall.",
+  "end": "2026-11-04T14:00:00-07:00",
+  "firstSeen": "2026-10-19T08:02:29-06:00",
+  "id": "web:brca-seniorgames-1104",
+  "lastSeen": "2026-10-19T08:30:04-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "alternate Wednesdays",
+   "seriesId": "brca-senior-games"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Bridgeland-Riverside CA",
+   "url": "https://brcacalgary.org/"
+  },
+  "start": "2026-11-04T13:00:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Senior Games Day",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (upstairs)"
+  }
+ },
  "web:brca-walkgroup-1103": {
   "allDay": false,
   "category": "outdoors",
@@ -62,7 +117,7 @@
   "end": "2026-11-03T19:30:00-07:00",
   "firstSeen": "2026-10-21T08:02:20-06:00",
   "id": "web:brca-walkgroup-1103",
-  "lastSeen": "2026-11-11T09:30:12-07:00",
+  "lastSeen": "2026-11-12T07:30:12-07:00",
   "neighborhood": "bridgeland",
   "recurrence": {
    "label": "every Tuesday",
