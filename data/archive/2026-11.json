@@ -109,6 +109,29 @@
    "name": "BRCA Hall (downstairs)"
   }
  },
+ "gc:4779": {
+  "allDay": false,
+  "category": "class",
+  "cost": "Registration required",
+  "end": "2026-11-07T15:00:00-07:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4779",
+  "lastSeen": "2026-10-16T08:30:03-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-11-07T13:00:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Crafternoon: Design your own tote bag",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
  "gc:4872": {
   "allDay": false,
   "category": "social",
