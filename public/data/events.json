@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-11-15T09:30:13-07:00",
- "scannedAt": "2026-11-15T09:30:13-07:00",
+ "generatedAt": "2026-11-16T07:30:13-07:00",
+ "scannedAt": "2026-11-16T07:30:13-07:00",
  "window": {
   "from": "2026-11-09",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 59,
-  "new": 1
+  "total": 62,
+  "new": 3
  },
  "events": [
   {
@@ -450,6 +450,33 @@
    "timezone": "America/Edmonton"
   },
   {
+   "id": "gc:726",
+   "title": "Tiny Tots Co-op Playgroup",
+   "start": "2026-11-20T11:00:00-07:00",
+   "end": "2026-11-20T12:30:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Co-op playgroup for toddlers and their caregivers, weekly in the West Hall.",
+   "venue": {
+    "name": "Renfrew Community Association \u2014 West Hall",
+    "address": "811 Radford Rd NE"
+   },
+   "recurrence": {
+    "label": "weekly, Fridays 11am-12:30pm",
+    "seriesId": "renfrew-tiny-tots"
+   },
+   "firstSeen": "2026-11-16T07:02:31-07:00",
+   "lastSeen": "2026-11-16T07:30:13-07:00",
+   "status": "upcoming"
+  },
+  {
    "id": "gc:4874",
    "title": "Community Pub Night",
    "start": "2026-11-20T18:00:00-07:00",
@@ -777,6 +804,33 @@
    "timezone": "America/Edmonton"
   },
   {
+   "id": "gc:5566",
+   "title": "Tiny Tots Co-op Playgroup",
+   "start": "2026-11-27T11:00:00-07:00",
+   "end": "2026-11-27T12:30:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Co-op playgroup for toddlers and their caregivers, weekly in the West Hall.",
+   "venue": {
+    "name": "Renfrew Community Association \u2014 West Hall",
+    "address": "811 Radford Rd NE"
+   },
+   "recurrence": {
+    "label": "weekly, Fridays 11am-12:30pm",
+    "seriesId": "renfrew-tiny-tots"
+   },
+   "firstSeen": "2026-11-16T07:02:31-07:00",
+   "lastSeen": "2026-11-16T07:30:13-07:00",
+   "status": "upcoming"
+  },
+  {
    "id": "gc:4362",
    "title": "Community Pub Night",
    "start": "2026-11-27T18:00:00-07:00",
@@ -1031,6 +1085,33 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-10-24T08:30:06-06:00"
+  },
+  {
+   "id": "gc:5567",
+   "title": "Tiny Tots Co-op Playgroup",
+   "start": "2026-12-04T11:00:00-07:00",
+   "end": "2026-12-04T12:30:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "family",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "description": "Co-op playgroup for toddlers and their caregivers, weekly in the West Hall.",
+   "venue": {
+    "name": "Renfrew Community Association \u2014 West Hall",
+    "address": "811 Radford Rd NE"
+   },
+   "recurrence": {
+    "label": "weekly, Fridays 11am-12:30pm",
+    "seriesId": "renfrew-tiny-tots"
+   },
+   "firstSeen": "2026-11-16T07:02:31-07:00",
+   "lastSeen": "2026-11-16T07:30:13-07:00",
+   "status": "upcoming"
   },
   {
    "id": "gc:4363",
