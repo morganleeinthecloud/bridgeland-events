@@ -1,44 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-16T07:30:13-07:00",
- "scannedAt": "2026-11-16T07:30:13-07:00",
+ "generatedAt": "2026-11-17T07:30:14-07:00",
+ "scannedAt": "2026-11-17T07:30:14-07:00",
  "window": {
-  "from": "2026-11-09",
+  "from": "2026-11-10",
   "to": "2027-01-29"
  },
  "counts": {
   "total": 62,
-  "new": 3
+  "new": 1
  },
  "events": [
-  {
-   "id": "fb:brcacalgary:seniors-yoga-1109",
-   "title": "Beginner Yoga with Vlada (55+ class)",
-   "start": "2026-11-09T10:00:00-07:00",
-   "end": "2026-11-09T11:00:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "BRCA Hall (downstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "$90 for the series",
-   "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "recurrence": {
-    "label": "Mondays, Nov 2 - Dec 7",
-    "seriesId": "brca-seniors-exercise"
-   },
-   "firstSeen": "2026-11-03T08:02:53-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-11-03T07:30:09-07:00"
-  },
   {
    "id": "fb:brcacalgary:seniors-strengthbegin-1110",
    "title": "Beginner Strength Training with Kim (55+ class)",
@@ -923,6 +895,29 @@
    "description": "Change Makers Collective holiday market with local makers at the Renfrew Community Association.",
    "firstSeen": "2026-09-21T08:04:47-06:00",
    "lastSeen": "2026-10-06T08:30:59-06:00"
+  },
+  {
+   "id": "fb:brcacalgary:tannenbaum-1128",
+   "title": "Tannenbaum Lighting Festival",
+   "start": "2026-11-28T17:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "social",
+   "venue": {
+    "name": "St. Matthew Lutheran Church",
+    "address": "66 7th St NE, Calgary"
+   },
+   "cost": "Free; cash donations to German Education in Calgary",
+   "description": "German Advent concert with the German Ladies Choir, German Canadian Male Chorus, German Children's Choir and Calgary Opera emerging artists, followed by hot chocolate and German baking. Doors 4:30pm.",
+   "source": {
+    "kind": "facebook-page",
+    "name": "BRCACalgary",
+    "url": "https://www.facebook.com/BRCACalgary/posts/pfbid02czspquaqCzFiaqt9exVp8xHdm9nn1wPTy1zMyMskvQFLTctD2ShHFJNgpnnH8sRcl"
+   },
+   "firstSeen": "2026-11-17T07:02:21-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-17T07:30:14-07:00"
   },
   {
    "id": "fb:brcacalgary:seniors-yoga-1130",
