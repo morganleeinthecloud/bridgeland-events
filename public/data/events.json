@@ -1,70 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-17T09:30:14-07:00",
- "scannedAt": "2026-11-17T09:30:14-07:00",
+ "generatedAt": "2026-11-18T07:30:14-07:00",
+ "scannedAt": "2026-11-18T07:30:14-07:00",
  "window": {
-  "from": "2026-11-10",
+  "from": "2026-11-11",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 62,
+  "total": 61,
   "new": 1
  },
  "events": [
-  {
-   "id": "fb:brcacalgary:seniors-strengthbegin-1110",
-   "title": "Beginner Strength Training with Kim (55+ class)",
-   "start": "2026-11-10T14:30:00-07:00",
-   "end": "2026-11-10T15:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "BRCA Hall (downstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "$90 for the series",
-   "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "recurrence": {
-    "label": "Tuesdays, Nov 3 - Dec 8",
-    "seriesId": "brca-seniors-exercise"
-   },
-   "firstSeen": "2026-11-03T08:02:53-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-11-03T07:30:09-07:00"
-  },
-  {
-   "id": "web:brca-walkgroup-1110",
-   "title": "Bridgeland Walking Group",
-   "start": "2026-11-10T18:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE, Calgary"
-   },
-   "description": "Weekly Tuesday evening neighbourhood walk.",
-   "source": {
-    "kind": "community-site",
-    "name": "Bridgeland-Riverside CA",
-    "url": "https://brcacalgary.org/"
-   },
-   "recurrence": {
-    "label": "every Tuesday",
-    "seriesId": "bridgeland-walking-group"
-   },
-   "firstSeen": "2026-10-24T08:05:00-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-24T08:30:06-06:00"
-  },
   {
    "id": "fb:brcacalgary:tripleb-yoga-1111",
    "title": "Triple B Yoga: Gentle Yoga (Erin)",
@@ -697,6 +643,30 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "fb:6347923513:10166134922203514",
+   "title": "Merry Mail Mingle (adults-only card making)",
+   "start": "2026-11-25T16:00:00-07:00",
+   "end": "2026-11-25T19:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "social",
+   "venue": {
+    "name": "Cherry Tree Lane Toys",
+    "address": "905 1 Ave NE, Calgary"
+   },
+   "cost": "Free, RSVP required",
+   "description": "Adults-only evening making holiday cards for Calgary seniors, with snacks and drinks from Dandy Brewing, a gift-wrapping station and late shopping.",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland/Riverside",
+    "url": "https://www.facebook.com/groups/6347923513/posts/10166134922203514/"
+   },
+   "firstSeen": "2026-11-18T07:05:00-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-18T07:30:14-07:00"
   },
   {
    "id": "gc:5035",
