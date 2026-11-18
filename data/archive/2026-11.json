@@ -89,7 +89,7 @@
   "end": "2026-11-10T15:30:00-07:00",
   "firstSeen": "2026-11-03T08:02:53-06:00",
   "id": "fb:brcacalgary:seniors-strengthbegin-1110",
-  "lastSeen": "2026-11-03T07:30:09-07:00",
+  "lastSeen": "2026-11-18T08:30:14-07:00",
   "neighborhood": "bridgeland",
   "recurrence": {
    "label": "Tuesdays, Nov 3 - Dec 8",
@@ -273,7 +273,7 @@
   "description": "Weekly Tuesday evening neighbourhood walk.",
   "firstSeen": "2026-10-24T08:05:00-06:00",
   "id": "web:brca-walkgroup-1110",
-  "lastSeen": "2026-10-24T08:30:06-06:00",
+  "lastSeen": "2026-11-18T08:30:14-07:00",
   "neighborhood": "bridgeland",
   "recurrence": {
    "label": "every Tuesday",
