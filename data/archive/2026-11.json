@@ -193,6 +193,32 @@
    "name": "BRCA Hall, Lantern Room"
   }
  },
+ "gc:4255": {
+  "allDay": false,
+  "category": "outdoors",
+  "end": "2026-11-12T20:30:00-07:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4255",
+  "lastSeen": "2026-11-07T07:03:42-07:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "recurring",
+   "seriesId": "renfrew-pack-walk"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-11-12T18:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Pack Walk",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
  "gc:4779": {
   "allDay": false,
   "category": "class",
