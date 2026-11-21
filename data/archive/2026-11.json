@@ -193,6 +193,50 @@
    "name": "BRCA Hall, Lantern Room"
   }
  },
+ "fb:renfrewca:mamas-night-out-1113": {
+  "allDay": false,
+  "category": "social",
+  "description": "Night out for neighbourhood mamas at the RCA pub; wear your ugliest holiday sweater and meet other moms in the area.",
+  "firstSeen": "2026-11-10T07:02:56-07:00",
+  "id": "fb:renfrewca:mamas-night-out-1113",
+  "lastSeen": "2026-11-10T07:30:11-07:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "facebook-page",
+   "name": "Renfrew Community Association",
+   "url": "https://www.facebook.com/renfrewca/"
+  },
+  "start": "2026-11-13T18:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Mamas Night Out: Ugly Holiday Sweater Edition",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Social Room"
+  }
+ },
+ "gc:4252": {
+  "allDay": false,
+  "category": "class",
+  "end": "2026-11-13T20:30:00-07:00",
+  "firstSeen": "2026-09-17T20:08:00-06:00",
+  "id": "gc:4252",
+  "lastSeen": "2026-10-16T08:30:03-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-11-13T18:00:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Sewcial Club",
+  "venue": {
+   "address": "811 Radford Rd NE",
+   "name": "Renfrew Community Association"
+  }
+ },
  "gc:4255": {
   "allDay": false,
   "category": "outdoors",
@@ -217,6 +261,33 @@
   "venue": {
    "address": "811 Radford Rd NE",
    "name": "Renfrew Community Association"
+  }
+ },
+ "gc:4361": {
+  "allDay": false,
+  "category": "social",
+  "description": "Friday night out in the Renfrew Social Room - cheap drinks, shuffleboard, pool, foosball, darts and board games; minors welcome with a parent.",
+  "end": "2026-11-13T22:00:00-07:00",
+  "firstSeen": "2026-10-16T08:15:00-06:00",
+  "id": "gc:4361",
+  "lastSeen": "2026-10-16T08:30:03-06:00",
+  "neighborhood": "renfrew",
+  "recurrence": {
+   "label": "every Friday",
+   "seriesId": "renfrew-pub-night"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-11-13T18:00:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Community Pub Night",
+  "venue": {
+   "address": "811 Radford Road NE",
+   "name": "Renfrew Community Association (Social Room)"
   }
  },
  "gc:4779": {

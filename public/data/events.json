@@ -1,87 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-20T07:30:15-07:00",
- "scannedAt": "2026-11-20T07:30:15-07:00",
+ "generatedAt": "2026-11-21T07:30:15-07:00",
+ "scannedAt": "2026-11-21T07:30:15-07:00",
  "window": {
-  "from": "2026-11-13",
+  "from": "2026-11-14",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 59,
-  "new": 0
+  "total": 57,
+  "new": 1
  },
  "events": [
-  {
-   "id": "gc:4252",
-   "title": "Sewcial Club",
-   "start": "2026-11-13T18:00:00-07:00",
-   "end": "2026-11-13T20:30:00-07:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "class",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "firstSeen": "2026-09-17T20:08:00-06:00",
-   "lastSeen": "2026-10-16T08:30:03-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association",
-    "address": "811 Radford Rd NE"
-   }
-  },
-  {
-   "id": "gc:4361",
-   "title": "Community Pub Night",
-   "start": "2026-11-13T18:00:00-07:00",
-   "end": "2026-11-13T22:00:00-07:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "social",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "description": "Friday night out in the Renfrew Social Room - cheap drinks, shuffleboard, pool, foosball, darts and board games; minors welcome with a parent.",
-   "firstSeen": "2026-10-16T08:15:00-06:00",
-   "lastSeen": "2026-10-16T08:30:03-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association (Social Room)",
-    "address": "811 Radford Road NE"
-   },
-   "recurrence": {
-    "label": "every Friday",
-    "seriesId": "renfrew-pub-night"
-   }
-  },
-  {
-   "id": "fb:renfrewca:mamas-night-out-1113",
-   "title": "Mamas Night Out: Ugly Holiday Sweater Edition",
-   "start": "2026-11-13T18:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "renfrew",
-   "category": "social",
-   "venue": {
-    "name": "Renfrew Social Room",
-    "address": "811 Radford Rd NE"
-   },
-   "description": "Night out for neighbourhood mamas at the RCA pub; wear your ugliest holiday sweater and meet other moms in the area.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Renfrew Community Association",
-    "url": "https://www.facebook.com/renfrewca/"
-   },
-   "firstSeen": "2026-11-10T07:02:56-07:00",
-   "lastSeen": "2026-11-10T07:30:11-07:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton"
-  },
   {
    "id": "fb:6347923513:holidaymarket-1114",
    "title": "Holiday Market",
@@ -1441,6 +1370,30 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-11-08T07:30:11-07:00"
+  },
+  {
+   "id": "gc:5473",
+   "title": "Sewcial Club",
+   "start": "2027-01-21T18:00:00-07:00",
+   "end": "2027-01-21T20:30:00-07:00",
+   "allDay": false,
+   "timezone": "America/Edmonton",
+   "neighborhood": "renfrew",
+   "category": "class",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew CA \u00b7 getcommunal",
+    "url": "https://renfrew.getcommunal.com/parent_programs"
+   },
+   "cost": "",
+   "description": "Crafting social at the Renfrew CA: bring your sewing machine and current project, share skills and sip while you sew.",
+   "venue": {
+    "name": "Renfrew Community Association",
+    "address": "811 Radford Rd NE"
+   },
+   "firstSeen": "2026-11-21T07:05:00-07:00",
+   "lastSeen": "2026-11-21T07:30:15-07:00",
+   "status": "upcoming"
   },
   {
    "id": "web:renfrew-trivia-0122",

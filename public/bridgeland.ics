@@ -6,41 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Bridgeland & Renfrew Events
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-UID:gc:4252@bridgeland-events
-DTSTAMP:20261120T143015Z
-DTSTART:20261114T010000Z
-DTEND:20261114T033000Z
-SUMMARY:Sewcial Club
-DESCRIPTION:Area: renfrew | Source: Renfrew CA · getcommunal | https://re
- nfrew.getcommunal.com/parent_programs
-LOCATION:Renfrew Community Association, 811 Radford Rd NE
-END:VEVENT
-BEGIN:VEVENT
-UID:gc:4361@bridgeland-events
-DTSTAMP:20261120T143015Z
-DTSTART:20261114T010000Z
-DTEND:20261114T050000Z
-SUMMARY:Community Pub Night
-DESCRIPTION:Friday night out in the Renfrew Social Room - cheap drinks, s
- huffleboard, pool, foosball, darts and board games; minors welcome with 
- a parent. | Area: renfrew | Source: Renfrew CA · getcommunal | https://r
- enfrew.getcommunal.com/parent_programs
-LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
-END:VEVENT
-BEGIN:VEVENT
-UID:fb:renfrewca:mamas-night-out-1113@bridgeland-events
-DTSTAMP:20261120T143015Z
-DTSTART:20261114T013000Z
-SUMMARY:Mamas Night Out: Ugly Holiday Sweater Edition
-DESCRIPTION:Night out for neighbourhood mamas at the RCA pub; wear your u
- gliest holiday sweater and meet other moms in the area. | Area: renfrew 
- | Source: Renfrew Community Association | https://www.facebook.com/renfr
- ewca/
-LOCATION:Renfrew Social Room, 811 Radford Rd NE
-END:VEVENT
-BEGIN:VEVENT
 UID:fb:6347923513:holidaymarket-1114@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261114T070000Z
 SUMMARY:Holiday Market
 DESCRIPTION:Holiday craft market; vendor applications close Oct 12 (rehab
@@ -51,7 +18,7 @@ LOCATION:Rehabilitation Society of Calgary, 7-11 St NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:sewschool-stitch-1114@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261114T070000Z
 SUMMARY:Sew School: Stitch (machine sewing, ages 9-12)
 DESCRIPTION:Machine-sewing session 1 of 3 (Nov 14, 21 & 28), ages 9-12, a
@@ -62,7 +29,7 @@ LOCATION:Bridgeland Riverside Community Center, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-yoga-1116@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:Beginner Yoga with Vlada (55+ class)
@@ -74,7 +41,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-strengthbegin-1117@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261117T213000Z
 DTEND:20261117T223000Z
 SUMMARY:Beginner Strength Training with Kim (55+ class)
@@ -86,7 +53,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-walkgroup-1117@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261118T013000Z
 SUMMARY:Bridgeland Walking Group
 DESCRIPTION:Weekly Tuesday evening neighbourhood walk. | Area: bridgeland
@@ -95,7 +62,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorgames-1118@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261118T200000Z
 DTEND:20261118T210000Z
 SUMMARY:Senior Games Day
@@ -106,7 +73,7 @@ LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-qigong-1118@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261118T213000Z
 DTEND:20261118T223000Z
 SUMMARY:Qigong with Kim (55+ class)
@@ -118,7 +85,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5008@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261119T020000Z
 DTEND:20261119T040000Z
 SUMMARY:Renfrew Community Conversation: Green Calgary - Managing Your Foo
@@ -131,7 +98,7 @@ LOCATION:Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:tripleb-yoga-1118@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261119T023000Z
 DTEND:20261119T033000Z
 SUMMARY:Triple B Yoga: Gentle Yoga (Erin)
@@ -143,7 +110,7 @@ LOCATION:BRCA Hall, Lantern Room, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:726@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261120T180000Z
 DTEND:20261120T193000Z
 SUMMARY:Tiny Tots Co-op Playgroup
@@ -154,7 +121,7 @@ LOCATION:Renfrew Community Association — West Hall, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4874@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261121T010000Z
 DTEND:20261121T050000Z
 SUMMARY:Community Pub Night
@@ -166,7 +133,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:2173@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261121T020000Z
 DTEND:20261121T040000Z
 SUMMARY:Renfrew Community Association AGM
@@ -178,7 +145,7 @@ LOCATION:Renfrew Community Hall, 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:renfrewca:silent-auction-1120@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261121T020000Z
 SUMMARY:RCA Online Silent Auction (closes at the AGM)
 DESCRIPTION:Online silent auction of local business donations, artwork an
@@ -188,7 +155,7 @@ DESCRIPTION:Online silent auction of local business donations, artwork an
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:sewschool-stitch-1121@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261121T070000Z
 SUMMARY:Sew School: Stitch (machine sewing, ages 9-12)
 DESCRIPTION:Machine-sewing session 2 of 3 (Nov 14, 21 & 28), ages 9-12, a
@@ -199,7 +166,7 @@ LOCATION:Bridgeland Riverside Community Center, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-mosaic-1122@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 SUMMARY:Seniors Mosaic Art Unveiling & Holiday Card Making
@@ -210,7 +177,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-yoga-1123@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261123T170000Z
 DTEND:20261123T180000Z
 SUMMARY:Beginner Yoga with Vlada (55+ class)
@@ -222,7 +189,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-strengthbegin-1124@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261124T213000Z
 DTEND:20261124T223000Z
 SUMMARY:Beginner Strength Training with Kim (55+ class)
@@ -234,7 +201,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-walkgroup-1124@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261125T013000Z
 SUMMARY:Bridgeland Walking Group
 DESCRIPTION:Weekly Tuesday evening neighbourhood walk. | Area: bridgeland
@@ -243,7 +210,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:cal:8ia604ql@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261125T020000Z
 DTEND:20261125T040000Z
 SUMMARY:RCA Board Meeting
@@ -253,7 +220,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-qigong-1125@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261125T213000Z
 DTEND:20261125T223000Z
 SUMMARY:Qigong with Kim (55+ class)
@@ -265,7 +232,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:6347923513:10166134922203514@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261125T230000Z
 DTEND:20261126T020000Z
 SUMMARY:Merry Mail Mingle (adults-only card making)
@@ -278,7 +245,7 @@ LOCATION:Cherry Tree Lane Toys, 905 1 Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5035@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261126T010000Z
 DTEND:20261126T040000Z
 SUMMARY:Makers Mingle: Holiday Card Making
@@ -290,7 +257,7 @@ LOCATION:Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-dogos-1125@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261126T020000Z
 DTEND:20261126T030000Z
 SUMMARY:D.O.G.O.S. Community Walk
@@ -301,7 +268,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:tripleb-yoga-1125@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261126T023000Z
 DTEND:20261126T033000Z
 SUMMARY:Triple B Yoga: Gentle Yoga (Erin)
@@ -313,7 +280,7 @@ LOCATION:BRCA Hall, Lantern Room, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5566@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261127T180000Z
 DTEND:20261127T193000Z
 SUMMARY:Tiny Tots Co-op Playgroup
@@ -324,7 +291,7 @@ LOCATION:Renfrew Community Association — West Hall, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4362@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261128T010000Z
 DTEND:20261128T050000Z
 SUMMARY:Community Pub Night
@@ -336,7 +303,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5018@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261128T010000Z
 DTEND:20261128T040000Z
 SUMMARY:Jellybean Dance: Holiday edition
@@ -349,7 +316,7 @@ LOCATION:Renfrew Community Association
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:sewschool-stitch-1128@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261128T070000Z
 SUMMARY:Sew School: Stitch (machine sewing, ages 9-12)
 DESCRIPTION:Machine-sewing session 3 of 3 (Nov 14, 21 & 28), ages 9-12, a
@@ -360,7 +327,7 @@ LOCATION:Bridgeland Riverside Community Center, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:cmc-holiday-1128@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261128T180000Z
 DTEND:20261129T000000Z
 SUMMARY:Holiday Market
@@ -371,7 +338,7 @@ LOCATION:Renfrew Community Association, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:tannenbaum-1128@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261129T000000Z
 SUMMARY:Tannenbaum Lighting Festival
 DESCRIPTION:German Advent concert with the German Ladies Choir, German Ca
@@ -384,7 +351,7 @@ LOCATION:St. Matthew Lutheran Church, 66 7th St NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-yoga-1130@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:Beginner Yoga with Vlada (55+ class)
@@ -396,7 +363,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-strengthbegin-1201@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261201T213000Z
 DTEND:20261201T223000Z
 SUMMARY:Beginner Strength Training with Kim (55+ class)
@@ -408,7 +375,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorgames-1202@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261202T200000Z
 DTEND:20261202T210000Z
 SUMMARY:Senior Games Day
@@ -419,7 +386,7 @@ LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-qigong-1202@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261202T213000Z
 DTEND:20261202T223000Z
 SUMMARY:Qigong with Kim (55+ class)
@@ -431,7 +398,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:tripleb-yoga-1202@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Triple B Yoga: Gentle Yoga (Erin)
@@ -443,7 +410,7 @@ LOCATION:BRCA Hall, Lantern Room, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorsholiday-1203@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261203T190000Z
 DTEND:20261203T210000Z
 SUMMARY:Seniors Holiday Party
@@ -454,7 +421,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE, Calgary
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5567@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261204T180000Z
 DTEND:20261204T193000Z
 SUMMARY:Tiny Tots Co-op Playgroup
@@ -465,7 +432,7 @@ LOCATION:Renfrew Community Association — West Hall, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4363@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261205T010000Z
 DTEND:20261205T050000Z
 SUMMARY:Community Pub Night
@@ -477,7 +444,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-holidaymarket-1206@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261206T180000Z
 DTEND:20261206T230000Z
 SUMMARY:Bridgeland Riverside Farmers Market — Holiday Market
@@ -488,7 +455,7 @@ LOCATION:BRCA Hall, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-yoga-1207@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:Beginner Yoga with Vlada (55+ class)
@@ -500,7 +467,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-strengthbegin-1208@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261208T213000Z
 DTEND:20261208T223000Z
 SUMMARY:Beginner Strength Training with Kim (55+ class)
@@ -512,7 +479,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-qigong-1209@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261209T213000Z
 DTEND:20261209T223000Z
 SUMMARY:Qigong with Kim (55+ class)
@@ -524,7 +491,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:6347923513:10166093919253514@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261210T013000Z
 DTEND:20261210T043000Z
 SUMMARY:Holiday Printmaking Workshop (Bridgeland Art Camp, adults)
@@ -537,7 +504,7 @@ LOCATION:Bridgeland Riverside Community Association (BRCA Hall), 917 Cent
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:tripleb-yoga-1209@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261210T023000Z
 DTEND:20261210T033000Z
 SUMMARY:Triple B Yoga: Gentle Yoga (Erin)
@@ -549,7 +516,7 @@ LOCATION:BRCA Hall, Lantern Room, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4364@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261212T010000Z
 DTEND:20261212T050000Z
 SUMMARY:Community Pub Night
@@ -561,7 +528,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:brca-seniorgames-1216@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261216T200000Z
 DTEND:20261216T210000Z
 SUMMARY:Senior Games Day
@@ -572,7 +539,7 @@ LOCATION:BRCA Hall (upstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:seniors-qigong-1216@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261216T213000Z
 DTEND:20261216T223000Z
 SUMMARY:Qigong with Kim (55+ class)
@@ -584,7 +551,7 @@ LOCATION:BRCA Hall (downstairs), 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb:brcacalgary:tripleb-yoga-1216@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:Triple B Yoga: Gentle Yoga (Erin)
@@ -596,7 +563,7 @@ LOCATION:BRCA Hall, Lantern Room, 917 Centre Ave NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:4875@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261219T010000Z
 DTEND:20261219T050000Z
 SUMMARY:Community Pub Night - Christmas Sweater Night
@@ -608,7 +575,7 @@ LOCATION:Renfrew Community Association (Social Room), 811 Radford Road NE
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5322@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261219T010000Z
 DTEND:20261219T030000Z
 SUMMARY:Community Holiday Pageant
@@ -619,7 +586,7 @@ DESCRIPTION:Holiday pageant performed by community children (6-7pm), foll
 END:VEVENT
 BEGIN:VEVENT
 UID:gc:5325@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20261220T010000Z
 DTEND:20261220T070000Z
 SUMMARY:Live Music at the RCA Pub: T. Buckley
@@ -631,7 +598,7 @@ LOCATION:Renfrew Community Association Pub, 811 Radford Rd NE
 END:VEVENT
 BEGIN:VEVENT
 UID:web:renfrew-sewcial-0108@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20270108T070000Z
 SUMMARY:Sewcial
 DESCRIPTION:Connect, sip and sew at the Renfrew Social Room. Time to be c
@@ -640,7 +607,7 @@ DESCRIPTION:Connect, sip and sew at the Renfrew Social Room. Time to be c
 END:VEVENT
 BEGIN:VEVENT
 UID:web:renfrew-alphahouse-0120@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20270120T070000Z
 SUMMARY:Community Conversation: Alpha House
 DESCRIPTION:Connecting and engaging with vulnerable community members. Ti
@@ -649,7 +616,7 @@ DESCRIPTION:Connecting and engaging with vulnerable community members. Ti
 END:VEVENT
 BEGIN:VEVENT
 UID:web:renfrew-packwalk-0121@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20270121T070000Z
 SUMMARY:Pack Walk
 DESCRIPTION:Neighbourhood dog walk from the Renfrew Community Association
@@ -657,8 +624,20 @@ DESCRIPTION:Neighbourhood dog walk from the Renfrew Community Association
  ciation | https://www.renfrewyyc.ca/events
 END:VEVENT
 BEGIN:VEVENT
+UID:gc:5473@bridgeland-events
+DTSTAMP:20261121T143015Z
+DTSTART:20270122T010000Z
+DTEND:20270122T033000Z
+SUMMARY:Sewcial Club
+DESCRIPTION:Crafting social at the Renfrew CA: bring your sewing machine 
+ and current project, share skills and sip while you sew. | Area: renfrew
+  | Source: Renfrew CA · getcommunal | https://renfrew.getcommunal.com/pa
+ rent_programs
+LOCATION:Renfrew Community Association, 811 Radford Rd NE
+END:VEVENT
+BEGIN:VEVENT
 UID:web:renfrew-trivia-0122@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20270122T070000Z
 SUMMARY:Family Trivia Night
 DESCRIPTION:Family trivia night at the Renfrew Community Association. Tim
@@ -667,7 +646,7 @@ DESCRIPTION:Family trivia night at the Renfrew Community Association. Tim
 END:VEVENT
 BEGIN:VEVENT
 UID:web:renfrew-jellybean-0129@bridgeland-events
-DTSTAMP:20261120T143015Z
+DTSTAMP:20261121T143015Z
 DTSTART:20270130T010000Z
 DTEND:20270130T040000Z
 SUMMARY:Jellybean Dance
