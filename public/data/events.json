@@ -1,60 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-21T09:30:15-07:00",
- "scannedAt": "2026-11-21T09:30:15-07:00",
+ "generatedAt": "2026-11-22T07:30:15-07:00",
+ "scannedAt": "2026-11-22T07:30:15-07:00",
  "window": {
-  "from": "2026-11-14",
+  "from": "2026-11-16",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 57,
+  "total": 55,
   "new": 3
  },
  "events": [
-  {
-   "id": "fb:6347923513:holidaymarket-1114",
-   "title": "Holiday Market",
-   "start": "2026-11-14T00:00:00-07:00",
-   "allDay": true,
-   "neighborhood": "bridgeland",
-   "category": "market",
-   "venue": {
-    "name": "Rehabilitation Society of Calgary",
-    "address": "7-11 St NE"
-   },
-   "description": "Holiday craft market; vendor applications close Oct 12 (rehabcalgary.ca/craftfair2026). Time not stated on the flyer.",
-   "source": {
-    "kind": "facebook-group",
-    "name": "Bridgeland/Riverside",
-    "url": "https://www.facebook.com/groups/6347923513/"
-   },
-   "firstSeen": "2026-10-03T08:05:06-06:00",
-   "lastSeen": "2026-10-03T08:30:58-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton"
-  },
-  {
-   "id": "fb:brcacalgary:sewschool-stitch-1114",
-   "title": "Sew School: Stitch (machine sewing, ages 9-12)",
-   "start": "2026-11-14T00:00:00-07:00",
-   "allDay": true,
-   "timezone": "America/Edmonton",
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "Bridgeland Riverside Community Center",
-    "address": "917 Centre Ave NE"
-   },
-   "description": "Machine-sewing session 1 of 3 (Nov 14, 21 & 28), ages 9-12, at the community centre. Registration at sewschoolcalgary.com; time not stated on the flyer.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "BRCA (Bridgeland-Riverside Community Association)",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "firstSeen": "2026-10-07T08:20:00-06:00",
-   "lastSeen": "2026-10-07T08:30:00-06:00",
-   "status": "upcoming"
-  },
   {
    "id": "fb:brcacalgary:seniors-yoga-1116",
    "title": "Beginner Yoga with Vlada (55+ class)",
