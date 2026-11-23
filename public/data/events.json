@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-11-22T09:30:15-07:00",
- "scannedAt": "2026-11-22T09:30:15-07:00",
+ "generatedAt": "2026-11-23T07:30:15-07:00",
+ "scannedAt": "2026-11-23T07:30:15-07:00",
  "window": {
   "from": "2026-11-16",
   "to": "2027-01-29"
  },
  "counts": {
   "total": 55,
-  "new": 5
+  "new": 0
  },
  "events": [
   {
@@ -397,7 +397,7 @@
   {
    "id": "web:brca-walkgroup-1124",
    "title": "Bridgeland Walking Group",
-   "start": "2026-11-24T18:30:00-07:00",
+   "start": "2026-11-24T18:45:00-07:00",
    "allDay": false,
    "neighborhood": "bridgeland",
    "category": "outdoors",
@@ -418,7 +418,7 @@
    "firstSeen": "2026-10-24T08:05:00-06:00",
    "status": "upcoming",
    "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-24T08:30:06-06:00"
+   "lastSeen": "2026-11-23T07:30:15-07:00"
   },
   {
    "id": "cal:8ia604ql",
