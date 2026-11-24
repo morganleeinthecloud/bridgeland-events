@@ -1,44 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-23T07:30:15-07:00",
- "scannedAt": "2026-11-23T07:30:15-07:00",
+ "generatedAt": "2026-11-24T07:30:16-07:00",
+ "scannedAt": "2026-11-24T07:30:16-07:00",
  "window": {
-  "from": "2026-11-16",
+  "from": "2026-11-17",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 55,
+  "total": 54,
   "new": 0
  },
  "events": [
-  {
-   "id": "fb:brcacalgary:seniors-yoga-1116",
-   "title": "Beginner Yoga with Vlada (55+ class)",
-   "start": "2026-11-16T10:00:00-07:00",
-   "end": "2026-11-16T11:00:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "BRCA Hall (downstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "$90 for the series",
-   "description": "Beginner yoga class for seniors, Mondays 10-11am, Nov 2 to Dec 7; class size limited to 20, register at brcacalgary.org.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "recurrence": {
-    "label": "Mondays, Nov 2 - Dec 7",
-    "seriesId": "brca-seniors-exercise"
-   },
-   "firstSeen": "2026-11-03T08:02:53-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-11-03T07:30:09-07:00"
-  },
   {
    "id": "fb:brcacalgary:seniors-strengthbegin-1117",
    "title": "Beginner Strength Training with Kim (55+ class)",
@@ -478,8 +450,8 @@
   {
    "id": "fb:6347923513:10166134922203514",
    "title": "Merry Mail Mingle (adults-only card making)",
-   "start": "2026-11-25T16:00:00-07:00",
-   "end": "2026-11-25T19:00:00-07:00",
+   "start": "2026-11-25T17:00:00-07:00",
+   "end": "2026-11-25T20:00:00-07:00",
    "allDay": false,
    "neighborhood": "bridgeland",
    "category": "social",
@@ -488,7 +460,7 @@
     "address": "905 1 Ave NE, Calgary"
    },
    "cost": "Free, RSVP required",
-   "description": "Adults-only evening making holiday cards for Calgary seniors, with snacks and drinks from Dandy Brewing, a gift-wrapping station and late shopping.",
+   "description": "Adults-only evening making holiday cards for Calgary seniors, at the Bridgeland Community Hub; free with RSVP for food. Flyer in the Nov 23 group post lists 5-8pm.",
    "source": {
     "kind": "facebook-group",
     "name": "Bridgeland/Riverside",
@@ -497,7 +469,7 @@
    "firstSeen": "2026-11-18T07:05:00-07:00",
    "status": "upcoming",
    "timezone": "America/Edmonton",
-   "lastSeen": "2026-11-18T07:30:14-07:00"
+   "lastSeen": "2026-11-24T07:30:16-07:00"
   },
   {
    "id": "gc:5035",
