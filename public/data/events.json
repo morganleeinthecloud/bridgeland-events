@@ -1,70 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-24T07:30:16-07:00",
- "scannedAt": "2026-11-24T07:30:16-07:00",
+ "generatedAt": "2026-11-25T07:30:16-07:00",
+ "scannedAt": "2026-11-25T07:30:16-07:00",
  "window": {
-  "from": "2026-11-17",
+  "from": "2026-11-18",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 54,
+  "total": 52,
   "new": 0
  },
  "events": [
-  {
-   "id": "fb:brcacalgary:seniors-strengthbegin-1117",
-   "title": "Beginner Strength Training with Kim (55+ class)",
-   "start": "2026-11-17T14:30:00-07:00",
-   "end": "2026-11-17T15:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "BRCA Hall (downstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "$90 for the series",
-   "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "recurrence": {
-    "label": "Tuesdays, Nov 3 - Dec 8",
-    "seriesId": "brca-seniors-exercise"
-   },
-   "firstSeen": "2026-11-03T08:02:53-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-11-03T07:30:09-07:00"
-  },
-  {
-   "id": "web:brca-walkgroup-1117",
-   "title": "Bridgeland Walking Group",
-   "start": "2026-11-17T18:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "outdoors",
-   "venue": {
-    "name": "BRCA Hall",
-    "address": "917 Centre Ave NE, Calgary"
-   },
-   "description": "Weekly Tuesday evening neighbourhood walk.",
-   "source": {
-    "kind": "community-site",
-    "name": "Bridgeland-Riverside CA",
-    "url": "https://brcacalgary.org/"
-   },
-   "recurrence": {
-    "label": "every Tuesday",
-    "seriesId": "bridgeland-walking-group"
-   },
-   "firstSeen": "2026-10-24T08:05:00-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-24T08:30:06-06:00"
-  },
   {
    "id": "web:brca-seniorgames-1118",
    "title": "Senior Games Day",

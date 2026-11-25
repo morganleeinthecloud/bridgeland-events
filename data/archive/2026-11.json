@@ -131,6 +131,34 @@
    "name": "BRCA Hall (downstairs)"
   }
  },
+ "fb:brcacalgary:seniors-strengthbegin-1117": {
+  "allDay": false,
+  "category": "class",
+  "cost": "$90 for the series",
+  "description": "Beginner strength training for seniors, Tuesdays 2:30-3:30pm, Nov 3 to Dec 8; register at brcacalgary.org.",
+  "end": "2026-11-17T15:30:00-07:00",
+  "firstSeen": "2026-11-03T08:02:53-06:00",
+  "id": "fb:brcacalgary:seniors-strengthbegin-1117",
+  "lastSeen": "2026-11-03T07:30:09-07:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "Tuesdays, Nov 3 - Dec 8",
+   "seriesId": "brca-seniors-exercise"
+  },
+  "source": {
+   "kind": "facebook-page",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-11-17T14:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Beginner Strength Training with Kim (55+ class)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (downstairs)"
+  }
+ },
  "fb:brcacalgary:seniors-yoga-1102": {
   "allDay": false,
   "category": "class",
@@ -482,6 +510,32 @@
    "url": "https://brcacalgary.org/"
   },
   "start": "2026-11-10T18:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Bridgeland Walking Group",
+  "venue": {
+   "address": "917 Centre Ave NE, Calgary",
+   "name": "BRCA Hall"
+  }
+ },
+ "web:brca-walkgroup-1117": {
+  "allDay": false,
+  "category": "outdoors",
+  "description": "Weekly Tuesday evening neighbourhood walk.",
+  "firstSeen": "2026-10-24T08:05:00-06:00",
+  "id": "web:brca-walkgroup-1117",
+  "lastSeen": "2026-10-24T08:30:06-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "every Tuesday",
+   "seriesId": "bridgeland-walking-group"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Bridgeland-Riverside CA",
+   "url": "https://brcacalgary.org/"
+  },
+  "start": "2026-11-17T18:30:00-07:00",
   "status": "upcoming",
   "timezone": "America/Edmonton",
   "title": "Bridgeland Walking Group",
