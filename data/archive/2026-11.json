@@ -75,6 +75,34 @@
    "name": "BRCA Hall (downstairs)"
   }
  },
+ "fb:brcacalgary:seniors-qigong-1118": {
+  "allDay": false,
+  "category": "class",
+  "cost": "$90 for the series",
+  "description": "Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to Dec 16 (no class Nov 11); register at brcacalgary.org.",
+  "end": "2026-11-18T15:30:00-07:00",
+  "firstSeen": "2026-11-03T08:02:53-06:00",
+  "id": "fb:brcacalgary:seniors-qigong-1118",
+  "lastSeen": "2026-11-03T07:30:09-07:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "Wednesdays, Nov 4 - Dec 16",
+   "seriesId": "brca-seniors-exercise"
+  },
+  "source": {
+   "kind": "facebook-page",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-11-18T14:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Qigong with Kim (55+ class)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (downstairs)"
+  }
+ },
  "fb:brcacalgary:seniors-strengthbegin-1103": {
   "allDay": false,
   "category": "class",
@@ -293,6 +321,34 @@
    "name": "BRCA Hall, Lantern Room"
   }
  },
+ "fb:brcacalgary:tripleb-yoga-1118": {
+  "allDay": false,
+  "category": "class",
+  "cost": "$20 drop-in / $18 per class with a package",
+  "description": "Gentle yoga with Erin, curvy yoga instructor; bring your mat and any props. Call or text 403-608-4564 to register.",
+  "end": "2026-11-18T20:30:00-07:00",
+  "firstSeen": "2026-11-10T07:02:56-07:00",
+  "id": "fb:brcacalgary:tripleb-yoga-1118",
+  "lastSeen": "2026-11-10T07:30:11-07:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "Wednesdays, 7:30pm",
+   "seriesId": "brca-tripleb-yoga"
+  },
+  "source": {
+   "kind": "facebook-page",
+   "name": "Bridgeland-Riverside Community Association",
+   "url": "https://www.facebook.com/BRCACalgary/"
+  },
+  "start": "2026-11-18T19:30:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Triple B Yoga: Gentle Yoga (Erin)",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall, Lantern Room"
+  }
+ },
  "fb:renfrewca:mamas-night-out-1113": {
   "allDay": false,
   "category": "social",
@@ -438,6 +494,28 @@
    "name": "Renfrew Social Room, Renfrew Community Association"
   }
  },
+ "gc:5008": {
+  "allDay": false,
+  "category": "civic",
+  "description": "Workshop on easy food planning, storing and preserving food, and buying affordable local produce. Spill the Beans: Managing Your Food Waste.",
+  "end": "2026-11-18T21:00:00-07:00",
+  "firstSeen": "2026-10-16T08:15:00-06:00",
+  "id": "gc:5008",
+  "lastSeen": "2026-10-16T08:30:03-06:00",
+  "neighborhood": "renfrew",
+  "source": {
+   "kind": "community-site",
+   "name": "Renfrew CA \u00b7 getcommunal",
+   "url": "https://renfrew.getcommunal.com/parent_programs"
+  },
+  "start": "2026-11-18T19:00:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Renfrew Community Conversation: Green Calgary - Managing Your Food Waste",
+  "venue": {
+   "name": "Renfrew Community Association"
+  }
+ },
  "web:brca-seniorgames-1104": {
   "allDay": false,
   "category": "social",
@@ -457,6 +535,33 @@
    "url": "https://brcacalgary.org/"
   },
   "start": "2026-11-04T13:00:00-07:00",
+  "status": "upcoming",
+  "timezone": "America/Edmonton",
+  "title": "Senior Games Day",
+  "venue": {
+   "address": "917 Centre Ave NE",
+   "name": "BRCA Hall (upstairs)"
+  }
+ },
+ "web:brca-seniorgames-1118": {
+  "allDay": false,
+  "category": "social",
+  "description": "Drop-in seniors games afternoon at the community hall.",
+  "end": "2026-11-18T14:00:00-07:00",
+  "firstSeen": "2026-10-19T08:02:29-06:00",
+  "id": "web:brca-seniorgames-1118",
+  "lastSeen": "2026-10-19T08:30:04-06:00",
+  "neighborhood": "bridgeland",
+  "recurrence": {
+   "label": "alternate Wednesdays",
+   "seriesId": "brca-senior-games"
+  },
+  "source": {
+   "kind": "community-site",
+   "name": "Bridgeland-Riverside CA",
+   "url": "https://brcacalgary.org/"
+  },
+  "start": "2026-11-18T13:00:00-07:00",
   "status": "upcoming",
   "timezone": "America/Edmonton",
   "title": "Senior Games Day",

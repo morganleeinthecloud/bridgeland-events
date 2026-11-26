@@ -1,121 +1,16 @@
 {
  "version": 1,
- "generatedAt": "2026-11-25T07:30:16-07:00",
- "scannedAt": "2026-11-25T07:30:16-07:00",
+ "generatedAt": "2026-11-26T07:30:17-07:00",
+ "scannedAt": "2026-11-26T07:30:17-07:00",
  "window": {
-  "from": "2026-11-18",
+  "from": "2026-11-20",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 52,
-  "new": 0
+  "total": 50,
+  "new": 2
  },
  "events": [
-  {
-   "id": "web:brca-seniorgames-1118",
-   "title": "Senior Games Day",
-   "start": "2026-11-18T13:00:00-07:00",
-   "end": "2026-11-18T14:00:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "social",
-   "venue": {
-    "name": "BRCA Hall (upstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "description": "Drop-in seniors games afternoon at the community hall.",
-   "source": {
-    "kind": "community-site",
-    "name": "Bridgeland-Riverside CA",
-    "url": "https://brcacalgary.org/"
-   },
-   "recurrence": {
-    "label": "alternate Wednesdays",
-    "seriesId": "brca-senior-games"
-   },
-   "firstSeen": "2026-10-19T08:02:29-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-10-19T08:30:04-06:00"
-  },
-  {
-   "id": "fb:brcacalgary:seniors-qigong-1118",
-   "title": "Qigong with Kim (55+ class)",
-   "start": "2026-11-18T14:30:00-07:00",
-   "end": "2026-11-18T15:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "BRCA Hall (downstairs)",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "$90 for the series",
-   "description": "Qigong class for seniors, Wednesdays 2:30-3:30pm, Nov 4 to Dec 16 (no class Nov 11); register at brcacalgary.org.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "recurrence": {
-    "label": "Wednesdays, Nov 4 - Dec 16",
-    "seriesId": "brca-seniors-exercise"
-   },
-   "firstSeen": "2026-11-03T08:02:53-06:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-11-03T07:30:09-07:00"
-  },
-  {
-   "id": "gc:5008",
-   "title": "Renfrew Community Conversation: Green Calgary - Managing Your Food Waste",
-   "start": "2026-11-18T19:00:00-07:00",
-   "end": "2026-11-18T21:00:00-07:00",
-   "allDay": false,
-   "timezone": "America/Edmonton",
-   "neighborhood": "renfrew",
-   "category": "civic",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew CA \u00b7 getcommunal",
-    "url": "https://renfrew.getcommunal.com/parent_programs"
-   },
-   "description": "Workshop on easy food planning, storing and preserving food, and buying affordable local produce. Spill the Beans: Managing Your Food Waste.",
-   "firstSeen": "2026-10-16T08:15:00-06:00",
-   "lastSeen": "2026-10-16T08:30:03-06:00",
-   "status": "upcoming",
-   "venue": {
-    "name": "Renfrew Community Association"
-   }
-  },
-  {
-   "id": "fb:brcacalgary:tripleb-yoga-1118",
-   "title": "Triple B Yoga: Gentle Yoga (Erin)",
-   "start": "2026-11-18T19:30:00-07:00",
-   "end": "2026-11-18T20:30:00-07:00",
-   "allDay": false,
-   "neighborhood": "bridgeland",
-   "category": "class",
-   "venue": {
-    "name": "BRCA Hall, Lantern Room",
-    "address": "917 Centre Ave NE"
-   },
-   "cost": "$20 drop-in / $18 per class with a package",
-   "description": "Gentle yoga with Erin, curvy yoga instructor; bring your mat and any props. Call or text 403-608-4564 to register.",
-   "source": {
-    "kind": "facebook-page",
-    "name": "Bridgeland-Riverside Community Association",
-    "url": "https://www.facebook.com/BRCACalgary/"
-   },
-   "recurrence": {
-    "label": "Wednesdays, 7:30pm",
-    "seriesId": "brca-tripleb-yoga"
-   },
-   "firstSeen": "2026-11-10T07:02:56-07:00",
-   "lastSeen": "2026-11-10T07:30:11-07:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton"
-  },
   {
    "id": "gc:726",
    "title": "Tiny Tots Co-op Playgroup",
@@ -616,6 +511,29 @@
    "lastSeen": "2026-10-06T08:30:59-06:00"
   },
   {
+   "id": "fb:6347923513:event-1111589305137155",
+   "title": "Assumption Pyrogie Bazaar",
+   "start": "2026-11-28T14:00:00-07:00",
+   "end": "2026-11-28T17:00:00-07:00",
+   "allDay": false,
+   "neighborhood": "riverside",
+   "category": "market",
+   "venue": {
+    "name": "Assumption of the Blessed Virgin Mary Ukrainian Catholic Church",
+    "address": "704 6 St NE, Calgary"
+   },
+   "description": "Annual perogy bazaar: homemade Ukrainian food, baking and gifts for the Christmas season.",
+   "source": {
+    "kind": "facebook-group",
+    "name": "Bridgeland/Riverside",
+    "url": "https://www.facebook.com/events/1111589305137155/"
+   },
+   "firstSeen": "2026-11-26T07:03:05-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-26T07:30:17-07:00"
+  },
+  {
    "id": "fb:brcacalgary:tannenbaum-1128",
    "title": "Tannenbaum Lighting Festival",
    "start": "2026-11-28T17:00:00-07:00",
@@ -693,6 +611,32 @@
    "status": "upcoming",
    "timezone": "America/Edmonton",
    "lastSeen": "2026-11-03T07:30:09-07:00"
+  },
+  {
+   "id": "web:brca-walkgroup-1201",
+   "title": "Bridgeland Walking Group",
+   "start": "2026-12-01T18:45:00-07:00",
+   "allDay": false,
+   "neighborhood": "bridgeland",
+   "category": "outdoors",
+   "venue": {
+    "name": "BRCA Hall",
+    "address": "917 Centre Ave NE, Calgary"
+   },
+   "description": "Weekly Tuesday evening neighbourhood walk.",
+   "source": {
+    "kind": "community-site",
+    "name": "Bridgeland-Riverside CA",
+    "url": "https://brcacalgary.org/"
+   },
+   "recurrence": {
+    "label": "every Tuesday",
+    "seriesId": "bridgeland-walking-group"
+   },
+   "firstSeen": "2026-11-26T07:03:05-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-26T07:30:17-07:00"
   },
   {
    "id": "web:brca-seniorgames-1202",
@@ -1212,11 +1156,11 @@
   {
    "id": "web:renfrew-alphahouse-0120",
    "title": "Community Conversation: Alpha House",
-   "start": "2027-01-20T00:00:00-07:00",
-   "allDay": true,
+   "start": "2027-01-20T19:00:00-07:00",
+   "allDay": false,
    "neighborhood": "renfrew",
    "category": "civic",
-   "description": "Connecting and engaging with vulnerable community members. Time to be confirmed.",
+   "description": "Community conversation on connecting with vulnerable community members. 7-9pm.",
    "source": {
     "kind": "community-site",
     "name": "Renfrew Community Association",
@@ -1225,25 +1169,8 @@
    "firstSeen": "2026-11-08T08:05:00-07:00",
    "status": "upcoming",
    "timezone": "America/Edmonton",
-   "lastSeen": "2026-11-08T07:30:11-07:00"
-  },
-  {
-   "id": "web:renfrew-packwalk-0121",
-   "title": "Pack Walk",
-   "start": "2027-01-21T00:00:00-07:00",
-   "allDay": true,
-   "neighborhood": "renfrew",
-   "category": "outdoors",
-   "description": "Neighbourhood dog walk from the Renfrew Community Association. Time to be confirmed.",
-   "source": {
-    "kind": "community-site",
-    "name": "Renfrew Community Association",
-    "url": "https://www.renfrewyyc.ca/events"
-   },
-   "firstSeen": "2026-11-08T08:05:00-07:00",
-   "status": "upcoming",
-   "timezone": "America/Edmonton",
-   "lastSeen": "2026-11-08T07:30:11-07:00"
+   "lastSeen": "2026-11-26T07:30:17-07:00",
+   "end": "2027-01-20T21:00:00-07:00"
   },
   {
    "id": "gc:5473",
@@ -1268,6 +1195,29 @@
    "firstSeen": "2026-11-21T07:05:00-07:00",
    "lastSeen": "2026-11-21T07:30:15-07:00",
    "status": "upcoming"
+  },
+  {
+   "id": "web:renfrew-packwalk-0121",
+   "title": "Pack Walk",
+   "start": "2027-01-21T18:30:00-07:00",
+   "allDay": false,
+   "neighborhood": "renfrew",
+   "category": "outdoors",
+   "description": "Neighbourhood dog walk from the Renfrew Community Association. 6:30-8:30pm.",
+   "source": {
+    "kind": "community-site",
+    "name": "Renfrew Community Association",
+    "url": "https://www.renfrewyyc.ca/events"
+   },
+   "firstSeen": "2026-11-08T08:05:00-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-26T07:30:17-07:00",
+   "end": "2027-01-21T20:30:00-07:00",
+   "venue": {
+    "name": "Renfrew Community Association front lawn",
+    "address": "8 Ave side, 811 Radford Rd NE, Calgary"
+   }
   },
   {
    "id": "web:renfrew-trivia-0122",
