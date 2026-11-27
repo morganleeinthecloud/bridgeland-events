@@ -1,14 +1,14 @@
 {
  "version": 1,
- "generatedAt": "2026-11-26T07:30:17-07:00",
- "scannedAt": "2026-11-26T07:30:17-07:00",
+ "generatedAt": "2026-11-27T07:30:17-07:00",
+ "scannedAt": "2026-11-27T07:30:17-07:00",
  "window": {
   "from": "2026-11-20",
   "to": "2027-01-29"
  },
  "counts": {
-  "total": 50,
-  "new": 2
+  "total": 51,
+  "new": 1
  },
  "events": [
   {
@@ -259,6 +259,29 @@
     "label": "last Tuesday monthly",
     "seriesId": "rca-board-meeting"
    }
+  },
+  {
+   "id": "web:brca-mustardseed-1125",
+   "title": "Mustard Seed warm clothing & essentials collection",
+   "start": "2026-11-25T10:00:00-07:00",
+   "end": "2026-12-11T16:00:00-07:00",
+   "allDay": true,
+   "neighborhood": "bridgeland",
+   "category": "civic",
+   "venue": {
+    "name": "Bridgeland-Riverside Community Association Hall",
+    "address": "917 Centre Ave NE"
+   },
+   "description": "Drop off warm clothing and essential items for the Mustard Seed at the BRCA hall south door, weekdays 10am-4pm, through Dec 11.",
+   "source": {
+    "kind": "community-site",
+    "name": "BRCA",
+    "url": "https://brcacalgary.org/"
+   },
+   "firstSeen": "2026-11-27T08:10:00-07:00",
+   "status": "upcoming",
+   "timezone": "America/Edmonton",
+   "lastSeen": "2026-11-27T07:30:17-07:00"
   },
   {
    "id": "fb:brcacalgary:seniors-qigong-1125",
